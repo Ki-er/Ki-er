@@ -1,5 +1,14 @@
 # Hi, I'm Kieran! 👋  <img src="https://komarev.com/ghpvc/?username=KieranRobson" alt="" align="center" />
 
+## 📚 Experience
+
+I'm not the greatest developer but I love managing projects and writing documentation to help everyone access code!
+
+### Key Notes ✍️
+
+- Bsc Computer Science
+- President of #HullCSS 2021/22
+- Course Represenative 2019/22
 
 
 ## 👀 Quick Statistics
