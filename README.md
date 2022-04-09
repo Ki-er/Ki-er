@@ -20,5 +20,5 @@ I'm not the greatest developer but I love managing projects and writing document
 
 ## 👀 Quick Statistics
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kieranrobson&theme=onedark&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kieranrobson&theme=onedark&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kieranrobson&theme=onedark)
 > Provided by [`GitHub Readme Stats`]
