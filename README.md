@@ -24,8 +24,7 @@ I'm not the greatest developer but I love managing projects and writing document
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kieranrobson&count_private=true&theme=tokyonight&showicons=true)]()
-" />
+      <img align="center" style="padding=0;" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieranrobson)](https://github.com/anuraghazra/github-readme-stats)" />
     </td>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KieranRobson)](https://github.com/anuraghazra/github-readme-stats)" />
