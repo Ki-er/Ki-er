@@ -10,6 +10,9 @@
 
 ## 📚 Experience
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieranrobson)](https://github.com/anuraghazra/github-readme-stats)
+
+
 I'm not the greatest developer but I love managing projects and writing documentation to help everyone access code!
 
 ### Key Notes ✍️
