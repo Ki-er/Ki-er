@@ -9,10 +9,6 @@
 </div>
 
 ## 📚 Experience
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieranrobson)](https://github.com/anuraghazra/github-readme-stats)
-
-
 I'm not the greatest developer but I love managing projects and writing documentation to help everyone access code!
 
 ### Key Notes ✍️
@@ -23,16 +19,6 @@ I'm not the greatest developer but I love managing projects and writing document
 
 
 ## 👀 Quick Statistics
-
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieranrobson)](https://github.com/anuraghazra/github-readme-stats)" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KieranRobson)](https://github.com/anuraghazra/github-readme-stats)" />
-    </td>
-  </tr>
-</table>
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kieranrobson&theme=highcontrast&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kieranrobson&theme=highcontrast&show_icons=true&count_private=true)
 > Provided by [`GitHub Readme Stats`]
