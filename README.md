@@ -12,6 +12,9 @@
 - [KieranRobson/KieranRobson.com](https://github.com/KieranRobson/KieranRobson.com) - My Personal Website
 - [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - Discord Bot for The Innercube Discord Server
 
+### 📚 Check out my most recent posts:
+
+
 ### 🎓 While at University I have taken extra-curricular activities alongside my studies: 
 - Retail staff for [HullUniversity Students Union](https://Hulluniunion.com)
 - President 21/22 and Social Secretary 20/21 for [Hull Computer Science Society](https://hullcss.org/)
