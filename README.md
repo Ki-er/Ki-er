@@ -18,7 +18,7 @@
 - Library Volunteer at the Brynmor Jones Library
 - [Course Representative](https://hulluniunion.com/change-things/academic-reps?s=bar) for Computer Science
 - Fundraiser for [Hull RAG](https://www.facebook.com/hulluniRAG/)
-- Student Ambassador for The [University of Hull](https://hull.ac.uk)
+- Student Ambassador for [The University of Hull](https://hull.ac.uk)
 
 ### 👑 Awards and Certifcations
 - Partipitant of [Hull Employability Award](https://hullawards.hull.ac.uk/)
