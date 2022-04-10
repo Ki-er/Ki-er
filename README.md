@@ -19,6 +19,5 @@ I'm not the greatest developer but I love managing projects and writing document
 
 
 ## 👀 Quick Statistics
-![](https://raw.githubusercontent.com/KieranRobson/ghstats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/KieranRobson/ghstats/master/generated/languages.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieanrobson&count_private=true)
 > Provided by [`GitHub Readme Stats`]
