@@ -8,17 +8,18 @@
   </a>
 </div>
 
-## 📚 Experience
-I'm not the greatest developer but I love managing projects and writing documentation to help everyone access code!
+### 👷 Check out what I'm currently working on:
+- [KieranRobson/KieranRobson.com](https://github.com/KieranRobson/KieranRobson.com) - My Personal Website
+- [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - Discord Bot for The Innercube Discord Server
 
-### Key Notes ✍️
+### 🎓 While at University I have taken extra-curricular activities alongside my studies: 
+- Retail staff for [HullUniversity Students Union](https://Hulluniunion.com)
+- President 21/22 and Social Secretary 20/21 for [Hull Computer Science Society](https://hullcss.org/)
+- Library Volunteer at the Brynmor Jones Library
+- [Course Representative](https://hulluniunion.com/change-things/academic-reps?s=bar) for Computer Science
+- Fundraiser for [Hull RAG](https://www.facebook.com/hulluniRAG/)
+- Student Ambassador for The [University of Hull](https://hull.ac.uk)
 
-- Bsc Computer Science
-- President of #HullCSS 2021/22
-- Course Represenative 2019/22
+### 👑 Awards and Certifcations
+- Partipitant of [Hull Employability Award](https://hullawards.hull.ac.uk/)
 
-
-## 👀 Quick Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieranrobson&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KieranRobson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-> Provided by [`GitHub Readme Stats`]
