@@ -19,5 +19,5 @@ I'm not the greatest developer but I love managing projects and writing document
 
 
 ## 👀 Quick Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieanrobson&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieranrobson&count_private=true)
 > Provided by [`GitHub Readme Stats`]
