@@ -21,20 +21,4 @@
 5. 💪 Opened PR [#39](https://github.com/tobiasbueschel/awesome-pokemon/pull/39) in [tobiasbueschel/awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon)
 <!--END_SECTION:activity-->
 
-
-
-
 ### 📚 Check out my most recent posts:
-
-
-### 🎓 While at University I have taken extra-curricular activities alongside my studies: 
-- Retail staff for [HullUniversity Students Union](https://Hulluniunion.com)
-- President 21/22 and Social Secretary 20/21 for [Hull Computer Science Society](https://hullcss.org/)
-- Library Volunteer at the Brynmor Jones Library
-- [Course Representative](https://hulluniunion.com/change-things/academic-reps?s=bar) for Computer Science
-- Fundraiser for [Hull RAG](https://www.facebook.com/hulluniRAG/)
-- Student Ambassador for [The University of Hull](https://hull.ac.uk)
-
-### 👑 Awards and Certifcations
-- Partipitant of [Hull Employability Award](https://hullawards.hull.ac.uk/)
-
