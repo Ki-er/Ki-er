@@ -12,6 +12,12 @@
 - [KieranRobson/KieranRobson.com](https://github.com/KieranRobson/KieranRobson.com) - My Personal Website
 - [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - Discord Bot for The Innercube Discord Server
 
+### ⚡ Recent Activity:
+<!--START_SECTION:activity-->
+
+
+
+
 ### 📚 Check out my most recent posts:
 
 
