@@ -1,30 +1,17 @@
-
 name: Update README
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: Readme-Workflows/recent-activity@main
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          CONFIG_FILE: "./.github/update-readme.config.yml"
-
-      - uses: actions-js/profile-readme@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: kieranrobson
-          template: "TEMPLATE.md"
-
-      - uses: actions-js/push@v1.3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: "master"
