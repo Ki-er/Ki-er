@@ -1,4 +1,7 @@
 # Hi, I'm Kieran! 👋  <img src="https://komarev.com/ghpvc/?username=KieranRobson" alt="" align="center" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/360860744977350657)](https://discord.com/users/360860744977350657)
+
+
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
