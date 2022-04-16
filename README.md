@@ -4,6 +4,9 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/360860744977350657)](https://discord.com/users/360860744977350657)
 
+### ⚡ Where To Find Me:
+Discord: [Kieran#0981](https://discord.com/users/360860744977350657)
+
 
 
 ### ⚡ Recent Activity:
@@ -14,3 +17,5 @@
 4. 💪 Opened PR [#439](https://github.com/Awesome-Windows/Awesome/pull/439) in [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
 5. ❌ Closed PR [#4044](https://github.com/rishabh-bansal/GitStart/pull/4044) in [rishabh-bansal/GitStart](https://github.com/rishabh-bansal/GitStart)
 <!--END_SECTION:activity-->
+
+
