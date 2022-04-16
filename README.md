@@ -4,10 +4,10 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/360860744977350657)](https://discord.com/users/360860744977350657)
 
-### ⚡ Where To Find Me:
-Discord: [Kieran#0981](https://discord.com/users/360860744977350657)
-
-
+### 👀 Where To Find Me:
+Discord: [`Kieran#0981`](https://discord.com/users/360860744977350657)
+Email: [`Kieran@Kieranrobson.com`]
+Twitter: [`@Kieranr27`](https://twitter.com/Kieranr27)
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
