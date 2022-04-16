@@ -4,6 +4,10 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/360860744977350657)](https://discord.com/users/360860744977350657)
 
+I'm a Bsc Computer Science Graduate and will be going into a Msc Business and Management in September.
+
+
+
 # 👀 Where To Find Me:
 - Discord: [`Kieran#0981`](https://discord.com/users/360860744977350657)
 - Email: Kieran@Kieranrobson.com
