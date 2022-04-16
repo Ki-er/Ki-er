@@ -4,9 +4,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/360860744977350657)](https://discord.com/users/360860744977350657)
 
-I'm a Bsc Computer Science Graduate and will be going into a Msc Business and Management in September.
-
-
+I'm a Bsc Computer Science Graduate and will be going into a Msc Business and Management in September with a small interest in software development and a big interest in management and [awesome lists](https://github.com/sindresorhus/awesome).
 
 # 👀 Where To Find Me:
 - Discord: [`Kieran#0981`](https://discord.com/users/360860744977350657)
