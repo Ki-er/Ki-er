@@ -4,14 +4,12 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/360860744977350657)](https://discord.com/users/360860744977350657)
 
-### 👀 Where To Find Me:
-Discord: [`Kieran#0981`](https://discord.com/users/360860744977350657)
+# 👀 Where To Find Me:
+- Discord: [`Kieran#0981`](https://discord.com/users/360860744977350657)
+- Email: Kieran@Kieranrobson.com
+- Twitter: [`@Kieranr27`](https://twitter.com/Kieranr27)
 
-Email: Kieran@Kieranrobson.com
-
-Twitter: [`@Kieranr27`](https://twitter.com/Kieranr27)
-
-### ⚡ Recent Activity:
+# ⚡ Recent Activity and Overall Stats:
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#100](https://github.com/jyguyomarch/awesome-productivity/pull/100) in [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
 2. 💪 Opened PR [#1](https://github.com/eivindml/awesome-productivity/pull/1) in [eivindml/awesome-productivity](https://github.com/eivindml/awesome-productivity)
