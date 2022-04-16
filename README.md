@@ -1,4 +1,6 @@
-# Hi, I'm Kieran! 👋  <img src="https://komarev.com/ghpvc/?username=KieranRobson" alt="" align="center" />
+# Hi, I'm Kieran! 👋  
+[![Discord](https://img.shields.io/discord/819106797028769844?label=Discord&logo=DISCORD&style=flat-square)](https://https://discord.gg/Xtemc2xxn8)
+<img src="https://komarev.com/ghpvc/?username=KieranRobson" alt="" align="center" />
 [![Discord Presence](https://lanyard.cnrad.dev/api/360860744977350657)](https://discord.com/users/360860744977350657)
 
 
