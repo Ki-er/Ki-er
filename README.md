@@ -18,11 +18,11 @@ and many public and private repositories that can be found [here](https://github
 
 # ⚡ Recent Activity and Overall Stats:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#204](https://github.com/0x192/universal-android-debloater/issues/204) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
-2. 💪 Opened PR [#100](https://github.com/jyguyomarch/awesome-productivity/pull/100) in [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
-3. 💪 Opened PR [#1](https://github.com/eivindml/awesome-productivity/pull/1) in [eivindml/awesome-productivity](https://github.com/eivindml/awesome-productivity)
-4. 💪 Opened PR [#6](https://github.com/areknawo/awesome-productivity-software/pull/6) in [areknawo/awesome-productivity-software](https://github.com/areknawo/awesome-productivity-software)
-5. 💪 Opened PR [#439](https://github.com/Awesome-Windows/Awesome/pull/439) in [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
+1. ❗️ Opened issue [#205](https://github.com/0x192/universal-android-debloater/issues/205) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
+2. ❗️ Opened issue [#204](https://github.com/0x192/universal-android-debloater/issues/204) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
+3. 💪 Opened PR [#100](https://github.com/jyguyomarch/awesome-productivity/pull/100) in [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
+4. 💪 Opened PR [#1](https://github.com/eivindml/awesome-productivity/pull/1) in [eivindml/awesome-productivity](https://github.com/eivindml/awesome-productivity)
+5. 💪 Opened PR [#6](https://github.com/areknawo/awesome-productivity-software/pull/6) in [areknawo/awesome-productivity-software](https://github.com/areknawo/awesome-productivity-software)
 <!--END_SECTION:activity-->
 
 
