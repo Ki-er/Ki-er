@@ -2,9 +2,14 @@
 [![Discord](https://img.shields.io/discord/744586833135927366?label=Discord&logo=DISCORD&style=flat-square)](https://discord.com/invite/Xtemc2xxn8)
 <img src="https://komarev.com/ghpvc/?username=KieranRobson"/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/360860744977350657)](https://discord.com/users/360860744977350657)
+I'm a Bsc computer science student and president of [HullCSS](https://hullcss.org) and will be going into a Msc Business and Management in September with a small interest in software development and a big interest in management and [awesome lists](https://github.com/sindresorhus/awesome).
 
-I'm a Bsc Computer Science Graduate and will be going into a Msc Business and Management in September with a small interest in software development and a big interest in management and [awesome lists](https://github.com/sindresorhus/awesome).
+# 👷 Projects
+- [https://github.com/KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A miltipurpose bot for the Innercube Discord server
+- [https://github.com/hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - A multipurpose bot for the HullCSS Discord server
+- [https://github.com/KieranRobson/KieranRobson.com](https://github.com/KieranRobson/KieranRobson.com) - My personal website
+
+and many public and private repositories that can be found [here](https://github.com/KieranRobson?tab=repositories).
 
 # 👀 Where To Find Me:
 - Discord: [`Kieran#0981`](https://discord.com/users/360860744977350657)
