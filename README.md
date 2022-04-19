@@ -19,11 +19,11 @@ and many public and private repositories that can be found [here](https://github
 
 # ⚡ Recent Activity and Overall Stats:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#205](https://github.com/0x192/universal-android-debloater/issues/205) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
-2. 🗣 Commented on [#204](https://github.com/0x192/universal-android-debloater/issues/204) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
-3. ❗️ Opened issue [#205](https://github.com/0x192/universal-android-debloater/issues/205) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
-4. ❗️ Opened issue [#204](https://github.com/0x192/universal-android-debloater/issues/204) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
-5. 💪 Opened PR [#100](https://github.com/jyguyomarch/awesome-productivity/pull/100) in [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
+1. 💪 Opened PR [#6](https://github.com/danbovey/awesome-home-media-center/pull/6) in [danbovey/awesome-home-media-center](https://github.com/danbovey/awesome-home-media-center)
+2. 💪 Opened PR [#5](https://github.com/danbovey/awesome-home-media-center/pull/5) in [danbovey/awesome-home-media-center](https://github.com/danbovey/awesome-home-media-center)
+3. 🗣 Commented on [#205](https://github.com/0x192/universal-android-debloater/issues/205) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
+4. 🗣 Commented on [#204](https://github.com/0x192/universal-android-debloater/issues/204) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
+5. ❗️ Opened issue [#205](https://github.com/0x192/universal-android-debloater/issues/205) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
 <!--END_SECTION:activity-->
 
 
