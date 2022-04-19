@@ -5,10 +5,10 @@
 I'm a Bsc computer science student and president of [HullCSS](https://hullcss.org) and will be going into a Msc Business and Management in September with a small interest in software development and a big interest in management and [awesome lists](https://github.com/sindresorhus/awesome).
 
 # 👷 Projects
-- [https://github.com/KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A miltipurpose bot for the Innercube Discord server
-- [https://github.com/hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - A multipurpose bot for the HullCSS Discord server
-- [https://github.com/KieranRobson/awesome-discord](https://github.com/KieranRobson/awesome-discord) - A curated list of awesome discord tools
-- [https://github.com/KieranRobson/KieranRobson.com](https://github.com/KieranRobson/KieranRobson.com) - My personal website
+- [Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A miltipurpose bot for the Innercube Discord server
+- [hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - A multipurpose bot for the HullCSS Discord server
+- [awesome-discord-tools](https://github.com/KieranRobson/awesome-discord-tools) - A curated list of awesome discord tools
+- [KieranRobson.com](https://github.com/KieranRobson/KieranRobson.com) - My personal website
 
 and many public and private repositories that can be found [here](https://github.com/KieranRobson?tab=repositories).
 
