@@ -7,7 +7,7 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 # 👷 Projects
 - [https://github.com/KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A miltipurpose bot for the Innercube Discord server
 - [https://github.com/hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - A multipurpose bot for the HullCSS Discord server
-- https://github.com/KieranRobson/awesome-discord(https://github.com/KieranRobson/awesome-discord) - A curated list of awesome discord tools
+- [https://github.com/KieranRobson/awesome-discord](https://github.com/KieranRobson/awesome-discord) - A curated list of awesome discord tools
 - [https://github.com/KieranRobson/KieranRobson.com](https://github.com/KieranRobson/KieranRobson.com) - My personal website
 
 and many public and private repositories that can be found [here](https://github.com/KieranRobson?tab=repositories).
