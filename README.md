@@ -11,6 +11,7 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 ### Lists
 - [awesome-discord-tools](https://github.com/KieranRobson/awesome-discord-tools) - A curated list of awesome discord tools
 - [awesome-home-media](https://github.com/KieranRobson/awesome-home-media) - A curated list of home media tools
+- [awesome-rainbow-six](https://github.com/KieranRobson/awesome-home-media) - A curated list of rainbow six tools
 
 and many public and private repositories that can be found [here](https://github.com/KieranRobson?tab=repositories).
 
