@@ -11,8 +11,10 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 - [KieranRobson.com](https://github.com/KieranRobson/KieranRobson.com) - My personal website
 ### Lists
 - [awesome-discord-tools](https://github.com/KieranRobson/awesome-discord-tools) - A curated list of awesome discord tools
-- [awesome-home-media](https://github.com/KieranRobson/awesome-home-media) - A curated list of home media tools
-- [awesome-rainbow-six](https://github.com/KieranRobson/awesome-rainbow-six) - A curated list of rainbow six tools
+- [awesome-home-media](https://github.com/KieranRobson/awesome-home-media) - A curated list of awesome home media tools
+- [awesome-rainbow-six](https://github.com/KieranRobson/awesome-rainbow-six) - A curated list of awesome rainbow six tools
+- [awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - A curated list of awesome Pokémon & Pokémon Go tools (**Contributed**)
+- [StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (**Contributed**)
 
 and many public and private repositories that can be found [here](https://github.com/KieranRobson?tab=repositories).
 
