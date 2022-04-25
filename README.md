@@ -36,11 +36,11 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 
 # ⚡ Recent Activity and Overall Stats:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/danbovey/awesome-home-media-center/pull/6) in [danbovey/awesome-home-media-center](https://github.com/danbovey/awesome-home-media-center)
-2. 💪 Opened PR [#5](https://github.com/danbovey/awesome-home-media-center/pull/5) in [danbovey/awesome-home-media-center](https://github.com/danbovey/awesome-home-media-center)
-3. 🗣 Commented on [#205](https://github.com/0x192/universal-android-debloater/issues/205) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
-4. 🗣 Commented on [#204](https://github.com/0x192/universal-android-debloater/issues/204) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
-5. ❗️ Opened issue [#205](https://github.com/0x192/universal-android-debloater/issues/205) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
+1. 💪 Opened PR [#9](https://github.com/jthegedus/awesome-list-template/pull/9) in [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template)
+2. 💪 Opened PR [#6](https://github.com/danbovey/awesome-home-media-center/pull/6) in [danbovey/awesome-home-media-center](https://github.com/danbovey/awesome-home-media-center)
+3. 💪 Opened PR [#5](https://github.com/danbovey/awesome-home-media-center/pull/5) in [danbovey/awesome-home-media-center](https://github.com/danbovey/awesome-home-media-center)
+4. 🗣 Commented on [#205](https://github.com/0x192/universal-android-debloater/issues/205) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
+5. 🗣 Commented on [#204](https://github.com/0x192/universal-android-debloater/issues/204) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
 <!--END_SECTION:activity-->
 
 
