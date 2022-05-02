@@ -36,11 +36,11 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 
 # ⚡ Recent Activity and Overall Stats:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/arivera12/BlazorDownloadFile/issues/38) in [arivera12/BlazorDownloadFile](https://github.com/arivera12/BlazorDownloadFile)
-2. ❗️ Opened issue [#38](https://github.com/arivera12/BlazorDownloadFile/issues/38) in [arivera12/BlazorDownloadFile](https://github.com/arivera12/BlazorDownloadFile)
-3. 🗣 Commented on [#2242](https://github.com/sindresorhus/awesome/issues/2242) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-4. 💪 Opened PR [#9](https://github.com/jthegedus/awesome-list-template/pull/9) in [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template)
-5. 🗣 Commented on [#204](https://github.com/0x192/universal-android-debloater/issues/204) in [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
+1. 💪 Opened PR [#2252](https://github.com/sindresorhus/awesome/pull/2252) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+2. 🗣 Commented on [#38](https://github.com/arivera12/BlazorDownloadFile/issues/38) in [arivera12/BlazorDownloadFile](https://github.com/arivera12/BlazorDownloadFile)
+3. ❗️ Opened issue [#38](https://github.com/arivera12/BlazorDownloadFile/issues/38) in [arivera12/BlazorDownloadFile](https://github.com/arivera12/BlazorDownloadFile)
+4. 🗣 Commented on [#2242](https://github.com/sindresorhus/awesome/issues/2242) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+5. 💪 Opened PR [#9](https://github.com/jthegedus/awesome-list-template/pull/9) in [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template)
 <!--END_SECTION:activity-->
 
 
