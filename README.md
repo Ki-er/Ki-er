@@ -23,7 +23,9 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 * [awesome-sharing](https://github.com/KieranRobson/awesome-sharing) - A curated list of awesome link sharing services
 
 #### Contributed
+* [awesme](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics (**Contributed**)
 * [awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - A curated list of awesome Pokémon & Pokémon Go tools (**Contributed**)
+* [awesome-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to (**Contributed**)
 * [StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (**Contributed**)
 </details>
 
