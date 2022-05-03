@@ -38,11 +38,11 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 
 # ⚡ Recent Activity and Overall Stats:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2242](https://github.com/sindresorhus/awesome/issues/2242) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-2. 💪 Opened PR [#82](https://github.com/ayr-ton/awesome-geek-podcasts/pull/82) in [ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts)
-3. 💪 Opened PR [#2252](https://github.com/sindresorhus/awesome/pull/2252) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-4. 🗣 Commented on [#38](https://github.com/arivera12/BlazorDownloadFile/issues/38) in [arivera12/BlazorDownloadFile](https://github.com/arivera12/BlazorDownloadFile)
-5. ❗️ Opened issue [#38](https://github.com/arivera12/BlazorDownloadFile/issues/38) in [arivera12/BlazorDownloadFile](https://github.com/arivera12/BlazorDownloadFile)
+1. 💪 Opened PR [#49](https://github.com/johnjago/awesome-free-software/pull/49) in [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
+2. 🗣 Commented on [#2242](https://github.com/sindresorhus/awesome/issues/2242) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+3. 💪 Opened PR [#82](https://github.com/ayr-ton/awesome-geek-podcasts/pull/82) in [ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts)
+4. 💪 Opened PR [#2252](https://github.com/sindresorhus/awesome/pull/2252) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+5. 🗣 Commented on [#38](https://github.com/arivera12/BlazorDownloadFile/issues/38) in [arivera12/BlazorDownloadFile](https://github.com/arivera12/BlazorDownloadFile)
 <!--END_SECTION:activity-->
 
 
