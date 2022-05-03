@@ -45,4 +45,4 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 5. 💪 Opened PR [#2252](https://github.com/sindresorhus/awesome/pull/2252) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 <!--END_SECTION:activity-->
 
-
+![](https://github.com/KieranRobson/KieranRobson/raw/output/github-contribution-grid-snake.svg)
