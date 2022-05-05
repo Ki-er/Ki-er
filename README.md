@@ -46,11 +46,11 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 
 # ⚡ Recent Activity and Overall Stats:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/tobiasbueschel/awesome-pokemon/pull/41) in [tobiasbueschel/awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon)
-2. 💪 Opened PR [#49](https://github.com/johnjago/awesome-free-software/pull/49) in [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
-3. 🗣 Commented on [#2242](https://github.com/sindresorhus/awesome/issues/2242) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-4. 💪 Opened PR [#82](https://github.com/ayr-ton/awesome-geek-podcasts/pull/82) in [ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts)
-5. 💪 Opened PR [#2252](https://github.com/sindresorhus/awesome/pull/2252) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+1. 🗣 Commented on [#1](https://github.com/KieranRobson/awesome-discord-tools/issues/1) in [KieranRobson/awesome-discord-tools](https://github.com/KieranRobson/awesome-discord-tools)
+2. 🎉 Merged PR [#1](https://github.com/KieranRobson/awesome-discord-tools/pull/1) in [KieranRobson/awesome-discord-tools](https://github.com/KieranRobson/awesome-discord-tools)
+3. 🗣 Commented on [#1](https://github.com/KieranRobson/awesome-discord-tools/issues/1) in [KieranRobson/awesome-discord-tools](https://github.com/KieranRobson/awesome-discord-tools)
+4. 💪 Opened PR [#41](https://github.com/tobiasbueschel/awesome-pokemon/pull/41) in [tobiasbueschel/awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon)
+5. 💪 Opened PR [#49](https://github.com/johnjago/awesome-free-software/pull/49) in [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/KieranRobson/KieranRobson/raw/output/github-contribution-grid-snake.svg)
