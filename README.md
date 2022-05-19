@@ -44,13 +44,4 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 - Email: Kieran@Kieranrobson.com
 - Twitter: [`@Kieranr27`](https://twitter.com/Kieranr27)
 
-# ⚡ Recent Activity and Overall Stats:
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/nicolesaidy/awesome-web-design/issues/31) in [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design)
-2. 🗣 Commented on [#33](https://github.com/nicolesaidy/awesome-web-design/issues/33) in [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design)
-3. 🗣 Commented on [#1](https://github.com/KieranRobson/awesome-discord-tools/issues/1) in [KieranRobson/awesome-discord-tools](https://github.com/KieranRobson/awesome-discord-tools)
-4. 🎉 Merged PR [#1](https://github.com/KieranRobson/awesome-discord-tools/pull/1) in [KieranRobson/awesome-discord-tools](https://github.com/KieranRobson/awesome-discord-tools)
-5. 🗣 Commented on [#1](https://github.com/KieranRobson/awesome-discord-tools/issues/1) in [KieranRobson/awesome-discord-tools](https://github.com/KieranRobson/awesome-discord-tools)
-<!--END_SECTION:activity-->
-
 ![](https://github.com/KieranRobson/KieranRobson/raw/output/github-contribution-grid-snake.svg)
