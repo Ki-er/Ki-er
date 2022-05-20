@@ -308,7 +308,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meisnate12/Plex-Meta-Manager-Configs</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Config files for Plex Meta Manager</div>
@@ -349,7 +349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meisnate12/Plex-Meta-Manager</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.</div>
@@ -455,7 +455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>techno-tim/littlelink-server</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight, open source, and self-hosted alternative to linktree in a Docker container!</div>
@@ -1114,7 +1114,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 May 2022, 17:01:37 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 20 May 2022, 18:05:49 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
