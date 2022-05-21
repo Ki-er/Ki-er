@@ -308,7 +308,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meisnate12/Plex-Meta-Manager-Configs</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Config files for Plex Meta Manager</div>
@@ -1056,7 +1056,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.07m out of 307m repositories</span>
+                                    <span class="gh">ranked 4.07m out of 308m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1108,7 +1108,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 May 2022, 07:01:29 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 21 May 2022, 08:01:18 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
