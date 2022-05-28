@@ -18,6 +18,8 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 
 ### Recent Documentation List
 <!-- BLOG-POST-LIST:START -->
+- [How to install Docker and Docker Compose](/posts/how-to-install-docker/)
+- [How to install Portainer](/posts/how-to-install-portainer/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://github.com/KieranRobson/KieranRobson/raw/output/github-contribution-grid-snake.svg)
