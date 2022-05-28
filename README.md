@@ -15,4 +15,7 @@
 I'm a Bsc computer science student and president of [HullCSS](https://hullcss.org) and will be going into a Msc Business and Management in September with a small interest in software development and a big interest in management and [awesome lists](https://github.com/sindresorhus/awesome).
 
 ![Metrics](/github-metrics.svg)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![](https://github.com/KieranRobson/KieranRobson/raw/output/github-contribution-grid-snake.svg)
