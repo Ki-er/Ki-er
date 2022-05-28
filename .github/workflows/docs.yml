@@ -14,4 +14,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "http://51.68.213.196:2001/feed.xml"
+          feed_list: "https://docs.kieranrobson.com/feed.xml"
