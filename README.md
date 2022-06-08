@@ -10,7 +10,8 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 
 ### Recent Documentation List
 <!-- BLOG-POST-LIST:START -->
-- [How to install NGINX proxy manager and Cloudlfare](https://docs.kieranrobson.com//posts/how-to-setup-nginx-proxy-manager-and-cloudflare/)
+- [How to install Uptime Kuma](https://docs.kieranrobson.com//posts/how-to-setup-uptime-kuma/)
+- [How to install NGINX proxy manager and Cloudlfare](https://docs.kieranrobson.com//posts/how-to-setup-nginx-proxy-manager-and-cloudflare-copy/)
 - [How to install Docker and Docker Compose](https://docs.kieranrobson.com//posts/how-to-install-docker/)
 - [How to install Portainer](https://docs.kieranrobson.com//posts/how-to-install-portainer/)
 <!-- BLOG-POST-LIST:END -->
