@@ -15,8 +15,7 @@ I'm a Bsc computer science student and former president of [HullCSS](https://hul
 
 <!-- Recent Activity  -->
 <details>
-  <summary><b>⚡ Recent Activity </b></summary>
-    <p>
+<summary><b>⚡ Recent Activity </b></summary>
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#4267](https://github.com/avelino/awesome-go/pull/4267) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 2. 💪 Opened PR [#4263](https://github.com/avelino/awesome-go/pull/4263) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
