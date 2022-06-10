@@ -26,7 +26,6 @@ jobs:
           plugin_activity_days: 14
           plugin_activity_filter: public
           plugin_activity_limit: 5
-          plugin_isocalendar: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -39,11 +38,6 @@ jobs:
           plugin_projects_descriptions: yes                           # Display projects descriptions
           plugin_followup: yes
           plugin_followup_sections: repositories, user #
-          plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 30        # Keep only events from last 14 days
-          plugin_habits_facts: yes      # Display facts section
-          plugin_habits_charts: yes     # Display charts section
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
