@@ -15,12 +15,12 @@ I'm a Bsc computer science student and former president of [HullCSS](https://hul
 
 <!-- Recent Activity  -->
 <details>
-  <summary><b>📰 Recent Activity </b></summary>
+  <summary><b>⚡ Recent Activity </b></summary>
     <p>
 <!--START_SECTION:activity-->
         
 <!--END_SECTION:activity-->
-
+</details>
         
 
 <!-- Recent Documentation List -->
