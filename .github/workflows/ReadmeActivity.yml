@@ -1,19 +1,28 @@
-name: Update README
-
+name: 👩‍💻 Inserts Recent Activity
 on:
   schedule:
-    - cron: "*/5 * * * *" # Runs every 5 minutes.
-
+    - cron: '0 * * * *' # Run every hour
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Adds activity to readme
+        uses: lissy93/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: ':zap: Updates recent activity'
         with:
-          COMMIT_MSG: "Updated README with recent activity"
           MAX_LINES: 10
+      - name: Adds activity to file
+        uses: lissy93/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: ':zap: Updates recent activity'
+        with:
+          MAX_LINES: 100
+          TARGET_FILE: './RECENT-ACTIVITY.md'
