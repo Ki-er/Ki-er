@@ -28,6 +28,9 @@ I'm a Bsc computer science student and former president of [HullCSS](https://hul
 9. 🗣 Commented on [#49](https://github.com/johnjago/awesome-free-software/issues/49) in [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
 10. 💪 Opened PR [#1](https://github.com/hullcss/hullcss-site-jet/pull/1) in [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet)
 <!--END_SECTION:activity-->
+ 
+ More activity can be found [here](https://github.com/KieranRobson/KieranRobson/blob/main/RECENT-ACTIVITY.md)
+    
 </details>
         
 
