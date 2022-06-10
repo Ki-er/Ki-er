@@ -1,3 +1,4 @@
+
 # Hi, I'm Kieran! 👋  
 <p> 
     <img src="https://komarev.com/ghpvc/?username=KieranRobson" alt="KieranRobson"/>       
@@ -12,12 +13,21 @@ I'm a Bsc computer science student and former president of [HullCSS](https://hul
 ![Metrics](https://github.com/KieranRobson/KieranRobson/blob/main/github-metrics.svg)
 </details>
 
+<!-- Recent Activity  -->
+<details>
+  <summary><b>📰 Recent Activity </b></summary>
+    <p>
+<!--START_SECTION:activity-->
+        
+<!--END_SECTION:activity-->
+
+        
 
 <!-- Recent Documentation List -->
 <details>
   <summary><b>📰 Recent Documentation List</b></summary>
     <p>
-  
+        
 <!-- BLOG-POST-LIST:START -->
 - [How to install Uptime Kuma](https://docs.kieranrobson.com//posts/how-to-setup-uptime-kuma/)
 - [How to install NGINX proxy manager and Cloudlfare](https://docs.kieranrobson.com//posts/how-to-setup-nginx-proxy-manager-and-cloudflare-copy/)
