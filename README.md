@@ -30,10 +30,9 @@ I'm a Bsc computer science student and former president of [HullCSS](https://hul
 8. 💪 Opened PR [#4267](https://github.com/avelino/awesome-go/pull/4267) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 9. 💪 Opened PR [#4263](https://github.com/avelino/awesome-go/pull/4263) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 10. 🗣 Commented on [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-11. ❌ Closed PR [#9](https://github.com/jthegedus/awesome-list-template/pull/9) in [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template)
 <!--END_SECTION:activity-->
 
-
+More Activity [Here](https://github.com/KieranRobson/KieranRobson/blob/main/RECENT-ACTIVITY.md)
 </details>
 
 <!-- Recent Documentation List -->
