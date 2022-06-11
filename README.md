@@ -11,7 +11,9 @@ I'm a Bsc computer science student and former president of [HullCSS](https://hul
 <!-- Stats -->
 <details>
 <summary><b>📈 Stats</b></summary>
-<img src="https:/github.com/KieranRobson/KieranRobson/blob/main/github-metrics.svg">
+
+![Metrics](/github-metrics.svg) 
+
 </details>
 
         
