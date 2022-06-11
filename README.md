@@ -31,6 +31,6 @@ I'm a Bsc computer science student and former president of [HullCSS](https://hul
 </p>
 </details>
 
-📈 [Recent Activity]((https://github.com/KieranRobson/KieranRobson/blob/main/RECENT-ACTIVITY.md))
+📈 [Recent Activity](https://github.com/KieranRobson/KieranRobson/blob/main/RECENT-ACTIVITY.md)
 
 ⭐ [Stars](https://github.com/KieranRobson/KieranRobson/blob/main/STARRED-REPOS.md)
