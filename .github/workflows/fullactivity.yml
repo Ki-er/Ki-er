@@ -1,0 +1,28 @@
+name: 👩‍💻 Inserts Full Activity
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  push: {branches: ["master", "main"]}
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update activity file
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Adds recent activity to file
+        uses: actions-js/profile-readme@master
+        with:
+          username: kieranrobson
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          readme: './RECENT-ACTIVITY.md'
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: ':zap: Updates long activity'
+          branch: master
+          repository: Lissy93/Lissy93
