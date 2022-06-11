@@ -1,8 +1,9 @@
 
 # Hi, I'm Kieran! 👋  
-<p> 
+
+<p>
     <img src="https://komarev.com/ghpvc/?username=KieranRobson" alt="KieranRobson"/>       
-</p> 
+</p>
 
 I'm a Bsc computer science student and former president of [HullCSS](https://hullcss.org) and will be going into a Msc Business and Management in September with a small interest in software development and a big interest in management and [awesome lists](https://github.com/sindresorhus/awesome)
 
@@ -10,7 +11,7 @@ I'm a Bsc computer science student and former president of [HullCSS](https://hul
 <!-- Stats -->
 <details>
 <summary><b>📈 Stats</b></summary>
-![Metrics](https://github.com/KieranRobson/KieranRobson/blob/main/github-metrics.svg)
+<img src="https:/github.com/KieranRobson/KieranRobson/blob/main/github-metrics.svg">
 </details>
 
 <!-- Recent Activity  -->
