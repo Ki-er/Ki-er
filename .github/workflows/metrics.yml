@@ -12,6 +12,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # filename
+          filename: ./assets/metrics.plugin.activity.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
