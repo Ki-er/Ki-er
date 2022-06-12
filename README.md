@@ -11,7 +11,7 @@ I'm a Bsc computer science student and former president of [HullCSS](https://hul
 <details>
 <summary><b>📈 Stats</b></summary>
 
-![Metrics](Assets/metrics.plugin.activity.svg) 
+![Metrics](assets/metrics.plugin.activity.svg) 
 
 </details>
 
