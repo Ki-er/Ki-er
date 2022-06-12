@@ -3,8 +3,6 @@ name: 📈 Generate Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  push: {branches: ["master", "main"]}
   workflow_dispatch:
 jobs:
   github-metrics:
