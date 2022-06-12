@@ -23,7 +23,7 @@ jobs:
         with:
           github-user: ${{ github.actor }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          list-file: "STARRED-REPOS.md"
+          list-file: "pages/STARRED-REPOS.md"
 
       # Commit the changes
       - name: Commit files
