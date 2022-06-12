@@ -25,4 +25,4 @@ jobs:
           COMMIT_MSG: ':zap: Updates recent activity'
         with:
           MAX_LINES: 100
-          TARGET_FILE: './RECENT-ACTIVITY.md'
+          TARGET_FILE: 'assets/RECENT-ACTIVITY.md'
