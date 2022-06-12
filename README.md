@@ -7,15 +7,16 @@
 
 I'm a Bsc computer science student and former president of [HullCSS](https://hullcss.org) and will be going into a Msc Business and Management in September with a small interest in software development and a big interest in management and [awesome lists](https://github.com/sindresorhus/awesome)
 
-
 <!-- Stats -->
 <details>
 <summary><b>📈 Stats</b></summary>
 
-![Metrics](assets/metrics.plugin.activity.svg) 
+![Metrics](Assets/metrics.plugin.activity.svg) 
 
 </details>
 
+
+<!-- Recenet Activity -->
 <details>
 <summary><b>⚡ Recent Activity</b></summary>
 
@@ -32,8 +33,10 @@ I'm a Bsc computer science student and former president of [HullCSS](https://hul
 10. 💪 Opened PR [#4267](https://github.com/avelino/awesome-go/pull/4267) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
 
-More Activity [Here](https://github.com/KieranRobson/KieranRobson/blob/main/RECENT-ACTIVITY.md)
+More Activity [Here](Pages/RECENT-ACTIVITY.md)
 </details>
+
+
 
 <!-- Recent Documentation List -->
 <details>
@@ -52,4 +55,4 @@ More Activity [Here](https://github.com/KieranRobson/KieranRobson/blob/main/RECE
 
 
 
-⭐ [Stars](https://github.com/KieranRobson/KieranRobson/blob/main/STARRED-REPOS.md)
+⭐ [Stars](Pages/STARRED-REPOS.md)

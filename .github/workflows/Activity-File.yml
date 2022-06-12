@@ -16,7 +16,7 @@ jobs:
       - name: Adds recent activity to file
         uses: actions-js/profile-readme@master
         with:
-          username: kieranrobson
+          username: KieranRobson
           github_token: ${{ secrets.GITHUB_TOKEN }}
           readme: './RECENT-ACTIVITY.md'
       - name: Commit & Push changes
