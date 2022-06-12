@@ -10,6 +10,4 @@
 7. 💪 Opened PR [#28](https://github.com/j0hnm4r5/awesome-creative-technology/pull/28) in [j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology)
 8. 💪 Opened PR [#200](https://github.com/matiassingers/awesome-readme/pull/200) in [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
 9. 💪 Opened PR [#142](https://github.com/AchoArnold/discount-for-student-dev/pull/142) in [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev)
-10. 💪 Opened PR [#4267](https://github.com/avelino/awesome-go/pull/4267) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-11. 💪 Opened PR [#4263](https://github.com/avelino/awesome-go/pull/4263) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
