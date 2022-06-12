@@ -1,9 +1,8 @@
 # Generates pretty snake animation, using @Platane's awesome snk action
 name: 🐍 Generate Snake Contribution GIF
 on:
-  # Schedule updates (each hour)
+  workflow_dispatch: # Manual dispatch
   schedule: [{cron: "0 * * * *"}]
-  workflow_dispatch:
 jobs:
   snake:
     runs-on: ubuntu-latest
@@ -19,14 +18,13 @@ jobs:
       # Commit the changes
       - name: Commit files
         run: |
-          git config --local user.email "actions@noreply.github.com"
+ 	  git config --local user.email "actions@noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
           git commit -m ":snake: Updates Snake Contribution Animation"
-          
       # Push the changes
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          github_token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          branch: ${{ github.ref }}         
