@@ -53,6 +53,8 @@ More Activity [Here](pages/RECENT-ACTIVITY.md)
 </p>
 </details>
 
-⭐ [Stars](pages/STARRED-REPOS.md)
 
-🍴  [Forks](https://github.com/forks-by-kieran)
+-----
+⭐[Stars](pages/STARRED-REPOS.md)
+
+🍴 [Forks](https://github.com/forks-by-kieran)
