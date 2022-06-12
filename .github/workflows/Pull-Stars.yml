@@ -31,7 +31,7 @@ jobs:
           git config --local user.email "actions@noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "Update list"
+          git commit -m "⭐ Updated Stars"
 
       # Push the changes
       - name: Push
