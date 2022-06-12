@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: 📰 Pull Latest Documentation
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]

@@ -1,5 +1,5 @@
 # This workflow builds a list of your starred repositories
-name: Stargazer
+name: ⭐ Pull Stars
 
 on:
   # Schedule updates (each hour)
@@ -18,7 +18,6 @@ jobs:
 
       # Generate the list
       - name: Create star list
-        id: stargazer
         uses: rverst/stargazer@v1.2.6
         with:
           github-user: ${{ github.actor }}
