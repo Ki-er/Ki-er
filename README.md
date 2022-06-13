@@ -53,6 +53,17 @@ More Activity [Here](pages/RECENT-ACTIVITY.md)
 </p>
 </details>
 
+<!-- Recent Documentation List -->
+<details>
+  <summary><b>📰 Recent Blog List</b></summary>
+    <p>
+        
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</p>
+</details>
+
 
 -----
 ⭐[Stars](pages/STARRED-REPOS.md)
