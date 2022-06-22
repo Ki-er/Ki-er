@@ -44,10 +44,7 @@ More Activity [Here](pages/RECENT-ACTIVITY.md)
     <p>
         
 <!-- BLOG-POST-LIST:START -->
-- [How to install Uptime Kuma](https://docs.kieranrobson.com//posts/how-to-setup-uptime-kuma/)
-- [How to install NGINX proxy manager and Cloudlfare](https://docs.kieranrobson.com//posts/how-to-setup-nginx-proxy-manager-and-cloudflare-copy/)
-- [How to install Docker and Docker Compose](https://docs.kieranrobson.com//posts/how-to-install-docker/)
-- [How to install Portainer](https://docs.kieranrobson.com//posts/how-to-install-portainer/)
+- [What I Run On My VPS](https://blog.kieranrobson.com//posts/What-I-Run-On-My-VPS/)
 <!-- BLOG-POST-LIST:END -->
 
 </p>
