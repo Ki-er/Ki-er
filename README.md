@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=KieranRobson" alt="KieranRobson"/>       
 </p>
 
-I'm a Bsc computer science student and former president of [HullCSS](https://hullcss.org) and will be going into a Msc Business and Management in September with a small interest in software development and a big interest in management and [awesome lists](https://github.com/sindresorhus/awesome)
+A BSc Computer Science Graduate and incoming PhD candidtate in information sciences with a big interest in self hosting and lists!
 
 <!-- Stats -->
 <details>
