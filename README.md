@@ -5,16 +5,11 @@
     <img src="https://komarev.com/ghpvc/?username=KieranRobson" alt="KieranRobson"/>       
 </p>
 
-A BSc Computer Science Graduate and incoming PhD candidtate in information sciences with a big interest in self hosting and lists!
+I am a BSc Computer Science Graduate and incoming PhD canditate in information sciences with a big interest in self hosting and lists! I create discord bots and other small projects that aim to make other's lives easier or more fun!
+
 
 <!-- Stats -->
-<details>
-<summary><b>📈 Stats</b></summary>
-
 ![Metrics](assets/metrics.plugin.activity.svg) 
-
-</details>
-
 
 <!-- Recenet Activity -->
 <details>
@@ -35,31 +30,7 @@ A BSc Computer Science Graduate and incoming PhD candidtate in information scien
 
 More Activity [Here](pages/RECENT-ACTIVITY.md)
 </details>
-
-
-
-<!-- Recent Documentation List -->
-<details>
-  <summary><b>📰 Recent Documentation List</b></summary>
-    <p>
-        
-<!-- BLOG-POST-LIST:START -->
-- [What I Run On My VPS](https://blog.kieranrobson.com//posts/What-I-Run-On-My-VPS/)
-<!-- BLOG-POST-LIST:END -->
-
 </p>
-</details>
-
-<!-- Recent Documentation List -->
-<details>
-  <summary><b>📰 Recent Blog List</b></summary>
-    <p>
-        
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-</p>
-</details>
 
 
 -----
