@@ -16,14 +16,14 @@ I am a BSc Computer Science Graduate and incoming PhD canditate in information s
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3259](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3259) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-2. 🗣 Commented on [#3214](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3214) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-3. 🗣 Commented on [#3254](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3254) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-4. 🗣 Commented on [#3236](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3236) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-5. 🗣 Commented on [#3253](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3253) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-6. 🗣 Commented on [#3252](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3252) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-7. 🗣 Commented on [#3243](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3243) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-8. ❌ Closed PR [#193](https://github.com/techno-tim/littlelink-server/pull/193) in [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server)
+1. 🗣 Commented on [#3260](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3260) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+2. 🗣 Commented on [#3259](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3259) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+3. 🗣 Commented on [#3214](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3214) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+4. 🗣 Commented on [#3254](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3254) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+5. 🗣 Commented on [#3236](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3236) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+6. 🗣 Commented on [#3253](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3253) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+7. 🗣 Commented on [#3252](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3252) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+8. 🗣 Commented on [#3243](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3243) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 9. 🗣 Commented on [#193](https://github.com/techno-tim/littlelink-server/issues/193) in [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server)
 10. 💪 Opened PR [#5](https://github.com/sethcottle/littlelink-extended/pull/5) in [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended)
 <!--END_SECTION:activity-->
