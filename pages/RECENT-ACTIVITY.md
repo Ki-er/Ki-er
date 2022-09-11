@@ -1,14 +1,14 @@
 # Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/hullcss/hullcss-discord-bot/issues/4) in [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot)
-2. ❗️ Closed issue [#4](https://github.com/hullcss/hullcss-discord-bot/issues/4) in [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot)
-3. ❗️ Closed issue [#4](https://github.com/KieranRobson/Clarence-Bot/issues/4) in [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
-4. 🗣 Commented on [#4](https://github.com/KieranRobson/Clarence-Bot/issues/4) in [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
-5. ❗️ Closed issue [#3](https://github.com/KieranRobson/Clarence-Bot/issues/3) in [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
-6. 🗣 Commented on [#3](https://github.com/KieranRobson/Clarence-Bot/issues/3) in [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
-7. ❌ Closed PR [#375](https://github.com/viatsko/awesome-vscode/pull/375) in [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
-8. 💪 Opened PR [#3274](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3274) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-9. 💪 Opened PR [#396](https://github.com/awesome-foss/awesome-sysadmin/pull/396) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
-10. ❗️ Closed issue [#3225](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3225) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+1. ❗️ Opened issue [#10](https://github.com/KieranRobson/Clarence-Bot/issues/10) in [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
+2. ❗️ Opened issue [#9](https://github.com/KieranRobson/Clarence-Bot/issues/9) in [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
+3. ❗️ Opened issue [#8](https://github.com/KieranRobson/Clarence-Bot/issues/8) in [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
+4. ❗️ Opened issue [#7](https://github.com/KieranRobson/Clarence-Bot/issues/7) in [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
+5. 🗣 Commented on [#4](https://github.com/hullcss/hullcss-discord-bot/issues/4) in [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot)
+6. ❗️ Closed issue [#4](https://github.com/hullcss/hullcss-discord-bot/issues/4) in [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot)
+7. ❗️ Closed issue [#4](https://github.com/KieranRobson/Clarence-Bot/issues/4) in [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
+8. 🗣 Commented on [#4](https://github.com/KieranRobson/Clarence-Bot/issues/4) in [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
+9. ❗️ Closed issue [#3](https://github.com/KieranRobson/Clarence-Bot/issues/3) in [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
+10. 🗣 Commented on [#3](https://github.com/KieranRobson/Clarence-Bot/issues/3) in [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot)
 <!--END_SECTION:activity-->
