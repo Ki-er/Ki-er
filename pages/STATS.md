@@ -1,1 +1,1 @@
-![Metrics](assets/metrics.plugin.activity.svg) 
+![Metrics](../assets/metrics.plugin.activity.svg) 
