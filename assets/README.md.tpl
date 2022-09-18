@@ -25,6 +25,8 @@ I am a BSc Computer Science Graduate and incoming PhD candidate in information s
 
 
 -----
+![](./assets/pr-[Pull Requests](/pages/PRS.md)
+
 📈[Stats](/pages/STATS.md)
 
 ⭐[Stars](pages/STARRED-REPOS.md)
