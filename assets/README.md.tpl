@@ -6,6 +6,9 @@
 
 I am a BSc Computer Science Graduate and incoming PhD candidate in information sciences with a big interest in self hosting and lists! I create discord bots and other small projects that aim to make other's lives easier or more fun!
 
+### 🤖 Technologies and Tools
+[![](https://skills.thijs.gg/icons?i=js,docker,mongo,discord,vscode,nodejs&theme=light)
+
 ### 🔨 My recent Pull Requests
 {{range recentPullRequests 10}}
 - ![](./assets/pr-{{ .State | toLower }}.svg) [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
@@ -22,10 +25,8 @@ I am a BSc Computer Science Graduate and incoming PhD candidate in information s
 {{- end}}
 
 
-
-
 -----
-![](./assets/pr-[Pull Requests](/pages/PRS.md)
+![](./assets/pr-open.svg)[Pull Requests](/pages/PRS.md)
 
 📈[Stats](/pages/STATS.md)
 

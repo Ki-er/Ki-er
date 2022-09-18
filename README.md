@@ -5,7 +5,6 @@
 </p>
 
 I am a BSc Computer Science Graduate and incoming PhD candidate in information sciences with a big interest in self hosting and lists! I create discord bots and other small projects that aim to make other's lives easier or more fun!
-
 ### 🔨 My recent Pull Requests
 
 - ![](./assets/pr-merged.svg) [fix: Capitalised image extensions not being ignored](https://github.com/streetsidesoftware/cspell/pull/3599) on [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) (2 days ago)
@@ -30,11 +29,11 @@ I am a BSc Computer Science Graduate and incoming PhD candidate in information s
 
 - [What I Run On My VPS](https://kieranrobson.com/blog/whatirunonmyvps/) (3 months ago)
 
-
+### Reach Me
 
 
 -----
-![](./assets/pr-[Pull Requests](/pages/PRS.md)
+![](assets/pr-[Pull Requests](/pages/PR.md)
 
 📈[Stats](/pages/STATS.md)
 
