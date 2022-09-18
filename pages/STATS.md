@@ -1,1 +1,6 @@
+# Stats 
+
 ![Metrics](../assets/metrics.plugin.activity.svg) 
+
+---
+
