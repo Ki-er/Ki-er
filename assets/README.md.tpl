@@ -6,25 +6,23 @@
 
 I am a BSc Computer Science Graduate and incoming PhD candidate in information sciences with a big interest in self hosting and lists! I create discord bots and other small projects that aim to make other's lives easier or more fun!
 
-### 👷 Recent Contributions
-{{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
-
 ### 🔨 My recent Pull Requests
-{{ range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }})({{ .pullRequestId }})({{ . }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
-{{- end }}
+{{range recentPullRequests 10}}
+- ![](./assets/pr-{{ .State | toLower }}.svg) [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
 
-### 🔭 Latest releases I've contributed to
-{{ range recentReleases 5 }}
-- [{{ .Name }}]({{ .URL }}) [`{{ .LastRelease.TagName }}`]({{ .LastRelease.URL }}) - {{.Description}}
-{{- end }}
+### ✏️ My recent Docs
+{{range rss "https://kieranrobson.com/docs/index.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
 
-### ⭐ Recent Stars
-{{ range recentStars 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
+### ✏️ My recent Blogs
+{{range rss "https://kieranrobson.com/blog/index.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+
+
 
 -----
 📈[Stats](/pages/STATS.md)
