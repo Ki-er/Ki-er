@@ -34,10 +34,10 @@ I am a BSc Computer Science Graduate and incoming PhD candidate in information s
 
 
 -----
-![](./assets/pr-open.svg) [Pull Requests](/pages/PRS.md)
+![](./assets/pr-[Pull Requests](/pages/PRS.md)
 
-📈 [Stats](/pages/STATS.md)
+📈[Stats](/pages/STATS.md)
 
-⭐ [Stars](pages/STARRED-REPOS.md)
+⭐[Stars](pages/STARRED-REPOS.md)
 
 🍴 [Forks](https://github.com/forks-by-kieran)
