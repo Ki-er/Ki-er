@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=KieranRobson" alt="KieranRobson"/>       
 </p>
 
-I am a BSc Computer Science Graduate and incoming PhD canditate in information sciences with a big interest in self hosting and lists! I create discord bots and other small projects that aim to make other's lives easier or more fun!
+I am a BSc Computer Science Graduate and incoming PhD candidate in information sciences with a big interest in self hosting and lists! I create discord bots and other small projects that aim to make other's lives easier or more fun!
 ### 👷 Check out what I'm currently working on
 
 {{ range recentContributions 5 }}
