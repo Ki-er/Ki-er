@@ -2,7 +2,7 @@
 
 - ![](../../assets/pr-merged.svg) [Added other actions](https://github.com/CrimsonTome/CrimsonTome/pull/2) on [CrimsonTome/CrimsonTome](https://github.com/CrimsonTome/CrimsonTome) (1 day ago)
 - ![](../../assets/pr-merged.svg) [fix: Capitalised image extensions not being ignored](https://github.com/streetsidesoftware/cspell/pull/3599) on [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) (3 days ago)
-- ![](../../assets/pr-open.svg) [Fix back to top links and Typo](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3294) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 days ago)
+- ![](../../assets/pr-merged.svg) [Fix back to top links and Typo](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3294) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 days ago)
 - ![](../../assets/pr-merged.svg) [Cleanup Bookmark section](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3288) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (5 days ago)
 - ![](../../assets/pr-merged.svg) [Clean up code and get messages to send](https://github.com/CrimsonTome/hullblogs-feed-bot/pull/1) on [CrimsonTome/hullblogs-feed-bot](https://github.com/CrimsonTome/hullblogs-feed-bot) (1 week ago)
 - ![](../../assets/pr-merged.svg) [Redirect fixes and General Project Clean Up](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3274) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
