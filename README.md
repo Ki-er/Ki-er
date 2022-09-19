@@ -11,6 +11,7 @@ I am a BSc Computer Science Graduate and incoming PhD candidate in information s
 
 ### 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [addition: Add SRS to Miscellaneous ](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3299) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
 - ![](./assets/pr-open.svg) [addition: Add Gerrit to Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3298) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
 - ![](./assets/pr-merged.svg) [Added other actions](https://github.com/CrimsonTome/CrimsonTome/pull/2) on [CrimsonTome/CrimsonTome](https://github.com/CrimsonTome/CrimsonTome) (1 day ago)
 - ![](./assets/pr-merged.svg) [fix: Capitalised image extensions not being ignored](https://github.com/streetsidesoftware/cspell/pull/3599) on [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) (3 days ago)
@@ -20,7 +21,6 @@ I am a BSc Computer Science Graduate and incoming PhD candidate in information s
 - ![](./assets/pr-merged.svg) [Redirect fixes and General Project Clean Up](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3274) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [ReadMe Cleanup](https://github.com/awesome-foss/awesome-sysadmin/pull/396) on [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Add Picaport to nonfree photos and videos](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3272) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Add Christmas Community to Polls and Events](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3271) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
 
 ### ✏️ My recent Docs
 
