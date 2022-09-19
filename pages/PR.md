@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [addition: Add SRS to Miscellaneous ](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3299) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
 - ![](../assets/pr-open.svg) [addition: Add Gerrit to Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3298) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
 - ![](../assets/pr-merged.svg) [Added other actions](https://github.com/CrimsonTome/CrimsonTome/pull/2) on [CrimsonTome/CrimsonTome](https://github.com/CrimsonTome/CrimsonTome) (1 day ago)
 - ![](../assets/pr-merged.svg) [fix: Capitalised image extensions not being ignored](https://github.com/streetsidesoftware/cspell/pull/3599) on [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) (3 days ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Added privatebin and formattedc](https://github.com/CrimsonTome/links.crimsontome.com/pull/1) on [CrimsonTome/links.crimsontome.com](https://github.com/CrimsonTome/links.crimsontome.com) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added Buttons](https://github.com/techno-tim/littlelink-server/pull/130) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added CashApp](https://github.com/techno-tim/littlelink-server/pull/128) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
-- ![](../assets/pr-merged.svg) [Added Letterboxd](https://github.com/sethcottle/littlelink/pull/57) on [sethcottle/littlelink](https://github.com/sethcottle/littlelink) (3 months ago)
