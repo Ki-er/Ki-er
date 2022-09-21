@@ -1,15 +1,19 @@
-# Hi, I'm Kieran! 👋  
+# 👋 Kieran Robson
+
+Hi! I am a BSc Computer Science Graduate and incoming PhD Candidate in Information Sciences with a big interest in self hosting and lists! I create discord bots and other small projects that aim to make other's lives easier or more fun!
 
 <p>
-    <img src="https://komarev.com/ghpvc/?username=KieranRobson" alt="KieranRobson"/>       
+<a href="https://github.com/KieranRobson?tab=repositories&q=&type=&language=&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KieranRobson?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KieranRobson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-I am a BSc Computer Science Graduate and incoming PhD candidate in information sciences with a big interest in self hosting and lists! I create discord bots and other small projects that aim to make other's lives easier or more fun!
-
-### 🤖 Technologies and Tools
+# 🤖 Technologies and Tools
 ![](https://skills.thijs.gg/icons?i=js,docker,mongo,discord,vscode,nodejs&theme=light)
 
-### 🔨 My recent Pull Requests
+
+# 🔨 My recent Pull Requests
 
 - ![](./assets/pr-open.svg) [fixes: General Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3302) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 days ago)
 - ![](./assets/pr-open.svg) [fixes: Redirect Fixes](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3301) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 days ago)
@@ -34,8 +38,7 @@ I am a BSc Computer Science Graduate and incoming PhD candidate in information s
 - [What I Run On My VPS](https://kieranrobson.com/blog/whatirunonmyvps/) (3 months ago)
 
 
------
- <br />
+#
 
 <center>
 
