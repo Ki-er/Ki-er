@@ -1,5 +1,8 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat: Add National Records of Scotland](https://github.com/maehr/awesome-digital-history/pull/45) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (today)
+- ![](../assets/pr-open.svg) [feat: Add National Archives to Great Britain](https://github.com/maehr/awesome-digital-history/pull/44) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (today)
+- ![](../assets/pr-open.svg) [fix: Move British Library to Great Britain](https://github.com/maehr/awesome-digital-history/pull/43) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (today)
 - ![](../assets/pr-open.svg) [fixes: General Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3302) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (5 days ago)
 - ![](../assets/pr-open.svg) [fixes: Redirect Fixes](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3301) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (5 days ago)
 - ![](../assets/pr-open.svg) [addition: Add SRS to Miscellaneous ](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3299) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (5 days ago)
@@ -96,6 +99,3 @@
 - ![](../assets/pr-merged.svg) [Link Clean Up](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3071) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-closed.svg) [Add link warden](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3070) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Update Read Me](https://github.com/techno-tim/littlelink-server/pull/150) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
-- ![](../assets/pr-merged.svg) [docs: remove full bundle reference](https://github.com/authelia/authelia/pull/3547) on [authelia/authelia](https://github.com/authelia/authelia) (3 months ago)
-- ![](../assets/pr-merged.svg) [Added Buttons and Edit Letterboxd](https://github.com/techno-tim/littlelink-server/pull/140) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
-- ![](../assets/pr-merged.svg) [Added privatebin and formattedc](https://github.com/CrimsonTome/links.crimsontome.com/pull/1) on [CrimsonTome/links.crimsontome.com](https://github.com/CrimsonTome/links.crimsontome.com) (3 months ago)
