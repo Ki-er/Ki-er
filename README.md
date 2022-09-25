@@ -14,6 +14,9 @@ Hi! I am a BSc Computer Science Graduate and incoming PhD Candidate in Informati
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [feat: Add United Nations Archives to Global](https://github.com/maehr/awesome-digital-history/pull/48) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (today)
+- ![](./assets/pr-open.svg) [feat: Add Nationaal Archief](https://github.com/maehr/awesome-digital-history/pull/47) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (today)
+- ![](./assets/pr-open.svg) [feat: Add United States National Archives](https://github.com/maehr/awesome-digital-history/pull/46) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (today)
 - ![](./assets/pr-open.svg) [feat: Add Nordpass to Password Managers](https://github.com/jyguyomarch/awesome-productivity/pull/106) on [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) (1 day ago)
 - ![](./assets/pr-open.svg) [fix: Update dead links](https://github.com/emptymalei/awesome-research/pull/58) on [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) (1 day ago)
 - ![](./assets/pr-merged.svg) [feat: Add National Records of Scotland](https://github.com/maehr/awesome-digital-history/pull/45) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (1 day ago)
@@ -21,9 +24,6 @@ Hi! I am a BSc Computer Science Graduate and incoming PhD Candidate in Informati
 - ![](./assets/pr-merged.svg) [fix: Move British Library to Great Britain](https://github.com/maehr/awesome-digital-history/pull/43) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (1 day ago)
 - ![](./assets/pr-open.svg) [fixes: General Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3302) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (6 days ago)
 - ![](./assets/pr-open.svg) [fixes: Redirect Fixes](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3301) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (6 days ago)
-- ![](./assets/pr-open.svg) [addition: Add SRS to Miscellaneous ](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3299) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (6 days ago)
-- ![](./assets/pr-open.svg) [addition: Add Gerrit to Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3298) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (6 days ago)
-- ![](./assets/pr-merged.svg) [Added other actions](https://github.com/CrimsonTome/CrimsonTome/pull/2) on [CrimsonTome/CrimsonTome](https://github.com/CrimsonTome/CrimsonTome) (1 week ago)
 
 # ✏️ My recent Docs
 
