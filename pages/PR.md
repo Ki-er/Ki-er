@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat: Add Nationaal Archief](https://github.com/maehr/awesome-digital-history/pull/47) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (today)
+- ![](../assets/pr-open.svg) [feat: Add United States National Archives](https://github.com/maehr/awesome-digital-history/pull/46) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (today)
 - ![](../assets/pr-open.svg) [feat: Add Nordpass to Password Managers](https://github.com/jyguyomarch/awesome-productivity/pull/106) on [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) (1 day ago)
 - ![](../assets/pr-open.svg) [fix: Update dead links](https://github.com/emptymalei/awesome-research/pull/58) on [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) (1 day ago)
 - ![](../assets/pr-merged.svg) [feat: Add National Records of Scotland](https://github.com/maehr/awesome-digital-history/pull/45) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (1 day ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Link Clean Up](https://github.com/binhnguyennus/awesome-scalability/pull/83) on [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) (2 months ago)
 - ![](../assets/pr-merged.svg) [Link Clean Up](https://github.com/ripienaar/free-for-dev/pull/2491) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (2 months ago)
 - ![](../assets/pr-merged.svg) [Added Member, Freesider and Alumni Stats](https://github.com/FreesideHull/FreesideBot/pull/1) on [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) (2 months ago)
-- ![](../assets/pr-merged.svg) [Link Cleanup](https://github.com/zudochkin/awesome-newsletters/pull/204) on [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) (3 months ago)
-- ![](../assets/pr-merged.svg) [Link Clean Up](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3071) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
