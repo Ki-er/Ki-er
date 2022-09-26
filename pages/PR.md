@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat: Add Clink to Url Shorteners](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3316) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
 - ![](../assets/pr-open.svg) [feat: Add United Nations Archives to Global](https://github.com/maehr/awesome-digital-history/pull/48) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (1 day ago)
 - ![](../assets/pr-open.svg) [feat: Add Nationaal Archief](https://github.com/maehr/awesome-digital-history/pull/47) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (1 day ago)
 - ![](../assets/pr-open.svg) [feat: Add United States National Archives](https://github.com/maehr/awesome-digital-history/pull/46) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (1 day ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-closed.svg) [Updating Descriptions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3093) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 months ago)
 - ![](../assets/pr-closed.svg) [Added Pydio Demo and Link Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3091) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 months ago)
 - ![](../assets/pr-merged.svg) [Link Clean Up](https://github.com/binhnguyennus/awesome-scalability/pull/83) on [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) (2 months ago)
-- ![](../assets/pr-merged.svg) [Link Clean Up](https://github.com/ripienaar/free-for-dev/pull/2491) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (2 months ago)
