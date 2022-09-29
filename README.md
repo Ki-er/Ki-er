@@ -14,16 +14,16 @@ Hi! I am a BSc Computer Science Graduate and incoming PhD Candidate in Informati
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [feat: Add OhMyForms to Polls and Events](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3318) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 day ago)
-- ![](./assets/pr-open.svg) [feat: Add Lama Cleaner to Miscellaneous](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3317) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 days ago)
-- ![](./assets/pr-open.svg) [feat: Add Clink to Url Shorteners](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3316) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 days ago)
-- ![](./assets/pr-merged.svg) [feat: Add United Nations Archives to Global](https://github.com/maehr/awesome-digital-history/pull/48) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (3 days ago)
-- ![](./assets/pr-merged.svg) [feat: Add Nationaal Archief](https://github.com/maehr/awesome-digital-history/pull/47) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (3 days ago)
-- ![](./assets/pr-merged.svg) [feat: Add United States National Archives](https://github.com/maehr/awesome-digital-history/pull/46) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (3 days ago)
-- ![](./assets/pr-open.svg) [feat: Add Nordpass to Password Managers](https://github.com/jyguyomarch/awesome-productivity/pull/106) on [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) (4 days ago)
-- ![](./assets/pr-open.svg) [fix: Update dead links](https://github.com/emptymalei/awesome-research/pull/58) on [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) (4 days ago)
-- ![](./assets/pr-merged.svg) [feat: Add National Records of Scotland](https://github.com/maehr/awesome-digital-history/pull/45) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (4 days ago)
-- ![](./assets/pr-merged.svg) [feat: Add National Archives to Great Britain](https://github.com/maehr/awesome-digital-history/pull/44) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (4 days ago)
+- ![](./assets/pr-open.svg) [feat: Add OhMyForms to Polls and Events](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3318) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 days ago)
+- ![](./assets/pr-open.svg) [feat: Add Lama Cleaner to Miscellaneous](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3317) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 days ago)
+- ![](./assets/pr-open.svg) [feat: Add Clink to Url Shorteners](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3316) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 days ago)
+- ![](./assets/pr-merged.svg) [feat: Add United Nations Archives to Global](https://github.com/maehr/awesome-digital-history/pull/48) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (4 days ago)
+- ![](./assets/pr-merged.svg) [feat: Add Nationaal Archief](https://github.com/maehr/awesome-digital-history/pull/47) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (4 days ago)
+- ![](./assets/pr-merged.svg) [feat: Add United States National Archives](https://github.com/maehr/awesome-digital-history/pull/46) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (4 days ago)
+- ![](./assets/pr-open.svg) [feat: Add Nordpass to Password Managers](https://github.com/jyguyomarch/awesome-productivity/pull/106) on [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) (5 days ago)
+- ![](./assets/pr-open.svg) [fix: Update dead links](https://github.com/emptymalei/awesome-research/pull/58) on [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) (5 days ago)
+- ![](./assets/pr-merged.svg) [feat: Add National Records of Scotland](https://github.com/maehr/awesome-digital-history/pull/45) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (5 days ago)
+- ![](./assets/pr-merged.svg) [feat: Add National Archives to Great Britain](https://github.com/maehr/awesome-digital-history/pull/44) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (5 days ago)
 
 # ✏️ My recent Docs
 
