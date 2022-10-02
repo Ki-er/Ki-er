@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat: Added Readme to 01_Console](https://github.com/arkalsekar/Learn-Javascript/pull/24) on [arkalsekar/Learn-Javascript](https://github.com/arkalsekar/Learn-Javascript) (today)
+- ![](../assets/pr-open.svg) [fix: Various Typos](https://github.com/arkalsekar/Learn-Javascript/pull/20) on [arkalsekar/Learn-Javascript](https://github.com/arkalsekar/Learn-Javascript) (today)
 - ![](../assets/pr-open.svg) [chore: Move Community Health Files](https://github.com/remoteintech/remote-jobs/pull/1438) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
 - ![](../assets/pr-open.svg) [feat: Add OhMyForms to Polls and Events](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3318) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (5 days ago)
 - ![](../assets/pr-open.svg) [feat: Add Lama Cleaner to Miscellaneous](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3317) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (6 days ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Added Pydio Demo and Link Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3099) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 months ago)
 - ![](../assets/pr-merged.svg) [Added Web Portal](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3098) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 months ago)
 - ![](../assets/pr-merged.svg) [Added Outline Proxy](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3097) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 months ago)
-- ![](../assets/pr-closed.svg) [Added Outline Proxy](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3096) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 months ago)
-- ![](../assets/pr-closed.svg) [Added Web Portal](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3095) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 months ago)
