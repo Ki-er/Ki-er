@@ -16,7 +16,7 @@ Hi! I am a BSc Computer Science Graduate and incoming PhD Candidate in Informati
 
 - ![](./assets/pr-merged.svg) [fix: Typos](https://github.com/remoteintech/remote-jobs/pull/1442) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 day ago)
 - ![](./assets/pr-merged.svg) [feat: Added Readme to 01_Console](https://github.com/arkalsekar/Learn-Javascript/pull/24) on [arkalsekar/Learn-Javascript](https://github.com/arkalsekar/Learn-Javascript) (1 day ago)
-- ![](./assets/pr-open.svg) [fix: Various Typos and General Cleanup ](https://github.com/arkalsekar/Learn-Javascript/pull/20) on [arkalsekar/Learn-Javascript](https://github.com/arkalsekar/Learn-Javascript) (1 day ago)
+- ![](./assets/pr-merged.svg) [fix: Various Typos and General Cleanup ](https://github.com/arkalsekar/Learn-Javascript/pull/20) on [arkalsekar/Learn-Javascript](https://github.com/arkalsekar/Learn-Javascript) (1 day ago)
 - ![](./assets/pr-merged.svg) [chore: Move Community Health Files](https://github.com/remoteintech/remote-jobs/pull/1438) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 day ago)
 - ![](./assets/pr-open.svg) [feat: Add OhMyForms to Polls and Events](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3318) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (6 days ago)
 - ![](./assets/pr-open.svg) [feat: Add Lama Cleaner to Miscellaneous](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3317) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
