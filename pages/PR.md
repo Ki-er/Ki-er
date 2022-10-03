@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [fix: Added some missing info](https://github.com/remoteintech/remote-jobs/pull/1449) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
+- ![](../assets/pr-open.svg) [fix: Added Some Missing Info](https://github.com/remoteintech/remote-jobs/pull/1449) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
 - ![](../assets/pr-open.svg) [fix: Typos and Link Cleanup](https://github.com/FreesideHull/StudentResources/pull/14) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (today)
 - ![](../assets/pr-open.svg) [fix: More Typos](https://github.com/remoteintech/remote-jobs/pull/1445) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
 - ![](../assets/pr-merged.svg) [fix: Typos](https://github.com/remoteintech/remote-jobs/pull/1442) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 day ago)
