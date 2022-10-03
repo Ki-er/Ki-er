@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [fix: Added some missing info](https://github.com/remoteintech/remote-jobs/pull/1449) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
+- ![](../assets/pr-open.svg) [fix: Typos and Link Cleanup](https://github.com/FreesideHull/StudentResources/pull/14) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (today)
 - ![](../assets/pr-open.svg) [fix: More Typos](https://github.com/remoteintech/remote-jobs/pull/1445) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
 - ![](../assets/pr-merged.svg) [fix: Typos](https://github.com/remoteintech/remote-jobs/pull/1442) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 day ago)
 - ![](../assets/pr-merged.svg) [feat: Added Readme to 01_Console](https://github.com/arkalsekar/Learn-Javascript/pull/24) on [arkalsekar/Learn-Javascript](https://github.com/arkalsekar/Learn-Javascript) (1 day ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Update husu logo to current](https://github.com/hullcss/hullcss-site-jet/pull/6) on [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) (2 months ago)
 - ![](../assets/pr-merged.svg) [Added GitBucket](https://github.com/techno-tim/littlelink-server/pull/165) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added AniList](https://github.com/techno-tim/littlelink-server/pull/164) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
-- ![](../assets/pr-merged.svg) [Update Readme](https://github.com/hullcss/hullcss-site-jet/pull/5) on [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) (3 months ago)
-- ![](../assets/pr-merged.svg) [Added Pydio Demo and Link Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3099) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
