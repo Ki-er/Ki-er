@@ -14,6 +14,7 @@ Hi! I am a BSc Computer Science Graduate and incoming PhD Candidate in Informati
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [fix: More Typos](https://github.com/remoteintech/remote-jobs/pull/1445) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
 - ![](./assets/pr-merged.svg) [fix: Typos](https://github.com/remoteintech/remote-jobs/pull/1442) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 day ago)
 - ![](./assets/pr-merged.svg) [feat: Added Readme to 01_Console](https://github.com/arkalsekar/Learn-Javascript/pull/24) on [arkalsekar/Learn-Javascript](https://github.com/arkalsekar/Learn-Javascript) (1 day ago)
 - ![](./assets/pr-merged.svg) [fix: Various Typos and General Cleanup ](https://github.com/arkalsekar/Learn-Javascript/pull/20) on [arkalsekar/Learn-Javascript](https://github.com/arkalsekar/Learn-Javascript) (1 day ago)
@@ -23,7 +24,6 @@ Hi! I am a BSc Computer Science Graduate and incoming PhD Candidate in Informati
 - ![](./assets/pr-open.svg) [feat: Add Clink to Url Shorteners](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3316) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat: Add United Nations Archives to Global](https://github.com/maehr/awesome-digital-history/pull/48) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat: Add Nationaal Archief](https://github.com/maehr/awesome-digital-history/pull/47) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (1 week ago)
-- ![](./assets/pr-merged.svg) [feat: Add United States National Archives](https://github.com/maehr/awesome-digital-history/pull/46) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (1 week ago)
 
 # ✏️ My recent Docs
 
