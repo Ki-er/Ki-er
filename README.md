@@ -16,7 +16,7 @@ Hi! I am a BSc Computer Science Graduate and incoming PhD Candidate in Informati
 
 - ![](./assets/pr-open.svg) [fix: Added Some Missing Info](https://github.com/remoteintech/remote-jobs/pull/1449) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
 - ![](./assets/pr-merged.svg) [fix: Typos and Link Cleanup](https://github.com/FreesideHull/StudentResources/pull/14) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (today)
-- ![](./assets/pr-open.svg) [fix: More Typos](https://github.com/remoteintech/remote-jobs/pull/1445) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
+- ![](./assets/pr-merged.svg) [fix: More Typos](https://github.com/remoteintech/remote-jobs/pull/1445) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
 - ![](./assets/pr-merged.svg) [fix: Typos](https://github.com/remoteintech/remote-jobs/pull/1442) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 day ago)
 - ![](./assets/pr-merged.svg) [feat: Added Readme to 01_Console](https://github.com/arkalsekar/Learn-Javascript/pull/24) on [arkalsekar/Learn-Javascript](https://github.com/arkalsekar/Learn-Javascript) (1 day ago)
 - ![](./assets/pr-merged.svg) [fix: Various Typos and General Cleanup ](https://github.com/arkalsekar/Learn-Javascript/pull/20) on [arkalsekar/Learn-Javascript](https://github.com/arkalsekar/Learn-Javascript) (1 day ago)
