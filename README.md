@@ -23,7 +23,7 @@ Hi! I am a BSc Computer Science Graduate and incoming PhD Candidate in Informati
 - ![](./assets/pr-merged.svg) [chore: Move Community Health Files](https://github.com/remoteintech/remote-jobs/pull/1438) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 week ago)
 - ![](./assets/pr-open.svg) [feat: Add OhMyForms to Polls and Events](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3318) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
 - ![](./assets/pr-open.svg) [feat: Add Lama Cleaner to Miscellaneous](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3317) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
-- ![](./assets/pr-open.svg) [feat: Add Clink to Url Shorteners](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3316) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
+- ![](./assets/pr-merged.svg) [feat: Add Clink to Url Shorteners](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3316) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
 
 # ✏️ My recent Docs
 
