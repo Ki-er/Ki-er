@@ -14,7 +14,7 @@ Hi! I am a BSc Computer Science Graduate and incoming PhD Candidate in Informati
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [fix: Add microservices to software](https://github.com/streetsidesoftware/cspell-dicts/pull/1511) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](./assets/pr-merged.svg) [fix: Add microservices to software](https://github.com/streetsidesoftware/cspell-dicts/pull/1511) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](./assets/pr-merged.svg) [fix: Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3350) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
 - ![](./assets/pr-open.svg) [fix: An Ungodly Ammount of Typos](https://github.com/remoteintech/remote-jobs/pull/1505) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
 - ![](./assets/pr-merged.svg) [fix: Added Some Missing Info](https://github.com/remoteintech/remote-jobs/pull/1449) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 week ago)
