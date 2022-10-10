@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-merged.svg) [fix: Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3350) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
 - ![](../assets/pr-open.svg) [fix: An Ungodly Ammount of Typos](https://github.com/remoteintech/remote-jobs/pull/1505) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
 - ![](../assets/pr-merged.svg) [fix: Added Some Missing Info](https://github.com/remoteintech/remote-jobs/pull/1449) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 week ago)
 - ![](../assets/pr-merged.svg) [fix: Typos and Link Cleanup](https://github.com/FreesideHull/StudentResources/pull/14) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (1 week ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Change weather to whether](https://github.com/Lissy93/awesome-privacy/pull/28) on [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added Shazam](https://github.com/techno-tim/littlelink-server/pull/166) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
 - ![](../assets/pr-merged.svg) [Update husu logo to current](https://github.com/hullcss/hullcss-site-jet/pull/6) on [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) (3 months ago)
-- ![](../assets/pr-merged.svg) [Added GitBucket](https://github.com/techno-tim/littlelink-server/pull/165) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
