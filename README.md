@@ -14,6 +14,7 @@ Hi! I am a BSc Computer Science Graduate and incoming PhD Candidate in Informati
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [fix: An Ungodly Ammount of Typos](https://github.com/remoteintech/remote-jobs/pull/1505) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
 - ![](./assets/pr-merged.svg) [fix: Added Some Missing Info](https://github.com/remoteintech/remote-jobs/pull/1449) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 week ago)
 - ![](./assets/pr-merged.svg) [fix: Typos and Link Cleanup](https://github.com/FreesideHull/StudentResources/pull/14) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (1 week ago)
 - ![](./assets/pr-merged.svg) [fix: More Typos](https://github.com/remoteintech/remote-jobs/pull/1445) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 week ago)
@@ -23,7 +24,6 @@ Hi! I am a BSc Computer Science Graduate and incoming PhD Candidate in Informati
 - ![](./assets/pr-merged.svg) [chore: Move Community Health Files](https://github.com/remoteintech/remote-jobs/pull/1438) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 week ago)
 - ![](./assets/pr-open.svg) [feat: Add OhMyForms to Polls and Events](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3318) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
 - ![](./assets/pr-open.svg) [feat: Add Lama Cleaner to Miscellaneous](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3317) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [feat: Add Clink to Url Shorteners](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3316) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
 
 # ✏️ My recent Docs
 
