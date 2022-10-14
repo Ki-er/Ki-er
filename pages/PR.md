@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-merged.svg) [fix: Add some package names to npm](https://github.com/streetsidesoftware/cspell-dicts/pull/1517) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-open.svg) [feat: Added New Company - Dropbox](https://github.com/remoteintech/remote-jobs/pull/1518) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (2 days ago)
 - ![](../assets/pr-merged.svg) [fix: Add microservices to software](https://github.com/streetsidesoftware/cspell-dicts/pull/1511) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 days ago)
 - ![](../assets/pr-merged.svg) [fix: Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3350) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 days ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Added PR Template and clean up contributing](https://github.com/hullcss/hullcss-site-jet/pull/11) on [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) (3 months ago)
 - ![](../assets/pr-merged.svg) [Removed CSS](https://github.com/hullcss/hullcss-site-jet/pull/9) on [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) (3 months ago)
 - ![](../assets/pr-merged.svg) [Cleaned footer](https://github.com/hullcss/hullcss-site-jet/pull/8) on [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) (3 months ago)
-- ![](../assets/pr-merged.svg) [Change weather to whether](https://github.com/Lissy93/awesome-privacy/pull/28) on [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) (3 months ago)
