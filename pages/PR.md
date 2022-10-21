@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-merged.svg) [fix: Add some package names to npm](https://github.com/streetsidesoftware/cspell-dicts/pull/1517) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 days ago)
+- ![](../assets/pr-merged.svg) [fix: Add some package names to npm](https://github.com/streetsidesoftware/cspell-dicts/pull/1517) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-open.svg) [feat: Added New Company - Dropbox](https://github.com/remoteintech/remote-jobs/pull/1518) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 week ago)
 - ![](../assets/pr-merged.svg) [fix: Add microservices to software](https://github.com/streetsidesoftware/cspell-dicts/pull/1511) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [fix: Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3350) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
@@ -81,9 +81,9 @@
 - ![](../assets/pr-closed.svg) [Added shadow to avatar and buttons](https://github.com/techno-tim/littlelink-server/pull/193) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (2 months ago)
 - ![](../assets/pr-closed.svg) [Added Vigil](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3167) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 months ago)
 - ![](../assets/pr-merged.svg) [Link and README Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3160) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 months ago)
-- ![](../assets/pr-merged.svg) [Added Brand Request Issue Template and Fix Design By Humans](https://github.com/techno-tim/littlelink-server/pull/184) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (2 months ago)
-- ![](../assets/pr-merged.svg) [Added screenshot heading for screenshots](https://github.com/techno-tim/littlelink-server/pull/183) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (2 months ago)
-- ![](../assets/pr-merged.svg) [Add buttons](https://github.com/techno-tim/littlelink-server/pull/182) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (2 months ago)
+- ![](../assets/pr-merged.svg) [Added Brand Request Issue Template and Fix Design By Humans](https://github.com/techno-tim/littlelink-server/pull/184) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
+- ![](../assets/pr-merged.svg) [Added screenshot heading for screenshots](https://github.com/techno-tim/littlelink-server/pull/183) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
+- ![](../assets/pr-merged.svg) [Add buttons](https://github.com/techno-tim/littlelink-server/pull/182) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
 - ![](../assets/pr-merged.svg) [Edit checkgithubdates to add archived status ](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3145) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Link and README cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3140) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added Buku to Bookmarks](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3139) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
