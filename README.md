@@ -22,6 +22,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [Housekeeping: Standardisation to README regions.](https://github.com/remoteintech/remote-jobs/pull/1565) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
 - ![](./assets/pr-merged.svg) [fix: Add some package names to npm](https://github.com/streetsidesoftware/cspell-dicts/pull/1517) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat: Added New Company - Dropbox](https://github.com/remoteintech/remote-jobs/pull/1518) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 week ago)
 - ![](./assets/pr-merged.svg) [fix: Add microservices to software](https://github.com/streetsidesoftware/cspell-dicts/pull/1511) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
@@ -31,7 +32,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-merged.svg) [fix: Typos and Link Cleanup](https://github.com/FreesideHull/StudentResources/pull/14) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix: More Typos](https://github.com/remoteintech/remote-jobs/pull/1445) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix: Typos](https://github.com/remoteintech/remote-jobs/pull/1442) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [feat: Added Readme to 01_Console](https://github.com/arkalsekar/Learn-Javascript/pull/24) on [arkalsekar/Learn-Javascript](https://github.com/arkalsekar/Learn-Javascript) (3 weeks ago)
 
 # ✏️ My recent Docs
 
