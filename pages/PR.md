@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat: Add Safeguard-Global](https://github.com/remoteintech/remote-jobs/pull/1567) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
 - ![](../assets/pr-open.svg) [fix: Standardisation to README regions.](https://github.com/remoteintech/remote-jobs/pull/1565) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (2 days ago)
 - ![](../assets/pr-merged.svg) [fix: Add some package names to npm](https://github.com/streetsidesoftware/cspell-dicts/pull/1517) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [feat: Added New Company - Dropbox](https://github.com/remoteintech/remote-jobs/pull/1518) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 week ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Make footer logs clickable and rm typos](https://github.com/hullcss/hullcss-site-jet/pull/13) on [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) (3 months ago)
 - ![](../assets/pr-merged.svg) [Typo fixes](https://github.com/Lissy93/awesome-privacy/pull/30) on [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added PR Template and clean up contributing](https://github.com/hullcss/hullcss-site-jet/pull/11) on [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) (3 months ago)
-- ![](../assets/pr-merged.svg) [Removed CSS](https://github.com/hullcss/hullcss-site-jet/pull/9) on [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) (3 months ago)
