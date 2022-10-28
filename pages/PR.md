@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [fix: Add companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1542) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](../assets/pr-merged.svg) [feat: Add Kieran Robson](https://github.com/wesbos/awesome-uses/pull/1469) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (today)
 - ![](../assets/pr-open.svg) [feat: Add Safeguard-Global](https://github.com/remoteintech/remote-jobs/pull/1567) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 days ago)
 - ![](../assets/pr-open.svg) [fix: Standardisation to README regions.](https://github.com/remoteintech/remote-jobs/pull/1565) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (5 days ago)
 - ![](../assets/pr-merged.svg) [fix: Add some package names to npm](https://github.com/streetsidesoftware/cspell-dicts/pull/1517) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Added Yarr to Feed Readers ](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3122) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added Peppermint to Ticketing](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3121) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Make footer logs clickable and rm typos](https://github.com/hullcss/hullcss-site-jet/pull/13) on [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) (3 months ago)
-- ![](../assets/pr-merged.svg) [Typo fixes](https://github.com/Lissy93/awesome-privacy/pull/30) on [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) (3 months ago)
-- ![](../assets/pr-merged.svg) [Added PR Template and clean up contributing](https://github.com/hullcss/hullcss-site-jet/pull/11) on [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) (3 months ago)
