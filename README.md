@@ -22,6 +22,8 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [fix: Add companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1542) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](./assets/pr-merged.svg) [feat: Add Kieran Robson](https://github.com/wesbos/awesome-uses/pull/1469) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (today)
 - ![](./assets/pr-open.svg) [feat: Add Safeguard-Global](https://github.com/remoteintech/remote-jobs/pull/1567) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 days ago)
 - ![](./assets/pr-open.svg) [fix: Standardisation to README regions.](https://github.com/remoteintech/remote-jobs/pull/1565) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (5 days ago)
 - ![](./assets/pr-merged.svg) [fix: Add some package names to npm](https://github.com/streetsidesoftware/cspell-dicts/pull/1517) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
@@ -30,8 +32,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-merged.svg) [fix: Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3350) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
 - ![](./assets/pr-open.svg) [fix: An Ungodly Ammount of Typos](https://github.com/remoteintech/remote-jobs/pull/1505) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix: Added Some Missing Info](https://github.com/remoteintech/remote-jobs/pull/1449) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [fix: Typos and Link Cleanup](https://github.com/FreesideHull/StudentResources/pull/14) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [fix: More Typos](https://github.com/remoteintech/remote-jobs/pull/1445) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 weeks ago)
 
 # ✏️ My recent Docs
 
