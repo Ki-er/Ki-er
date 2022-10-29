@@ -1,6 +1,6 @@
 # 👋 Kieran Robson
 
-Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Sciences exploring meaning making and information. Outside of studies I have a big interest in self hosting and lists! I create discord bots and other small projects that aim to make other's lives easier or more fun!
+Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Sciences exploring meaning making and information. Outside of studies I have a big interest in self hosting and lists! I create discord bots and other small projects that aim to make other's lives easier or more fun! If you are interested in what I use, check out my [`/uses`](https://kieranrobson.com/uses) page!
 
 <p>
 <a href="https://github.com/KieranRobson?tab=repositories&q=&type=&language=&sort=stargazers">
