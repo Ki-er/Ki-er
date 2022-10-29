@@ -1,9 +1,9 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [fix: Add companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1542) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
-- ![](../assets/pr-merged.svg) [feat: Add Kieran Robson](https://github.com/wesbos/awesome-uses/pull/1469) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (today)
-- ![](../assets/pr-open.svg) [feat: Add Safeguard-Global](https://github.com/remoteintech/remote-jobs/pull/1567) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 days ago)
-- ![](../assets/pr-open.svg) [fix: Standardisation to README regions.](https://github.com/remoteintech/remote-jobs/pull/1565) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (5 days ago)
+- ![](../assets/pr-open.svg) [fix: Add companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1542) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
+- ![](../assets/pr-merged.svg) [feat: Add Kieran Robson](https://github.com/wesbos/awesome-uses/pull/1469) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (1 day ago)
+- ![](../assets/pr-open.svg) [feat: Add Safeguard-Global](https://github.com/remoteintech/remote-jobs/pull/1567) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (4 days ago)
+- ![](../assets/pr-open.svg) [fix: Standardisation to README regions.](https://github.com/remoteintech/remote-jobs/pull/1565) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (6 days ago)
 - ![](../assets/pr-merged.svg) [fix: Add some package names to npm](https://github.com/streetsidesoftware/cspell-dicts/pull/1517) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
 - ![](../assets/pr-merged.svg) [feat: Added New Company - Dropbox](https://github.com/remoteintech/remote-jobs/pull/1518) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (2 weeks ago)
 - ![](../assets/pr-merged.svg) [fix: Add microservices to software](https://github.com/streetsidesoftware/cspell-dicts/pull/1511) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
@@ -82,7 +82,7 @@
 - ![](../assets/pr-merged.svg) [Added Dockerhub](https://github.com/techno-tim/littlelink-server/pull/194) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (2 months ago)
 - ![](../assets/pr-merged.svg) [Cleanup of Read it later section](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3184) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 months ago)
 - ![](../assets/pr-merged.svg) [Dead Projects Removal](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3183) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 months ago)
-- ![](../assets/pr-closed.svg) [Added shadow to avatar and buttons](https://github.com/techno-tim/littlelink-server/pull/193) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (2 months ago)
+- ![](../assets/pr-closed.svg) [Added shadow to avatar and buttons](https://github.com/techno-tim/littlelink-server/pull/193) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
 - ![](../assets/pr-closed.svg) [Added Vigil](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3167) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Link and README Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3160) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added Brand Request Issue Template and Fix Design By Humans](https://github.com/techno-tim/littlelink-server/pull/184) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
