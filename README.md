@@ -14,11 +14,8 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 <p>
 <a href="https://discord.com/users/360860744977350657"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <a href="https://twitter.com/Kieranr27"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-
 </p>
 
-# 🤖 Technologies and Tools
-![](https://skills.thijs.gg/icons?i=js,docker,mongo,discord,vscode,nodejs&theme=light)
 
 # 🔨 My recent Pull Requests
 
@@ -32,6 +29,12 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-merged.svg) [fix: Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3350) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [fix: An Ungodly Ammount of Typos](https://github.com/remoteintech/remote-jobs/pull/1505) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [fix: Added Some Missing Info](https://github.com/remoteintech/remote-jobs/pull/1449) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (4 weeks ago)
+
+<p align="left">
+  <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="https://github.com/forks-by-kieran"><img alt="Forks" title="Forks" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+</p>
+
 
 # ✏️ My recent Docs
 
@@ -48,9 +51,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 <center>
 
-![](./assets/pr-open.svg)[Pull Requests](/pages/PR.md) •
 📈[Stats](/pages/STATS.md) •
 ⭐[Stars](pages/STARRED-REPOS.md) •
-🍴 [Forks](https://github.com/forks-by-kieran)
 
 </center>
