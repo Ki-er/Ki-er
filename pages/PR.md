@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat: Add Massive Pixel Creation](https://github.com/remoteintech/remote-jobs/pull/1585) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
+- ![](../assets/pr-open.svg) [feat: Add Rakuten Travel Xchange](https://github.com/remoteintech/remote-jobs/pull/1584) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (today)
 - ![](../assets/pr-merged.svg) [fix: Add companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1542) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 days ago)
 - ![](../assets/pr-merged.svg) [feat: Add Kieran Robson](https://github.com/wesbos/awesome-uses/pull/1469) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (3 days ago)
 - ![](../assets/pr-merged.svg) [feat: Add Safeguard-Global](https://github.com/remoteintech/remote-jobs/pull/1567) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (6 days ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Added Thumbor to Photo and Video Galleries](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3126) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added LibreTranslate to Misc](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3123) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added Yarr to Feed Readers ](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3122) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
-- ![](../assets/pr-merged.svg) [Added Peppermint to Ticketing](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3121) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
-- ![](../assets/pr-merged.svg) [Make footer logs clickable and rm typos](https://github.com/hullcss/hullcss-site-jet/pull/13) on [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) (3 months ago)
