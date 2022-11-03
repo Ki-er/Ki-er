@@ -19,11 +19,11 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [feat: Add Packlink](https://github.com/remoteintech/remote-jobs/pull/1589) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 day ago)
-- ![](./assets/pr-open.svg) [feat: Add Massive Pixel Creation](https://github.com/remoteintech/remote-jobs/pull/1585) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (2 days ago)
-- ![](./assets/pr-open.svg) [feat: Add Rakuten Travel Xchange](https://github.com/remoteintech/remote-jobs/pull/1584) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (2 days ago)
-- ![](./assets/pr-merged.svg) [fix: Add companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1542) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (5 days ago)
-- ![](./assets/pr-merged.svg) [feat: Add Kieran Robson](https://github.com/wesbos/awesome-uses/pull/1469) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (5 days ago)
+- ![](./assets/pr-open.svg) [feat: Add Packlink](https://github.com/remoteintech/remote-jobs/pull/1589) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (2 days ago)
+- ![](./assets/pr-open.svg) [feat: Add Massive Pixel Creation](https://github.com/remoteintech/remote-jobs/pull/1585) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 days ago)
+- ![](./assets/pr-open.svg) [feat: Add Rakuten Travel Xchange](https://github.com/remoteintech/remote-jobs/pull/1584) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 days ago)
+- ![](./assets/pr-merged.svg) [fix: Add companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1542) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 days ago)
+- ![](./assets/pr-merged.svg) [feat: Add Kieran Robson](https://github.com/wesbos/awesome-uses/pull/1469) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (6 days ago)
 - ![](./assets/pr-merged.svg) [feat: Add Safeguard-Global](https://github.com/remoteintech/remote-jobs/pull/1567) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 week ago)
 - ![](./assets/pr-merged.svg) [fix: Standardisation to README regions.](https://github.com/remoteintech/remote-jobs/pull/1565) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (1 week ago)
 - ![](./assets/pr-merged.svg) [fix: Add some package names to npm](https://github.com/streetsidesoftware/cspell-dicts/pull/1517) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
