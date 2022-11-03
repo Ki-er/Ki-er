@@ -10,7 +10,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 <a href="https://www.holopin.io/@kieranrobson"><img src="https://custom-icon-badges.demolab.com/badge/Holopin-2f527f?style=for-the-badge&logo=pin&logoColor=white">
 </p>
 
-
 # 🔨 My recent Pull Requests
 {{range recentPullRequests 10}}
 - ![](./assets/pr-{{ .State | toLower }}.svg) [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
@@ -21,22 +20,16 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
   <a href="https://github.com/forks-by-kieran"><img alt="Forks" title="Forks" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
-
 # ✏️ My recent Docs
 {{range rss "https://kieranrobson.com/docs/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-# ✏️ My recent Blogs
-{{range rss "https://kieranrobson.com/blog/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+<a href="https://kieranrobson.com/docs/index.xml"><img alt="RSS Feed" title="RSS Feed" src="https://custom-icon-badges.demolab.com/badge/-RSS%20FEED%20-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 
 #
 
-<center>
-
-📈[Stats](/pages/STATS.md) •
-⭐[Stars](pages/STARRED-REPOS.md) •
-
-</center>
+<p>
+<a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/STATS.md"><img src="https://custom-icon-badges.demolab.com/badge/Github%20Stats-828?style=for-the-badge&logo=graph&logoColor=white">
+<a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/STARRED-REPOS.md"><img src="https://custom-icon-badges.demolab.com/badge/Github%20Stars-488207?style=for-the-badge&logo=star&logoColor=white">
+</p>
