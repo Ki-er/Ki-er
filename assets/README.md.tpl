@@ -7,7 +7,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 <a href="https://discord.com/users/360860744977350657"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <a href="https://twitter.com/Kieranr27"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 <a href="https://Kieranrobson.com"><img src="https://custom-icon-badges.demolab.com/badge/Website-4c4c51?style=for-the-badge&logo=link&logoColor=white">
-<a href="https://Kieranrobson.com"><img src="https://custom-icon-badges.demolab.com/badge/Holopin-2f527f?style=for-the-badge&logo=pin&logoColor=white">
+<a href="https://www.holopin.io/@kieranrobson"><img src="https://custom-icon-badges.demolab.com/badge/Holopin-2f527f?style=for-the-badge&logo=pin&logoColor=white">
 </p>
 
 
