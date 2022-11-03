@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat: Add Vero](https://github.com/techno-tim/littlelink-server/pull/260) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (today)
 - ![](../assets/pr-open.svg) [feat: Add Packlink](https://github.com/remoteintech/remote-jobs/pull/1589) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (2 days ago)
 - ![](../assets/pr-open.svg) [feat: Add Massive Pixel Creation](https://github.com/remoteintech/remote-jobs/pull/1585) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 days ago)
 - ![](../assets/pr-open.svg) [feat: Add Rakuten Travel Xchange](https://github.com/remoteintech/remote-jobs/pull/1584) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 days ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Added Buttons](https://github.com/techno-tim/littlelink-server/pull/172) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added DOMJudge to Misc](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3127) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added Thumbor to Photo and Video Galleries](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3126) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
-- ![](../assets/pr-merged.svg) [Added LibreTranslate to Misc](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3123) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
