@@ -30,6 +30,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 #
 
 <p>
-<a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/STATS.md"><img src="https://custom-icon-badges.demolab.com/badge/Github%20Stats-828?style=for-the-badge&logo=graph&logoColor=white">
-<a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/STARRED-REPOS.md"><img src="https://custom-icon-badges.demolab.com/badge/Github%20Stars-488207?style=for-the-badge&logo=star&logoColor=white">
+<a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/STATS.md"><img src="https://custom-icon-badges.demolab.com/badge/Github%20Stats-2962FF?style=for-the-badge&logo=graph&logoColor=white">
+<a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/STARRED-REPOS.md"><img src="https://custom-icon-badges.demolab.com/badge/Github%20Stars-2962FF?style=for-the-badge&logo=star&logoColor=white">
 </p>
