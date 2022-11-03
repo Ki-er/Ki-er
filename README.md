@@ -7,9 +7,8 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 <a href="https://discord.com/users/360860744977350657"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <a href="https://twitter.com/Kieranr27"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 <a href="https://Kieranrobson.com"><img src="https://custom-icon-badges.demolab.com/badge/Website-4c4c51?style=for-the-badge&logo=link&logoColor=white">
-<a href="https://Kieranrobson.com"><img src="https://custom-icon-badges.demolab.com/badge/Holopin-2f527f?style=for-the-badge&logo=pin&logoColor=white">
+<a href="https://www.holopin.io/@kieranrobson"><img src="https://custom-icon-badges.demolab.com/badge/Holopin-2f527f?style=for-the-badge&logo=pin&logoColor=white">
 </p>
-
 
 # 🔨 My recent Pull Requests
 
@@ -29,7 +28,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
   <a href="https://github.com/forks-by-kieran"><img alt="Forks" title="Forks" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
-
 # ✏️ My recent Docs
 
 - [How to install Uptime Kuma](https://kieranrobson.com/docs/uptimekuma/) (4 months ago)
@@ -37,15 +35,11 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - [How to install Portainer](https://kieranrobson.com/docs/portainer/) (5 months ago)
 - [How to install Docker and Docker Compose](https://kieranrobson.com/docs/docker-and-docker-compose/) (5 months ago)
 
-# ✏️ My recent Blogs
-
-- [What I Run On My VPS](https://kieranrobson.com/blog/whatirunonmyvps/) (4 months ago)
+<a href="https://kieranrobson.com/docs/index.xml"><img alt="RSS Feed" title="RSS Feed" src="https://custom-icon-badges.demolab.com/badge/-RSS%20FEED%20-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 
 #
 
-<center>
-
-📈[Stats](/pages/STATS.md) •
-⭐[Stars](pages/STARRED-REPOS.md) •
-
-</center>
+<p>
+<a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/STATS.md"><img src="https://custom-icon-badges.demolab.com/badge/Github%20Stats-828?style=for-the-badge&logo=graph&logoColor=white">
+<a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/STARRED-REPOS.md"><img src="https://custom-icon-badges.demolab.com/badge/Github%20Stars-488207?style=for-the-badge&logo=star&logoColor=white">
+</p>
