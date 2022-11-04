@@ -1,7 +1,7 @@
 ### 🔨 Recent 100 PRs
 
 - ![](../assets/pr-open.svg) [feat: Add Vero](https://github.com/techno-tim/littlelink-server/pull/261) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (today)
-- ![](../assets/pr-open.svg) [fix: Add Portainer](https://github.com/streetsidesoftware/cspell-dicts/pull/1577) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
+- ![](../assets/pr-merged.svg) [fix: Add Portainer](https://github.com/streetsidesoftware/cspell-dicts/pull/1577) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
 - ![](../assets/pr-closed.svg) [feat: Add Vero](https://github.com/techno-tim/littlelink-server/pull/260) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 day ago)
 - ![](../assets/pr-merged.svg) [feat: Add Packlink](https://github.com/remoteintech/remote-jobs/pull/1589) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 days ago)
 - ![](../assets/pr-merged.svg) [feat: Add Massive Pixel Creation](https://github.com/remoteintech/remote-jobs/pull/1585) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (4 days ago)
