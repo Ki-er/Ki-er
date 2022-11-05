@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [fix: Add endfor to PHP](https://github.com/streetsidesoftware/cspell-dicts/pull/1584) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-open.svg) [fix: Add Ourobros](https://github.com/streetsidesoftware/cspell-dicts/pull/1583) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-merged.svg) [fix: Add Portainer](https://github.com/streetsidesoftware/cspell-dicts/pull/1581) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
 - ![](../assets/pr-merged.svg) [feat: Add Vero](https://github.com/techno-tim/littlelink-server/pull/261) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 day ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Add buttons](https://github.com/techno-tim/littlelink-server/pull/182) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
 - ![](../assets/pr-merged.svg) [Edit checkgithubdates to add archived status ](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3145) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Link and README cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3140) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
-- ![](../assets/pr-merged.svg) [Added Buku to Bookmarks](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3139) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
