@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [fix: Upgrade ADA](https://github.com/streetsidesoftware/cspell-dicts/pull/1589) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-merged.svg) [feat: Add Vero](https://github.com/sethcottle/littlelink-extended/pull/6) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (1 day ago)
 - ![](../assets/pr-merged.svg) [fix: Add endfor to PHP](https://github.com/streetsidesoftware/cspell-dicts/pull/1584) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
 - ![](../assets/pr-merged.svg) [fix: Add Ourobros](https://github.com/streetsidesoftware/cspell-dicts/pull/1583) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Added Brand Request Issue Template and Fix Design By Humans](https://github.com/techno-tim/littlelink-server/pull/184) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added screenshot heading for screenshots](https://github.com/techno-tim/littlelink-server/pull/183) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
 - ![](../assets/pr-merged.svg) [Add buttons](https://github.com/techno-tim/littlelink-server/pull/182) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
-- ![](../assets/pr-merged.svg) [Edit checkgithubdates to add archived status ](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3145) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
