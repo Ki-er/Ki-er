@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat: Upgrade Bash Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1601) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-open.svg) [feat: Add 500px](https://github.com/sethcottle/littlelink-extended/pull/7) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (1 day ago)
 - ![](../assets/pr-open.svg) [feat: Add 500px](https://github.com/techno-tim/littlelink-server/pull/264) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 day ago)
 - ![](../assets/pr-merged.svg) [fix: Upgrade ADA](https://github.com/streetsidesoftware/cspell-dicts/pull/1589) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 days ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-closed.svg) [Added shadow to avatar and buttons](https://github.com/techno-tim/littlelink-server/pull/193) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
 - ![](../assets/pr-closed.svg) [Added Vigil](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3167) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Link and README Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3160) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
-- ![](../assets/pr-merged.svg) [Added Brand Request Issue Template and Fix Design By Humans](https://github.com/techno-tim/littlelink-server/pull/184) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
