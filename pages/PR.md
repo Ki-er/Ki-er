@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat!: Upgrade Dotnet Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1613) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-open.svg) [feat!: Upgrade Django Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1611) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
 - ![](../assets/pr-open.svg) [feat!: Upgrade CSS Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1610) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
 - ![](../assets/pr-open.svg) [feat: Create Gaming Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1609) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Add hastypaste to pastebin](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3185) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added Dockerhub](https://github.com/techno-tim/littlelink-server/pull/194) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
 - ![](../assets/pr-merged.svg) [Cleanup of Read it later section](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3184) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
-- ![](../assets/pr-merged.svg) [Dead Projects Removal](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3183) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
