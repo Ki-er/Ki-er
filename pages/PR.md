@@ -1,10 +1,10 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [feat!: Upgrade Elixir Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1614) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](../assets/pr-merged.svg) [feat!: Upgrade Elixir Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1614) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-open.svg) [feat!: Upgrade Dotnet Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1613) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
-- ![](../assets/pr-open.svg) [feat!: Upgrade Django Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1611) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
-- ![](../assets/pr-open.svg) [feat!: Upgrade CSS Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1610) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
-- ![](../assets/pr-open.svg) [feat: Create Gaming Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1609) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
+- ![](../assets/pr-merged.svg) [feat!: Upgrade Django Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1611) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
+- ![](../assets/pr-merged.svg) [feat!: Upgrade CSS Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1610) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
+- ![](../assets/pr-merged.svg) [feat: Create Gaming Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1609) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Bash Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1601) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
 - ![](../assets/pr-merged.svg) [feat: Add 500px](https://github.com/sethcottle/littlelink-extended/pull/7) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (2 days ago)
 - ![](../assets/pr-merged.svg) [feat: Add 500px](https://github.com/techno-tim/littlelink-server/pull/264) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (2 days ago)
