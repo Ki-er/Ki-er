@@ -12,6 +12,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-merged.svg) [chore: Typo fixes](https://github.com/KieranRobson/Clarence-Bot/pull/94) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
 - ![](./assets/pr-open.svg) [feat! Upgrade Haskell Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1621) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](./assets/pr-open.svg) [feat!: Upgrade Go Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1620) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](./assets/pr-merged.svg) [feat!: Upgrade Elixir Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1614) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
@@ -21,7 +22,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-merged.svg) [feat: Create Gaming Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1609) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 days ago)
 - ![](./assets/pr-merged.svg) [feat!: Upgrade Bash Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1601) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 days ago)
 - ![](./assets/pr-merged.svg) [feat: Add 500px](https://github.com/sethcottle/littlelink-extended/pull/7) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (3 days ago)
-- ![](./assets/pr-merged.svg) [feat: Add 500px](https://github.com/techno-tim/littlelink-server/pull/264) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 days ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
