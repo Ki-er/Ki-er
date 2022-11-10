@@ -1,8 +1,8 @@
 ### 🔨 Recent 100 PRs
 
 - ![](../assets/pr-merged.svg) [chore: Typo fixes](https://github.com/KieranRobson/Clarence-Bot/pull/94) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
-- ![](../assets/pr-open.svg) [feat! Upgrade Haskell Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1621) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
-- ![](../assets/pr-open.svg) [feat!: Upgrade Go Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1620) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](../assets/pr-merged.svg) [feat!: Upgrade Haskell Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1621) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](../assets/pr-merged.svg) [feat!: Upgrade Go Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1620) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Elixir Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1614) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
 - ![](../assets/pr-closed.svg) [feat!: Upgrade Dotnet Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1613) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Django Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1611) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 days ago)
