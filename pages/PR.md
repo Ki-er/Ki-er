@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-merged.svg) [chore: Typo fixes](https://github.com/KieranRobson/Clarence-Bot/pull/94) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
 - ![](../assets/pr-open.svg) [feat! Upgrade Haskell Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1621) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-open.svg) [feat!: Upgrade Go Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1620) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Elixir Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1614) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Added Section Descriptions Part 2](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3192) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Issue closing and readme cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3190) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-closed.svg) [RM bug tracker category](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3189) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
-- ![](../assets/pr-merged.svg) [Add Statusping.ng to Status pages](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3186) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
