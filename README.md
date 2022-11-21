@@ -21,7 +21,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-merged.svg) [feat!: Upgrade CSS Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1610) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat: Create Gaming Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1609) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat!: Upgrade Bash Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1601) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
-- ![](./assets/pr-merged.svg) [feat: Add 500px](https://github.com/sethcottle/littlelink-extended/pull/7) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (1 week ago)
+- ![](./assets/pr-merged.svg) [feat: Add 500px](https://github.com/sethcottle/littlelink-extended/pull/7) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (2 weeks ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
