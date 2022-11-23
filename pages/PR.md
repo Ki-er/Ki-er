@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-merged.svg) [chore: Change commitlint](https://github.com/KieranRobson/Clarence-Bot/pull/110) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
 - ![](../assets/pr-merged.svg) [chore: Typo fixes](https://github.com/KieranRobson/Clarence-Bot/pull/94) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 week ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Haskell Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1621) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Go Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1620) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Added  Minimalist Online Markdown Editor to Note Taking Editors](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3193) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added Section Descriptions Part 2](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3192) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Issue closing and readme cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3190) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
-- ![](../assets/pr-closed.svg) [RM bug tracker category](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3189) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
