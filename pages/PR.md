@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-closed.svg) [feat: Add typo to readme for testing](https://github.com/KieranRobson/Clarence-Bot/pull/118) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
+- ![](../assets/pr-merged.svg) [feat: Add CSpell workflow](https://github.com/KieranRobson/Clarence-Bot/pull/116) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
 - ![](../assets/pr-merged.svg) [chore: Update docker version and add info to env](https://github.com/KieranRobson/Clarence-Bot/pull/112) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 days ago)
 - ![](../assets/pr-merged.svg) [feat: Add ISO code to weather command](https://github.com/KieranRobson/Clarence-Bot/pull/111) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 days ago)
 - ![](../assets/pr-merged.svg) [chore: Change commitlint](https://github.com/KieranRobson/Clarence-Bot/pull/110) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (3 days ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Added Fess to Search Engines](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3213) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Add Vivum to selfhosting solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3210) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [README and Stale Issue Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3197) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
-- ![](../assets/pr-merged.svg) [Added Omeka-S to Digital Archiving](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3194) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
-- ![](../assets/pr-merged.svg) [Added  Minimalist Online Markdown Editor to Note Taking Editors](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3193) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
