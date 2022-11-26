@@ -12,9 +12,9 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-merged.svg) [chore: Update docker version and add info to env](https://github.com/KieranRobson/Clarence-Bot/pull/112) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 day ago)
-- ![](./assets/pr-merged.svg) [feat: Add ISO code to weather command](https://github.com/KieranRobson/Clarence-Bot/pull/111) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 day ago)
-- ![](./assets/pr-merged.svg) [chore: Change commitlint](https://github.com/KieranRobson/Clarence-Bot/pull/110) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 days ago)
+- ![](./assets/pr-merged.svg) [chore: Update docker version and add info to env](https://github.com/KieranRobson/Clarence-Bot/pull/112) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 days ago)
+- ![](./assets/pr-merged.svg) [feat: Add ISO code to weather command](https://github.com/KieranRobson/Clarence-Bot/pull/111) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 days ago)
+- ![](./assets/pr-merged.svg) [chore: Change commitlint](https://github.com/KieranRobson/Clarence-Bot/pull/110) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (3 days ago)
 - ![](./assets/pr-merged.svg) [chore: Typo fixes](https://github.com/KieranRobson/Clarence-Bot/pull/94) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [feat!: Upgrade Haskell Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1621) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [feat!: Upgrade Go Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1620) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
@@ -31,7 +31,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 # ✏️ My recent Docs
 
 - [How to install Uptime Kuma](https://kieranrobson.com/docs/uptimekuma/) (5 months ago)
-- [How to install NGINX proxy manager and Cloudlfare](https://kieranrobson.com/docs/nginxproxymanager/) (5 months ago)
+- [How to install NGINX proxy manager and Cloudlfare](https://kieranrobson.com/docs/nginxproxymanager/) (6 months ago)
 - [How to install Portainer](https://kieranrobson.com/docs/portainer/) (6 months ago)
 - [How to install Docker and Docker Compose](https://kieranrobson.com/docs/docker-and-docker-compose/) (6 months ago)
 
