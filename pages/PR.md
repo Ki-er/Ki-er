@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-merged.svg) [feat: Create guilddelete event, remove data if clarence leaves a server](https://github.com/KieranRobson/Clarence-Bot/pull/121) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
 - ![](../assets/pr-merged.svg) [feat: Add Alex Workflow](https://github.com/KieranRobson/Clarence-Bot/pull/119) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
 - ![](../assets/pr-closed.svg) [feat: Add typo to readme for testing](https://github.com/KieranRobson/Clarence-Bot/pull/118) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
 - ![](../assets/pr-merged.svg) [feat: Add CSpell workflow](https://github.com/KieranRobson/Clarence-Bot/pull/116) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Added items to tools](https://github.com/FreesideHull/StudentResources/pull/8) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (3 months ago)
 - ![](../assets/pr-merged.svg) [Descriptions Part 3](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3215) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added Fess to Search Engines](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3213) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
-- ![](../assets/pr-merged.svg) [Add Vivum to selfhosting solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3210) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
