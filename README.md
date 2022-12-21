@@ -12,7 +12,8 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [feat!: Upgrade Typescript Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1713) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](./assets/pr-open.svg) [feat!: Upgrade Latex Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1714) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](./assets/pr-open.svg) [feat: Upgrade Typescript Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1713) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](./assets/pr-merged.svg) [feat: Create guilddelete event, remove data if clarence leaves a server](https://github.com/KieranRobson/Clarence-Bot/pull/121) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [feat: Add Alex Workflow](https://github.com/KieranRobson/Clarence-Bot/pull/119) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [feat: Add typo to readme for testing](https://github.com/KieranRobson/Clarence-Bot/pull/118) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (3 weeks ago)
@@ -21,7 +22,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-merged.svg) [feat: Add ISO code to weather command](https://github.com/KieranRobson/Clarence-Bot/pull/111) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [chore: Change commitlint](https://github.com/KieranRobson/Clarence-Bot/pull/110) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [chore: Typo fixes](https://github.com/KieranRobson/Clarence-Bot/pull/94) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 month ago)
-- ![](./assets/pr-merged.svg) [feat!: Upgrade Haskell Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1621) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
