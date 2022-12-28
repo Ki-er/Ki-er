@@ -30,6 +30,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # ✏️ My recent Docs
 
+- [How to install and setup VaultWarden](https://kieranrobson.com/docs/vaultwarden/) (today)
 - [How to install Uptime Kuma](https://kieranrobson.com/docs/uptimekuma/) (6 months ago)
 - [How to install NGINX proxy manager and Cloudlfare](https://kieranrobson.com/docs/nginxproxymanager/) (7 months ago)
 - [How to install Portainer](https://kieranrobson.com/docs/portainer/) (7 months ago)
