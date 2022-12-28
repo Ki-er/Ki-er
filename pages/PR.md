@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat!: Upgrade Lua Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1740) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-merged.svg) [fix: Add words to various dicts](https://github.com/streetsidesoftware/cspell-dicts/pull/1721) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 days ago)
 - ![](../assets/pr-merged.svg) [feat: Upgrade Latex Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1714) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [feat: Upgrade Typescript Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1713) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Cleanup other pages](https://github.com/FreesideHull/StudentResources/pull/11) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (4 months ago)
 - ![](../assets/pr-merged.svg) [Added help and support from SRL](https://github.com/FreesideHull/.github/pull/1) on [FreesideHull/.github](https://github.com/FreesideHull/.github) (4 months ago)
 - ![](../assets/pr-merged.svg) [Cleanup intro](https://github.com/FreesideHull/StudentResources/pull/10) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (4 months ago)
-- ![](../assets/pr-merged.svg) [Changed numbering to `-`](https://github.com/FreesideHull/StudentResources/pull/9) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (4 months ago)
