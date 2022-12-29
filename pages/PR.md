@@ -1,8 +1,9 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [feat!: Upgade Rust Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1752) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](../assets/pr-open.svg) [feat!: Upgrade Scala Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1757) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](../assets/pr-merged.svg) [feat!: Upgade Rust Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1752) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-open.svg) [feat!: Upgrade Ruby Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1748) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
-- ![](../assets/pr-open.svg) [feat!: Upgrade Powershell Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1746) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](../assets/pr-merged.svg) [feat!: Upgrade Powershell Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1746) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-merged.svg) [fix: Create Acronym Dict and Fix Typo](https://github.com/streetsidesoftware/cspell-dicts/pull/1745) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-merged.svg) [fix: Add British Software Terms](https://github.com/streetsidesoftware/cspell-dicts/pull/1744) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-merged.svg) [docs: Add K8s to list of Dictionaries](https://github.com/streetsidesoftware/cspell-dicts/pull/1742) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-closed.svg) [Redirect fixes Part 2](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3229) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 months ago)
 - ![](../assets/pr-merged.svg) [Non Free clean up](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3228) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 months ago)
 - ![](../assets/pr-merged.svg) [Non-free redirect fixes part 2](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3227) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 months ago)
-- ![](../assets/pr-merged.svg) [Nonfree Redirect Fixes Part 1](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3223) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 months ago)
