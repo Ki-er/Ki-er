@@ -1,9 +1,10 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [fix: Create Acronym Dict and Fix Typo](https://github.com/streetsidesoftware/cspell-dicts/pull/1745) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
-- ![](../assets/pr-open.svg) [fix: Add British Software Terms](https://github.com/streetsidesoftware/cspell-dicts/pull/1744) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
-- ![](../assets/pr-open.svg) [docs: Add K8s to list of Dictionaries](https://github.com/streetsidesoftware/cspell-dicts/pull/1742) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
-- ![](../assets/pr-open.svg) [feat!: Upgrade Lua Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1740) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
+- ![](../assets/pr-open.svg) [feat!: Upgrade Powershell Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1746) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](../assets/pr-merged.svg) [fix: Create Acronym Dict and Fix Typo](https://github.com/streetsidesoftware/cspell-dicts/pull/1745) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](../assets/pr-merged.svg) [fix: Add British Software Terms](https://github.com/streetsidesoftware/cspell-dicts/pull/1744) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](../assets/pr-merged.svg) [docs: Add K8s to list of Dictionaries](https://github.com/streetsidesoftware/cspell-dicts/pull/1742) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](../assets/pr-merged.svg) [feat!: Upgrade Lua Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1740) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
 - ![](../assets/pr-merged.svg) [fix: Add words to various dicts](https://github.com/streetsidesoftware/cspell-dicts/pull/1721) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [feat: Upgrade Latex Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1714) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [feat: Upgrade Typescript Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1713) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Nonfree Redirect Fixes Part 1](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3223) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 months ago)
 - ![](../assets/pr-merged.svg) [Redirect fixes Part 1](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3222) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 months ago)
 - ![](../assets/pr-merged.svg) [Cleanup of Gateway Section](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3221) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 months ago)
-- ![](../assets/pr-merged.svg) [Formatting of pages and repo](https://github.com/FreesideHull/StudentResources/pull/12) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (4 months ago)
