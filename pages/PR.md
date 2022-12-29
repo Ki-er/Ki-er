@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat!: Upgrade Ruby Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1748) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-open.svg) [feat!: Upgrade Powershell Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1746) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-merged.svg) [fix: Create Acronym Dict and Fix Typo](https://github.com/streetsidesoftware/cspell-dicts/pull/1745) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-merged.svg) [fix: Add British Software Terms](https://github.com/streetsidesoftware/cspell-dicts/pull/1744) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Non-free redirect fixes part 2](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3227) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 months ago)
 - ![](../assets/pr-merged.svg) [Nonfree Redirect Fixes Part 1](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3223) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 months ago)
 - ![](../assets/pr-merged.svg) [Redirect fixes Part 1](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3222) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 months ago)
-- ![](../assets/pr-merged.svg) [Cleanup of Gateway Section](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3221) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 months ago)
