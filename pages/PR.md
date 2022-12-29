@@ -1,7 +1,7 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [feat!: Upgrade Lua Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1740) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
-- ![](../assets/pr-merged.svg) [fix: Add words to various dicts](https://github.com/streetsidesoftware/cspell-dicts/pull/1721) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 days ago)
+- ![](../assets/pr-open.svg) [feat!: Upgrade Lua Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1740) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
+- ![](../assets/pr-merged.svg) [fix: Add words to various dicts](https://github.com/streetsidesoftware/cspell-dicts/pull/1721) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [feat: Upgrade Latex Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1714) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [feat: Upgrade Typescript Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1713) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [feat: Create guilddelete event, remove data if clarence leaves a server](https://github.com/KieranRobson/Clarence-Bot/pull/121) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 month ago)
