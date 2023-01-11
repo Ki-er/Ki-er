@@ -1,7 +1,7 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-merged.svg) [Revert &#34;chore(deps): bump node from 16.17.1 to 19.4.0&#34;](https://github.com/KieranRobson/Clarence-Bot/pull/168) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 day ago)
-- ![](../assets/pr-merged.svg) [fix: Create software-services and add words to companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1790) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 days ago)
+- ![](../assets/pr-merged.svg) [Revert &#34;chore(deps): bump node from 16.17.1 to 19.4.0&#34;](https://github.com/KieranRobson/Clarence-Bot/pull/168) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 days ago)
+- ![](../assets/pr-merged.svg) [fix: Create software-services and add words to companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1790) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 days ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Scala Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1757) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgade Rust Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1752) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Ruby Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1748) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
@@ -9,10 +9,10 @@
 - ![](../assets/pr-merged.svg) [fix: Create Acronym Dict and Fix Typo](https://github.com/streetsidesoftware/cspell-dicts/pull/1745) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [fix: Add British Software Terms](https://github.com/streetsidesoftware/cspell-dicts/pull/1744) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [docs: Add K8s to list of Dictionaries](https://github.com/streetsidesoftware/cspell-dicts/pull/1742) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
-- ![](../assets/pr-merged.svg) [feat!: Upgrade Lua Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1740) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
+- ![](../assets/pr-merged.svg) [feat!: Upgrade Lua Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1740) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
 - ![](../assets/pr-merged.svg) [fix: Add words to various dicts](https://github.com/streetsidesoftware/cspell-dicts/pull/1721) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
-- ![](../assets/pr-merged.svg) [feat: Upgrade Latex Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1714) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
-- ![](../assets/pr-merged.svg) [feat: Upgrade Typescript Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1713) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
+- ![](../assets/pr-merged.svg) [feat: Upgrade Latex Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1714) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 weeks ago)
+- ![](../assets/pr-merged.svg) [feat: Upgrade Typescript Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1713) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 weeks ago)
 - ![](../assets/pr-merged.svg) [feat: Create guilddelete event, remove data if clarence leaves a server](https://github.com/KieranRobson/Clarence-Bot/pull/121) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 month ago)
 - ![](../assets/pr-merged.svg) [feat: Add Alex Workflow](https://github.com/KieranRobson/Clarence-Bot/pull/119) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 month ago)
 - ![](../assets/pr-closed.svg) [feat: Add typo to readme for testing](https://github.com/KieranRobson/Clarence-Bot/pull/118) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 month ago)
