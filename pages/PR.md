@@ -1,7 +1,7 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-merged.svg) [Revert &#34;chore(deps): bump node from 16.17.1 to 19.4.0&#34;](https://github.com/KieranRobson/Clarence-Bot/pull/168) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (4 days ago)
-- ![](../assets/pr-merged.svg) [fix: Create software-services and add words to companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1790) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (5 days ago)
+- ![](../assets/pr-merged.svg) [Revert &#34;chore(deps): bump node from 16.17.1 to 19.4.0&#34;](https://github.com/KieranRobson/Clarence-Bot/pull/168) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (5 days ago)
+- ![](../assets/pr-merged.svg) [fix: Create software-services and add words to companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1790) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 days ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Scala Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1757) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgade Rust Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1752) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Ruby Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1748) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
@@ -74,7 +74,7 @@
 - ![](../assets/pr-merged.svg) [addition: Add SRS to Miscellaneous ](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3299) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [addition: Add Gerrit to Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3298) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [Added other actions](https://github.com/CrimsonTome/CrimsonTome/pull/2) on [CrimsonTome/CrimsonTome](https://github.com/CrimsonTome/CrimsonTome) (3 months ago)
-- ![](../assets/pr-merged.svg) [fix: Capitalised image extensions not being ignored](https://github.com/streetsidesoftware/cspell/pull/3599) on [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) (3 months ago)
+- ![](../assets/pr-merged.svg) [fix: Capitalised image extensions not being ignored](https://github.com/streetsidesoftware/cspell/pull/3599) on [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) (4 months ago)
 - ![](../assets/pr-merged.svg) [Fix back to top links and Typo](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3294) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 months ago)
 - ![](../assets/pr-merged.svg) [Cleanup Bookmark section](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3288) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 months ago)
 - ![](../assets/pr-merged.svg) [Clean up code and get messages to send](https://github.com/CrimsonTome/hullblogs-feed-bot/pull/1) on [CrimsonTome/hullblogs-feed-bot](https://github.com/CrimsonTome/hullblogs-feed-bot) (4 months ago)
