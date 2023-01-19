@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.31
+      - uses: lowlighter/metrics@v3.32
         with:
           # filename
           filename: assets/metrics.plugin.activity.svg
