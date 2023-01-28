@@ -14,13 +14,13 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 - ![](./assets/pr-merged.svg) [Revert &#34;chore(deps): bump node from 16.17.1 to 19.4.0&#34;](https://github.com/KieranRobson/Clarence-Bot/pull/168) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix: Create software-services and add words to companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1790) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [feat!: Upgrade Scala Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1757) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [feat!: Upgade Rust Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1752) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [feat!: Upgrade Ruby Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1748) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [feat!: Upgrade Powershell Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1746) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [fix: Create Acronym Dict and Fix Typo](https://github.com/streetsidesoftware/cspell-dicts/pull/1745) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [fix: Add British Software Terms](https://github.com/streetsidesoftware/cspell-dicts/pull/1744) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [docs: Add K8s to list of Dictionaries](https://github.com/streetsidesoftware/cspell-dicts/pull/1742) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [feat!: Upgrade Scala Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1757) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
+- ![](./assets/pr-merged.svg) [feat!: Upgade Rust Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1752) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
+- ![](./assets/pr-merged.svg) [feat!: Upgrade Ruby Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1748) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
+- ![](./assets/pr-merged.svg) [feat!: Upgrade Powershell Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1746) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
+- ![](./assets/pr-merged.svg) [fix: Create Acronym Dict and Fix Typo](https://github.com/streetsidesoftware/cspell-dicts/pull/1745) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
+- ![](./assets/pr-merged.svg) [fix: Add British Software Terms](https://github.com/streetsidesoftware/cspell-dicts/pull/1744) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
+- ![](./assets/pr-merged.svg) [docs: Add K8s to list of Dictionaries](https://github.com/streetsidesoftware/cspell-dicts/pull/1742) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
 - ![](./assets/pr-merged.svg) [feat!: Upgrade Lua Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1740) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
 
 <p align="left">
