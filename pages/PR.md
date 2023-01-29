@@ -1,7 +1,7 @@
 ### 🔨 Recent 100 PRs
 
 - ![](../assets/pr-merged.svg) [Revert &#34;chore(deps): bump node from 16.17.1 to 19.4.0&#34;](https://github.com/KieranRobson/Clarence-Bot/pull/168) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 weeks ago)
-- ![](../assets/pr-merged.svg) [fix: Create software-services and add words to companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1790) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
+- ![](../assets/pr-merged.svg) [fix: Create software-services and add words to companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1790) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 weeks ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Scala Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1757) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgade Rust Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1752) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Ruby Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1748) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
@@ -40,8 +40,8 @@
 - ![](../assets/pr-merged.svg) [fix: Add Portainer](https://github.com/streetsidesoftware/cspell-dicts/pull/1577) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 months ago)
 - ![](../assets/pr-closed.svg) [feat: Add Vero](https://github.com/techno-tim/littlelink-server/pull/260) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (2 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add Packlink](https://github.com/remoteintech/remote-jobs/pull/1589) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (2 months ago)
-- ![](../assets/pr-merged.svg) [feat: Add Massive Pixel Creation](https://github.com/remoteintech/remote-jobs/pull/1585) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (2 months ago)
-- ![](../assets/pr-merged.svg) [feat: Add Rakuten Travel Xchange](https://github.com/remoteintech/remote-jobs/pull/1584) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (2 months ago)
+- ![](../assets/pr-merged.svg) [feat: Add Massive Pixel Creation](https://github.com/remoteintech/remote-jobs/pull/1585) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 months ago)
+- ![](../assets/pr-merged.svg) [feat: Add Rakuten Travel Xchange](https://github.com/remoteintech/remote-jobs/pull/1584) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 months ago)
 - ![](../assets/pr-merged.svg) [fix: Add companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1542) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add Kieran Robson](https://github.com/wesbos/awesome-uses/pull/1469) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (3 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add Safeguard-Global](https://github.com/remoteintech/remote-jobs/pull/1567) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (3 months ago)
