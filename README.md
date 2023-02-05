@@ -13,7 +13,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 # 🔨 My recent Pull Requests
 
 - ![](./assets/pr-merged.svg) [Revert &#34;chore(deps): bump node from 16.17.1 to 19.4.0&#34;](https://github.com/KieranRobson/Clarence-Bot/pull/168) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [fix: Create software-services and add words to companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1790) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [fix: Create software-services and add words to companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1790) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [feat!: Upgrade Scala Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1757) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
 - ![](./assets/pr-merged.svg) [feat!: Upgade Rust Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1752) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
 - ![](./assets/pr-merged.svg) [feat!: Upgrade Ruby Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1748) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
