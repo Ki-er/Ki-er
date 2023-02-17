@@ -49,7 +49,7 @@ Total starred repositories: `623`
 
 ## Astro
 
-  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️229446)
+  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️229448)
 
 ## Batchfile
 
@@ -63,19 +63,19 @@ Total starred repositories: `623`
 
   - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers. \[*GNU LGPLv2.1*\] (⭐️7950)
   - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux. \[*GNU GPLv3*\] (⭐️13784)
-  - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. \[*GNU GPLv3*\] (⭐️45467)
+  - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. \[*GNU GPLv3*\] (⭐️45468)
 
 ## C#
 
   - [Codeusa/SteamCleaner](https://github.com/Codeusa/SteamCleaner) - :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us: \[*GNU GPLv3*\] (⭐️1881)
   - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam. \[*zlib License*\] (⭐️3848)
-  - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. \[*MIT License*\] (⭐️4974)
+  - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. \[*MIT License*\] (⭐️4975)
   - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously. \[*Apache License 2.0*\] (⭐️9039)
   - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. \[*GNU GPLv3*\] (⭐️2225)
-  - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity \[*MIT License*\] (⭐️86750)
+  - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity \[*MIT License*\] (⭐️86751)
   - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi! \[*GNU GPLv2*\] (⭐️3181)
   - [Ombrelin/plex-rich-presence](https://github.com/Ombrelin/plex-rich-presence) - A desktop app to enable discord rich presence for your Plex Media Server Activity \[*MIT License*\] (⭐️158)
-  - [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato. \[*GNU GPLv3*\] (⭐️7207)
+  - [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato. \[*GNU GPLv3*\] (⭐️7208)
   - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users. \[*GNU GPLv3*\] (⭐️8281)
   - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :) \[*GNU GPLv3*\] (⭐️4873)
   - [wabbajack-tools/mod-lists](https://github.com/wabbajack-tools/mod-lists) - Metadata for public modlists (⭐️44)
@@ -84,9 +84,9 @@ Total starred repositories: `623`
 ## C++
 
   - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.  \[*MIT License*\] (⭐️11527)
-  - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. (⭐️15045)
-  - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! \[*MIT License*\] (⭐️87592)
-  - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way. \[*GNU GPLv3*\] (⭐️2611)
+  - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. (⭐️15046)
+  - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! \[*MIT License*\] (⭐️87593)
+  - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way. \[*GNU GPLv3*\] (⭐️2612)
   - [weserv/images](https://github.com/weserv/images) - Source code of wsrv.nl (formerly images.weserv.nl), to be used on your own server(s). \[*Modified BSD License*\] (⭐️1300)
   - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator \[*GNU GPLv3*\] (⭐️23838)
 
@@ -111,7 +111,7 @@ Total starred repositories: `623`
 
 ## Crystal
 
-  - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube \[*GNU AGPLv3*\] (⭐️9408)
+  - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube \[*GNU AGPLv3*\] (⭐️9409)
 
 ## D
 
@@ -119,14 +119,14 @@ Total starred repositories: `623`
 
 ## Dart
 
-  - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond \[*Modified BSD License*\] (⭐️150221)
+  - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond \[*Modified BSD License*\] (⭐️150223)
 
 ## Dockerfile
 
   - [appleboy/telegram-action](https://github.com/appleboy/telegram-action) - GitHub Action that sends a Telegram message. \[*MIT License*\] (⭐️630)
   - [jlesage/docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager (⭐️581)
   - [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) -  \[*GNU GPLv3*\] (⭐️1048)
-  - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol, WireGuard, Home Assistant, Homebridge, Plex, and Jellyfin. (⭐️4114)
+  - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol, WireGuard, Home Assistant, Homebridge, Plex, and Jellyfin. (⭐️4115)
   - [samber/github-actions-runner](https://github.com/samber/github-actions-runner) - ✅ Docker images for starting self-hosted Github Actions runner(s). \[*MIT License*\] (⭐️58)
   - [streetsidesoftware/cspell-cli](https://github.com/streetsidesoftware/cspell-cli) - CSpell command line spell checker. \[*MIT License*\] (⭐️26)
   - [theashraf/alex-action](https://github.com/theashraf/alex-action) - GitHub Action for alex (⭐️11)
@@ -141,24 +141,24 @@ Total starred repositories: `623`
   - [alexzorin/authy](https://github.com/alexzorin/authy) - Go library and program to access your Authy TOTP secrets. \[*MIT License*\] (⭐️502)
   - [AnalogJ/hatchet](https://github.com/AnalogJ/hatchet) - Cut down spam in your Gmail Inbox \[*MIT License*\] (⭐️354)
   - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps \[*Apache License 2.0*\] (⭐️15524)
-  - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics \[*MIT License*\] (⭐️13969)
+  - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics \[*MIT License*\] (⭐️13970)
   - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord \[*Modified BSD License*\] (⭐️3729)
   - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends. \[*MIT License*\] (⭐️571)
-  - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.  \[*Apache License 2.0*\] (⭐️12942)
-  - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry \[*MIT License*\] (⭐️1768)
+  - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.  \[*Apache License 2.0*\] (⭐️12943)
+  - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry \[*MIT License*\] (⭐️1769)
   - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  \[*MIT License*\] (⭐️3206)
-  - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker \[*Apache License 2.0*\] (⭐️28593)
+  - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker \[*Apache License 2.0*\] (⭐️28594)
   - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks \[*MIT License*\] (⭐️1065)
-  - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. \[*Apache License 2.0*\] (⭐️65379)
+  - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. \[*Apache License 2.0*\] (⭐️65380)
   - [l3uddz/plexarr](https://github.com/l3uddz/plexarr) - Fix mismatched media in Plex mastered by Sonarr/Radarr (⭐️65)
   - [mattn/docx2md](https://github.com/mattn/docx2md) - Convert Microsoft Word Document to Markdown (⭐️564)
   - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜 \[*MIT License*\] (⭐️268)
-  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️35051)
+  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️35053)
   - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com \[*MIT License*\] (⭐️205)
   - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage or SSH compatible storage \[*Mozilla Public License 2.0*\] (⭐️780)
-  - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy. \[*zlib License*\] (⭐️24584)
+  - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy. \[*zlib License*\] (⭐️24585)
   - [progfay/shields-with-icon](https://github.com/progfay/shields-with-icon) - Enjoy https://shields.io (⭐️243)
-  - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files \[*MIT License*\] (⭐️37108)
+  - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files \[*MIT License*\] (⭐️37109)
   - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files \[*MIT License*\] (⭐️1423)
   - [rverst/stargazer](https://github.com/rverst/stargazer) - Stargazer creates a sorted list of your stared GitHub repositories - your personal awesome-list. \[*MIT License*\] (⭐️27)
   - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application \[*MIT License*\] (⭐️1716)
@@ -181,7 +181,7 @@ Total starred repositories: `623`
   - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and powerful Jekyll theme for presenting professional writing. \[*MIT License*\] (⭐️3589)
   - [davisdre/littlelink](https://github.com/davisdre/littlelink) - A lightweight DIY alternative to services like Linktree and many.link. \[*MIT License*\] (⭐️6)
   - [dh-tech/awesome-digital-humanities](https://github.com/dh-tech/awesome-digital-humanities) - Software for humanities scholars using quantitative or computational methods. \[*Creative Commons Zero v1.0 Universal*\] (⭐️85)
-  - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples \[*Creative Commons Zero v1.0 Universal*\] (⭐️21362)
+  - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples \[*Creative Commons Zero v1.0 Universal*\] (⭐️21364)
   - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration \[*MIT License*\] (⭐️1160)
   - [Harindulk/harindulk.github.io](https://github.com/Harindulk/harindulk.github.io) - custom links page like linktree (⭐️12)
   - [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags) - A collection of 360+ minimal circular SVG country and state flags \[*MIT License*\] (⭐️534)
@@ -191,7 +191,7 @@ Total starred repositories: `623`
   - [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc. \[*MIT License*\] (⭐️141)
   - [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) - Find primary sources online and learn how to research history digitally. \[*Creative Commons Zero v1.0 Universal*\] (⭐️164)
   - [ojroques/hugo-researcher](https://github.com/ojroques/hugo-researcher) - A simple resume theme for Hugo \[*GNU GPLv3*\] (⭐️195)
-  - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (⭐️66783)
+  - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (⭐️66784)
   - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree and many.link. \[*MIT License*\] (⭐️756)
   - [snyk/actions](https://github.com/snyk/actions) - A set of GitHub actions for checking your projects for vulnerabilities (⭐️377)
   - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (⭐️3788)
@@ -206,7 +206,7 @@ Total starred repositories: `623`
   - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App \[*Open Software License 3.0*\] (⭐️2134)
   - [DiscordSRV/DiscordSRV](https://github.com/DiscordSRV/DiscordSRV) - Discord bridging plugin for block game https://modrinth.com/plugin/discordsrv \[*GNU GPLv3*\] (⭐️812)
   - [Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android \[*GNU AGPLv3*\] (⭐️2737)
-  - [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android) -  \[*Apache License 2.0*\] (⭐️1055)
+  - [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android) -  \[*Apache License 2.0*\] (⭐️1056)
   - [google/google-authenticator](https://github.com/google/google-authenticator) - Open source version of Google Authenticator (except the Android app) \[*Apache License 2.0*\] (⭐️4975) *Archived!*
   - [google/google-authenticator-android](https://github.com/google/google-authenticator-android) - Open source fork of the Google Authenticator Android app \[*Apache License 2.0*\] (⭐️1483) *Archived!*
   - [JabRef/jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and biblatex (.bib) databases \[*MIT License*\] (⭐️2887)
@@ -215,7 +215,7 @@ Total starred repositories: `623`
   - [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - "That" TAB plugin. \[*Apache License 2.0*\] (⭐️621)
   - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies (⭐️7134)
   - [pvorb/npm-stat.com](https://github.com/pvorb/npm-stat.com) - download statistics for npm packages \[*Apache License 2.0*\] (⭐️1024)
-  - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android. \[*GNU GPLv3*\] (⭐️23300)
+  - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android. \[*GNU GPLv3*\] (⭐️23301)
   - [sylvainhalle/textidote](https://github.com/sylvainhalle/textidote) - Spelling, grammar and style checking on LaTeX documents \[*GNU GPLv3*\] (⭐️794)
 
 ## JavaScript
@@ -225,11 +225,11 @@ Total starred repositories: `623`
   - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API \[*MIT License*\] (⭐️1200) *Archived!*
   - [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning \[*MIT License*\] (⭐️726)
   - [Adivise/SpaceSocial](https://github.com/Adivise/SpaceSocial) - MongoDB & Discord.js@v14 (Slash Commands!) \[*MIT License*\] (⭐️35)
-  - [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API (⭐️4607)
+  - [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API (⭐️4608)
   - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server \[*GNU GPLv3*\] (⭐️2212)
   - [aeksco/hardcider](https://github.com/aeksco/hardcider) - :beer: CLI for quickly generating citations for websites and books \[*MIT License*\] (⭐️18)
   - [ahmadnassri/node-updated](https://github.com/ahmadnassri/node-updated) - check for updated package.json dependencies \[*MIT License*\] (⭐️4)
-  - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide \[*MIT License*\] (⭐️131591)
+  - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide \[*MIT License*\] (⭐️131593)
   - [alexwohlbruck/cat-facts](https://github.com/alexwohlbruck/cat-facts) - Daily cat facts! 🐱 \[*Apache License 2.0*\] (⭐️334)
   - [Androz2091/discord-giveaways](https://github.com/Androz2091/discord-giveaways) - 🎉 Complete framework to facilitate the creation of giveaways using discord.js \[*MIT License*\] (⭐️315)
   - [AnIdiotsGuide/guidebot](https://github.com/AnIdiotsGuide/guidebot) - A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community \[*MIT License*\] (⭐️492)
@@ -239,14 +239,14 @@ Total starred repositories: `623`
   - [ashanzkewed/zkewed-weather-data](https://github.com/ashanzkewed/zkewed-weather-data) - weather data collect \[*MIT License*\] (⭐️1)
   - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment. \[*MIT License*\] (⭐️25327)
   - [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS. (⭐️9091)
-  - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js \[*MIT License*\] (⭐️98807)
+  - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js \[*MIT License*\] (⭐️98809)
   - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format \[*Creative Commons Zero v1.0 Universal*\] (⭐️19122)
   - [baked-libs/maven-discord-integration](https://github.com/baked-libs/maven-discord-integration) - This GitHub Action can produce fancy and more meaningful discord messages for your commits. It includes Test results and coverage. \[*GNU GPLv3*\] (⭐️19)
   - [bboysoulcn/awesome-dockercompose](https://github.com/bboysoulcn/awesome-dockercompose) - 一些大家可能会经常使用的docker-compose文件 (⭐️138)
   - [bdickason/node-goodreads](https://github.com/bdickason/node-goodreads) - Goodreads API wrapper for NodeJS (⭐️102)
   - [benfoxall/lastfm-to-csv](https://github.com/benfoxall/lastfm-to-csv) - Web based tool for exporting scrobbles \[*MIT License*\] (⭐️441)
   - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. \[*GNU GPLv3*\] (⭐️4544)
-  - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. \[*Apache License 2.0*\] (⭐️6082)
+  - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. \[*Apache License 2.0*\] (⭐️6083)
   - [Bloggify/emoji](https://github.com/Bloggify/emoji) - :grin: Emoji plugin for Bloggify. \[*MIT License*\] (⭐️1)
   - [Bloggify/github-calendar](https://github.com/Bloggify/github-calendar) - :bar_chart: Embed your GitHub calendar everywhere. \[*MIT License*\] (⭐️1067)
   - [bloominstituteoftechnology/Secret-Gists](https://github.com/bloominstituteoftechnology/Secret-Gists) - Save and read secure notes using GitHub gists (⭐️20)
@@ -266,7 +266,7 @@ Total starred repositories: `623`
   - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator. \[*MIT License*\] (⭐️22772)
   - [e1ven/Robohash](https://github.com/e1ven/Robohash) - RoboHash.org \[*MIT License*\] (⭐️1186)
   - [elbkr/mod-bot](https://github.com/elbkr/mod-bot) - discord.js v13 moderation bot w/mongoDB \[*MIT License*\] (⭐️67)
-  - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy. \[*MIT License*\] (⭐️3674)
+  - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy. \[*MIT License*\] (⭐️3676)
   - [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks) \[*GNU GPLv3*\] (⭐️147)
   - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code. \[*MIT License*\] (⭐️22206)
   - [Excriyin/Uptimer](https://github.com/Excriyin/Uptimer) - An open source Discord Uptime Bot with Dashboard to keep your projects/links running 24/7! | Made with Discord.JS V14 \[*MIT License*\] (⭐️10)
@@ -278,19 +278,19 @@ Total starred repositories: `623`
   - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students \[*Apache License 2.0*\] (⭐️2)
   - [gabrielhamel/Docker-Discord-logger](https://github.com/gabrielhamel/Docker-Discord-logger) - A discord bot who log specified error into a discord message (⭐️3)
   - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React. \[*MIT License*\] (⭐️54144)
-  - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing \[*MIT License*\] (⭐️4501)
+  - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing \[*MIT License*\] (⭐️4502)
   - [github-modules/github-url-to-object](https://github.com/github-modules/github-url-to-object) - A node module that extracts useful properties like user, repo, and branch from various flavors of GitHub URLs. (⭐️85)
   - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com \[*Creative Commons Attribution 4.0 International*\] (⭐️13011)
   - [Glitchii/embedbuilder](https://github.com/Glitchii/embedbuilder) - A Discord embed builder with both a GUI and JSON editor to use with Discord bots, webhooks, and other applications \[*MIT License*\] (⭐️131)
-  - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022) \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️86536)
+  - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022) \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️86537)
   - [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits \[*Apache License 2.0*\] (⭐️769)
-  - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. \[*GNU GPLv3*\] (⭐️34452)
+  - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. \[*GNU GPLv3*\] (⭐️34454)
   - [greenkeeperio/greenkeeper](https://github.com/greenkeeperio/greenkeeper) - :robot: :palm_tree: Real-time automated dependency updates for npm and GitHub \[*Apache License 2.0*\] (⭐️1579)
   - [hampusborgos/country-flags](https://github.com/hampusborgos/country-flags) - SVG and PNG renders of all countries' flags. (⭐️2886)
   - [hmes98318/r6s-stats-api](https://github.com/hmes98318/r6s-stats-api) - An api for fetching player statistics from Rainbow Six Siege \[*MIT License*\] (⭐️10)
   - [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) - The HullRS discord bot to automate some tasks within the society discord server. \[*MIT License*\] (⭐️2)
   - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server \[*MIT License*\] (⭐️5)
-  - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox. (⭐️33563)
+  - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox. (⭐️33566)
   - [iamtraction/google-translate](https://github.com/iamtraction/google-translate) - 🈯 A Node.JS library to consume Google Translate API for free. \[*MIT License*\] (⭐️396)
   - [Ilshidur/action-discord](https://github.com/Ilshidur/action-discord) - 🚀 GitHub Action that sends a Discord message. \[*MIT License*\] (⭐️295)
   - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports. \[*MIT License*\] (⭐️4608)
@@ -313,11 +313,11 @@ Total starred repositories: `623`
   - [kysely/mongodb-atlas-backup](https://github.com/kysely/mongodb-atlas-backup) - The human way to mongodump and mongorestore your MongoDB Atlas cluster \[*MIT License*\] (⭐️31)
   - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. \[*MIT License*\] (⭐️32391)
   - [LiFEDEVELOPMENT/ExampleBot](https://github.com/LiFEDEVELOPMENT/ExampleBot) - A simple Discord bot using Discord.js v14 with ES6 modules instead of CommonJS. Feel free to clone it and build your own bot on top of it or just understand the library a bit better! \[*MIT License*\] (⭐️16)
-  - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool \[*MIT License*\] (⭐️29648)
-  - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! \[*MIT License*\] (⭐️9685)
+  - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool \[*MIT License*\] (⭐️29655)
+  - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! \[*MIT License*\] (⭐️9687)
   - [meikidd/iso-639-1](https://github.com/meikidd/iso-639-1) - ISO-639-1 codes (⭐️157)
   - [Mendeley/mendeley-api-javascript-readership-map](https://github.com/Mendeley/mendeley-api-javascript-readership-map) -  (⭐️4)
-  - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown \[*MIT License*\] (⭐️53899)
+  - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown \[*MIT License*\] (⭐️53900)
   - [mertkahyaoglu/node-movie](https://github.com/mertkahyaoglu/node-movie) - Node Movie API \[*MIT License*\] (⭐️12)
   - [MGalaCyber/OUTDATED-Discord.js-v14-Command-Handler](https://github.com/MGalaCyber/OUTDATED-Discord.js-v14-Command-Handler) - [OUTDATED] Discord.js v14 Handler Template | Open Source, Javascript, with Message, Slash, Button, Select, Modal Commands, Mongoose Database, Multi Events, Multi Handler, Multi Features, Support Error Logs Report, etc. \[*GNU GPLv3*\] (⭐️10) *Archived!*
   - [Michael-J-Scofield/discord-anti-spam](https://github.com/Michael-J-Scofield/discord-anti-spam) - A simple discord anti spam node.js module to prevent spam on your discord server \[*MIT License*\] (⭐️149)
@@ -328,9 +328,9 @@ Total starred repositories: `623`
   - [mritunjaymusale/research-grapher](https://github.com/mritunjaymusale/research-grapher) - Generates a graph of connected research papers based on the citations and references present in the paper. (⭐️5)
   - [mronkko/ZoteroQuickLook](https://github.com/mronkko/ZoteroQuickLook) - Implements QuickLook in Zotero (⭐️627)
   - [neocotic/convert-svg](https://github.com/neocotic/convert-svg) - Node.js packages for converting SVG into other formats using headless Chromium \[*MIT License*\] (⭐️170)
-  - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface \[*MIT License*\] (⭐️11391)
+  - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface \[*MIT License*\] (⭐️11392)
   - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js \[*MIT License*\] (⭐️8166)
-  - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: (⭐️93395)
+  - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: (⭐️93397)
   - [npm/npm-remote-ls](https://github.com/npm/npm-remote-ls) - Examine a package's dependency graph before you install it \[*ISC License*\] (⭐️86) *Archived!*
   - [nyansterowo/MongoDB-bot](https://github.com/nyansterowo/MongoDB-bot) - Пример создания и использования MongoDB бота с помощью discord.js | Example of creating and using a MongoDB bot using discord.js (⭐️79)
   - [oaltman/eslint-plugin-sort-requires-by-path](https://github.com/oaltman/eslint-plugin-sort-requires-by-path) - ESLint rule to enforce sorting of variable declarations in a group of require('path') calls by 'path' string \[*MIT License*\] (⭐️3)
@@ -365,7 +365,7 @@ Total starred repositories: `623`
   - [s3pweb/portainer-backup-restore](https://github.com/s3pweb/portainer-backup-restore) - Backup and restore your stacks from portainer \[*MIT License*\] (⭐️14)
   - [shadowplay1/discord-economy-super](https://github.com/shadowplay1/discord-economy-super) - Easy and customizable economy module for your Discord bot. \[*MIT License*\] (⭐️40)
   - [sheerun/prettier-standard](https://github.com/sheerun/prettier-standard) - Formats with Prettier and lints with ESLint+Standard! (✿◠‿◠) \[*MIT License*\] (⭐️861)
-  - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives. \[*GNU GPLv3*\] (⭐️1595)
+  - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives. \[*GNU GPLv3*\] (⭐️1596)
   - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands \[*Creative Commons Zero v1.0 Universal*\] (⭐️14990)
   - [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching \[*MIT License*\] (⭐️2234)
   - [SteamAchievementNotifier/SteamAchievementNotifier](https://github.com/SteamAchievementNotifier/SteamAchievementNotifier) - Steam Achievement Notifier is an Electron application that shows a customisable notification when you unlock any Steam Achievement! It uses the Steam Web API to track achievement stats in real time, and displays an achievement summary within the notification. (⭐️118)
@@ -373,7 +373,7 @@ Total starred repositories: `623`
   - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web. \[*MIT License*\] (⭐️1761)
   - [supercharge/mongodb-github-action](https://github.com/supercharge/mongodb-github-action) - Use MongoDB in GitHub Actions \[*MIT License*\] (⭐️176)
   - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers \[*Creative Commons Zero v1.0 Universal*\] (⭐️4101)
-  - [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl  \[*MIT License*\] (⭐️929)
+  - [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl  \[*MIT License*\] (⭐️930)
   - [systemsoftware/letterbot](https://github.com/systemsoftware/letterbot) - Get notified when your Letterboxd RSS feed updates \[*MIT License*\] (⭐️1)
   - [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, and self-hosted alternative to linktree in a Docker container! \[*MIT License*\] (⭐️555)
   - [thelinmichael/spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) - A Node.js wrapper for Spotify's Web API. \[*MIT License*\] (⭐️2827)
@@ -396,7 +396,7 @@ Total starred repositories: `623`
   - [zactopus/letterboxd](https://github.com/zactopus/letterboxd) - :movie_camera::clapper: get public diary data for letterboxd users (⭐️33)
   - [zeke/package-json-to-readme](https://github.com/zeke/package-json-to-readme) - Generate README.md from package.json contents (⭐️363)
   - [ZeroDiscord/Giveaway](https://github.com/ZeroDiscord/Giveaway) - Easy To Use Giveaway Bot For Discord Written In Discord.js v14. Ft. Slash Commands & Select Menus. Make Giveaways and seamlessly enjoy giveaways on your discord server with advanced features such as role and server requirements!  \[*Creative Commons Zero v1.0 Universal*\] (⭐️113)
-  - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources. (⭐️6449)
+  - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources. (⭐️6450)
 
 ## Kotlin
 
@@ -409,21 +409,21 @@ Total starred repositories: `623`
 
 ## Makefile
 
-  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️119017)
+  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️119021)
   - [femtopixel/docker-eleventy](https://github.com/femtopixel/docker-eleventy) - Static site generator - Docker image (multiarch) \[*MIT License*\] (⭐️7)
   - [gosquared/flags](https://github.com/gosquared/flags) - GoSquared's flag icon set \[*MIT License*\] (⭐️470)
   - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours! \[*MIT License*\] (⭐️3763)
 
 ## Markdown
 
-  - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges. (⭐️6867)
+  - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges. (⭐️6868)
   - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation (⭐️5153)
   - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆 \[*MIT License*\] (⭐️3190)
   - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub \[*MIT License*\] (⭐️12667)
 
 ## PHP
 
-  - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. \[*MIT License*\] (⭐️2600)
+  - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. \[*MIT License*\] (⭐️2601)
   - [atymic/todo-sync](https://github.com/atymic/todo-sync) - Google Reminders to Todoist Sync (⭐️23)
   - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP \[*GNU GPLv3*\] (⭐️4229)
   - [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection) - Minimalistic, flat art, and colorful, digital nature wallpapers and an API for randomly selecting them (⭐️136)
@@ -445,7 +445,7 @@ Total starred repositories: `623`
 
 ## PowerShell
 
-  - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows. (⭐️17148)
+  - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows. (⭐️17150)
 
 ## Python
 
@@ -456,7 +456,7 @@ Total starred repositories: `623`
   - [arc90/git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master. \[*MIT License*\] (⭐️2388)
   - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine \[*MIT License*\] (⭐️7054)
   - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt \[*Apache License 2.0*\] (⭐️13661)
-  - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (⭐️39886)
+  - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (⭐️39887)
   - [CarlGroth/Carl-Bot](https://github.com/CarlGroth/Carl-Bot) - Bot for discord using discord.py (outdated code) (⭐️275)
   - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex \[*MIT License*\] (⭐️89)
   - [drcroc/Steam-game-coupons-scraper](https://github.com/drcroc/Steam-game-coupons-scraper) - Steam coupon scraper \[*MIT License*\] (⭐️2)
@@ -468,7 +468,7 @@ Total starred repositories: `623`
   - [gogcom/galaxy-integrations-python-api](https://github.com/gogcom/galaxy-integrations-python-api) - NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the Galaxy Client 2.0 shall be sent via Galaxy Client menu \[*MIT License*\] (⭐️1167)
   - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data \[*MIT License*\] (⭐️1071)
   - [HighnessAtharva/Letterboxd-Movie-Runtimes](https://github.com/HighnessAtharva/Letterboxd-Movie-Runtimes) - Get the total runtime of the Letterboxd movies logged from your account without paying for a PRO subscription. (⭐️4)
-  - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools \[*Apache License 2.0*\] (⭐️15228)
+  - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools \[*Apache License 2.0*\] (⭐️15229)
   - [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically \[*MIT License*\] (⭐️271)
   - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them. \[*MIT License*\] (⭐️5914)
   - [JuanPotato/Legofy](https://github.com/JuanPotato/Legofy) - Make images look as if they are made out of 1x1 LEGO blocks \[*MIT License*\] (⭐️3106)
@@ -478,7 +478,7 @@ Total starred repositories: `623`
   - [manolomartinez/greg](https://github.com/manolomartinez/greg) - A command-line podcast aggregator \[*GNU GPLv3*\] (⭐️280)
   - [mazen160/GithubCloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations. \[*MIT License*\] (⭐️364)
   - [meisnate12/Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below. \[*MIT License*\] (⭐️1565)
-  - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft \[*MIT License*\] (⭐️7058)
+  - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft \[*MIT License*\] (⭐️7059)
   - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. \[*MIT License*\] (⭐️44572)
   - [mtimkovich/plex2letterboxd](https://github.com/mtimkovich/plex2letterboxd) - Export your watched movies on Plex to the Letterboxd Import Format. \[*MIT License*\] (⭐️48)
   - [nodiscc/hecat](https://github.com/nodiscc/hecat) - Generic automation tool around data stored as plaintext YAML files \[*GNU GPLv3*\] (⭐️12)
@@ -486,7 +486,7 @@ Total starred repositories: `623`
   - [Param-Raval/letterboxd-stats](https://github.com/Param-Raval/letterboxd-stats) - A streamlit app to show PRO level Letterboxd Stats from username (⭐️4)
   - [phin05/discord-rich-presence-plex](https://github.com/phin05/discord-rich-presence-plex) - Display your Plex status on Discord using Rich Presence \[*MIT License*\] (⭐️180)
   - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit \[*MIT License*\] (⭐️3833)
-  - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs \[*MIT License*\] (⭐️228332)
+  - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs \[*MIT License*\] (⭐️228335)
   - [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image \[*MIT License*\] (⭐️1537)
   - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features. \[*GNU GPLv3*\] (⭐️1156)
   - [rxrw/notion-trakt](https://github.com/rxrw/notion-trakt) - Two-way sync between notion and trakt. \[*MIT License*\] (⭐️1)
@@ -501,7 +501,7 @@ Total starred repositories: `623`
   - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points. \[*GNU GPLv3*\] (⭐️1115)
   - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - ❤️ The best icons for your personal dashboard. (⭐️898)
   - [wannadie/mendeley-parser](https://github.com/wannadie/mendeley-parser) - Parses http://www.mendeley.com and extracts articles metadata \[*Do What The F*ck You Want To Public License*\] (⭐️12)
-  - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes \[*The Unlicense*\] (⭐️39629)
+  - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes \[*The Unlicense*\] (⭐️39637)
   - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites \[*The Unlicense*\] (⭐️117377)
   - [yurimalheiros/mendeleystats](https://github.com/yurimalheiros/mendeleystats) - A command line tool to extract information about papers in a Mendeley folder. \[*MIT License*\] (⭐️6)
   - [ZhaoUncle/Awesome-Homepage](https://github.com/ZhaoUncle/Awesome-Homepage) - Here is a curated list of outstanding projects with a focus on homepage, homelab, self-hosted, startpage, single-page,  bookmark. (⭐️73)
@@ -513,7 +513,7 @@ Total starred repositories: `623`
   - [cristianoliveira/awesome4girls](https://github.com/cristianoliveira/awesome4girls) - A curated list of inclusive events/projects/initiatives for women in the tech area. :gift_heart: \[*Creative Commons Zero v1.0 Universal*\] (⭐️493)
   - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects \[*MIT License*\] (⭐️788)
   - [lukes/ISO-3166-Countries-with-Regional-Codes](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes) - ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets (⭐️1845)
-  - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community \[*GNU AGPLv3*\] (⭐️40307)
+  - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community \[*GNU AGPLv3*\] (⭐️40308)
   - [rails/rails](https://github.com/rails/rails) - Ruby on Rails \[*MIT License*\] (⭐️52319)
   - [siteinspector/siteinspector](https://github.com/siteinspector/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. \[*GNU AGPLv3*\] (⭐️226)
   - [sshaw/export-pull-requests](https://github.com/sshaw/export-pull-requests) - Export pull requests and/or issues to a CSV file. Supports GitHub, GitLab, and Bitbucket (⭐️101)
@@ -522,7 +522,7 @@ Total starred repositories: `623`
 
   - [afonsojramos/discrakt](https://github.com/afonsojramos/discrakt) - The Trakt 🎥 Plex ▶️ Discord 🎮 Rich Presence that you didn't know you needed.  \[*MIT License*\] (⭐️50)
   - [ascclemens/paste](https://github.com/ascclemens/paste) - A sensible, modern pastebin. \[*MIT License*\] (⭐️537)
-  - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs \[*GNU AGPLv3*\] (⭐️22989)
+  - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs \[*GNU AGPLv3*\] (⭐️22990)
   - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust. \[*GNU GPLv3*\] (⭐️864)
   - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’. \[*MIT License*\] (⭐️20748)
   - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. \[*GNU AGPLv3*\] (⭐️38196)
@@ -542,7 +542,7 @@ Total starred repositories: `623`
 
 ## Scala
 
-  - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞ \[*GNU AGPLv3*\] (⭐️12740)
+  - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞ \[*GNU AGPLv3*\] (⭐️12741)
   - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) - A simple library for identifying emoji entities within a string in order to render them as Twemoji. \[*MIT License*\] (⭐️140)
 
 ## Shell
@@ -562,7 +562,7 @@ Total starred repositories: `623`
   - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker \[*MIT License*\] (⭐️968)
   - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud \[*GNU AGPLv3*\] (⭐️4497)
   - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions \[*MIT License*\] (⭐️64760)
-  - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. \[*GNU GPLv3*\] (⭐️29049)
+  - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. \[*GNU GPLv3*\] (⭐️29048)
   - [snibox/snibox-docker](https://github.com/snibox/snibox-docker) - Snibox deployment using Docker (⭐️70)
   - [sobolevn/misspell-fixer-action](https://github.com/sobolevn/misspell-fixer-action) - 📝Automatically fixes typos and mistakes in your source code and docs! \[*MIT License*\] (⭐️134)
   - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. \[*MIT License*\] (⭐️1245)
@@ -574,7 +574,7 @@ Total starred repositories: `623`
 
 ## Svelte
 
-  - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. \[*Apache License 2.0*\] (⭐️5674)
+  - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. \[*Apache License 2.0*\] (⭐️5675)
 
 ## TeX
 
@@ -634,10 +634,10 @@ Total starred repositories: `623`
   - [MarcusOtter/discord-needle](https://github.com/MarcusOtter/discord-needle) - Needle is a Discord bot that creates Discord threads automatically. \[*GNU AGPLv3*\] (⭐️149)
   - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙 \[*MIT License*\] (⭐️188)
   - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together. \[*MIT License*\] (⭐️11049) *Archived!*
-  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️142687)
+  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️142690)
   - [mongodb-js/vscode](https://github.com/mongodb-js/vscode) - Connect to MongoDB and Atlas and directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations. \[*Apache License 2.0*\] (⭐️270)
   - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (⭐️28273)
-  - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release \[*MIT License*\] (⭐️769)
+  - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release \[*MIT License*\] (⭐️768)
   - [neat-run/wrapped](https://github.com/neat-run/wrapped) - GitHub Wrapped, inspired by Spotify Wrapped \[*MIT License*\] (⭐️244)
   - [NodePit/svg-to-img](https://github.com/NodePit/svg-to-img) - A node.js library to convert SVGs to images built with Puppeteer. \[*MIT License*\] (⭐️1)
   - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. \[*MIT License*\] (⭐️3546)
@@ -645,20 +645,20 @@ Total starred repositories: `623`
   - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace \[*MIT License*\] (⭐️1325)
   - [phntxx/dashboard](https://github.com/phntxx/dashboard) - :bar_chart: a nice and simple dashboard / landing page. \[*MIT License*\] (⭐️762)
   - [PockySweet/Enhanced-TTVDropBot](https://github.com/PockySweet/Enhanced-TTVDropBot) - Enhanced Twitch Drop Bot. Automaticlly Farms every Twitch Drop, Point & Subscription available like Rust for you and use custom channels (⭐️48)
-  - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API \[*Apache License 2.0*\] (⭐️81962)
+  - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API \[*Apache License 2.0*\] (⭐️81963)
   - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows (⭐️7945)
   - [reconlx/djs-typescript-handler](https://github.com/reconlx/djs-typescript-handler) -  (⭐️44)
-  - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features \[*MIT License*\] (⭐️20334)
+  - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features \[*MIT License*\] (⭐️20335)
   - [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts \[*MIT License*\] (⭐️3530)
   - [robinraju/release-downloader](https://github.com/robinraju/release-downloader) - Github action to download release assets from private or public repositories \[*MIT License*\] (⭐️70)
   - [RudeySH/achievement-tracker-comparer](https://github.com/RudeySH/achievement-tracker-comparer) - Compare achievements between AStats, completionist.me, Exophase, MetaGamerScore, Steam Hunters, TrueSteamAchievements and Steam Community profiles. (⭐️16)
   - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem \[*MIT License*\] (⭐️2156)
-  - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux. \[*GNU AGPLv3*\] (⭐️13069)
+  - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux. \[*GNU AGPLv3*\] (⭐️13070)
   - [skyra-project/discord-components](https://github.com/skyra-project/discord-components) - Discord Webcomponents for real looking messages on the web \[*MIT License*\] (⭐️191)
-  - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers \[*MIT License*\] (⭐️25350)
+  - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers \[*MIT License*\] (⭐️25352)
   - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities. (⭐️4336)
   - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing) \[*MIT License*\] (⭐️468)
-  - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains. \[*GNU AGPLv3*\] (⭐️5429)
+  - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains. \[*GNU AGPLv3*\] (⭐️5430)
   - [stewartmcgown/grammarly-api](https://github.com/stewartmcgown/grammarly-api) - Unofficial TypeScript client for the Grammarly API \[*MIT License*\] (⭐️195)
   - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code! \[*MIT License*\] (⭐️725)
   - [streetsidesoftware/cspell-action](https://github.com/streetsidesoftware/cspell-action) - GitHub Action: Check Spelling \[*MIT License*\] (⭐️44)
@@ -667,7 +667,7 @@ Total starred repositories: `623`
   - [test-summary/action](https://github.com/test-summary/action) - Show a helpful summary of test results in GitHub Actions CI/CD workflow runs \[*MIT License*\] (⭐️303)
   - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown. \[*MIT License*\] (⭐️2530)
   - [TheBastionBot/Bastion](https://github.com/TheBastionBot/Bastion) - 🚀 Get an enhanced Discord experience! \[*GNU GPLv3*\] (⭐️279)
-  - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app. \[*MIT License*\] (⭐️12182)
+  - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app. \[*MIT License*\] (⭐️12183)
   - [tomimelo/steam-explorer](https://github.com/tomimelo/steam-explorer) - An API to search on Steam \[*MIT License*\] (⭐️1)
   - [trakt-tools/universal-trakt-scrobbler](https://github.com/trakt-tools/universal-trakt-scrobbler) -  \[*MIT License*\] (⭐️354)
   - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast. \[*Apache License 2.0*\] (⭐️6439)
@@ -675,7 +675,7 @@ Total starred repositories: `623`
   - [upptime/uptime-monitor](https://github.com/upptime/uptime-monitor) - ⬆️📈 Uptime monitor powered by GitHub Actions \[*MIT License*\] (⭐️198)
   - [Vedinsoh/discord-auto-publisher](https://github.com/Vedinsoh/discord-auto-publisher) - Automatically publish messages or news in your announcement channels! \[*GNU GPLv3*\] (⭐️178)
   - [worr/node-imdb-api](https://github.com/worr/node-imdb-api) - A non-scraping, functional node.js interface to imdb (mirror of gitlab.com/worr/node-imdb-api) (⭐️326)
-  - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ \[*BSD 2-Clause "Simplified" License*\] (⭐️6001)
+  - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ \[*BSD 2-Clause "Simplified" License*\] (⭐️6002)
   - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard \[*GNU GPLv3*\] (⭐️1301)
   - [Zaarrg/TTVDropBot](https://github.com/Zaarrg/TTVDropBot) - Twitch Drop Bot. Automaticlly Farms every Twitch Drop available like Rust for ya and now also your Custom Channel's (⭐️379)
   - [znck/grammarly](https://github.com/znck/grammarly) - Grammarly for VS Code \[*MIT License*\] (⭐️1422)
@@ -693,9 +693,9 @@ Total starred repositories: `623`
   - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more \[*MIT License*\] (⭐️47847)
   - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff. \[*Creative Commons Zero v1.0 Universal*\] (⭐️640)
   - [caramelomartins/awesome-linters](https://github.com/caramelomartins/awesome-linters) - A community-driven list of awesome linters. \[*The Unlicense*\] (⭐️671)
-  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️190061)
+  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️190062)
   - [cornelius/awesome-open-source](https://github.com/cornelius/awesome-open-source) - A curated list of resources related to how to do open source projects \[*Creative Commons Zero v1.0 Universal*\] (⭐️150)
-  - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students  \[*MIT License*\] (⭐️14996)
+  - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students  \[*MIT License*\] (⭐️14995)
   - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify (⭐️1805)
   - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 \[*MIT License*\] (⭐️346)
   - [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11. (⭐️1478)
@@ -737,7 +737,7 @@ Total starred repositories: `623`
   - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier \[*Creative Commons Zero v1.0 Universal*\] (⭐️2731)
   - [Mixaill/awesome-gog-galaxy](https://github.com/Mixaill/awesome-gog-galaxy) - A list of GOG Galaxy 2.0 integrations and upcoming features (⭐️1786)
   - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects. (⭐️48433)
-  - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web. (⭐️19525)
+  - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web. (⭐️19526)
   - [nathanlesage/academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) - A list of various lists consisting of academics on Mastodon (⭐️726)
   - [Nerothos/TwithGameList](https://github.com/Nerothos/TwithGameList) - List of Twitch game with id and box art link \[*MIT License*\] (⭐️10)
   - [neverendingqs/gh-action-node-update-deps](https://github.com/neverendingqs/gh-action-node-update-deps) - Updates Node dependencies and creates a pull request with the changes. \[*Apache License 2.0*\] (⭐️6)
@@ -745,32 +745,32 @@ Total starred repositories: `623`
   - [obazoud/awesome-dashboard](https://github.com/obazoud/awesome-dashboard) - A curated list of amazingly awesome dashboards/visualization resources. (⭐️880)
   - [okhosting/awesome-storage](https://github.com/okhosting/awesome-storage) - A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc. \[*MIT License*\] (⭐️396)
   - [opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company) - A community-curated list of awesome open companies. (⭐️750)
-  - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science! \[*MIT License*\] (⭐️134943)
+  - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science! \[*MIT License*\] (⭐️134948)
   - [oz123/awesome-backup](https://github.com/oz123/awesome-backup) - A list of FOSS backup software (⭐️77)
   - [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages. \[*MIT License*\] (⭐️4412)
   - [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) - Collection of advice for prospective and current PhD students \[*MIT License*\] (⭐️964)
   - [retextjs/awesome-retext](https://github.com/retextjs/awesome-retext) - Curated list of awesome retext resources (⭐️92)
-  - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. \[*Creative Commons Zero v1.0 Universal*\] (⭐️8859)
+  - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. \[*Creative Commons Zero v1.0 Universal*\] (⭐️8860)
   - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts (⭐️11329)
   - [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980 (⭐️1712)
   - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐   \[*Creative Commons Zero v1.0 Universal*\] (⭐️9296)
-  - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. \[*MIT License*\] (⭐️9461)
+  - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. \[*MIT License*\] (⭐️9462)
   - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub \[*Creative Commons Zero v1.0 Universal*\] (⭐️20877)
   - [sdras/night-owl-vscode-theme](https://github.com/sdras/night-owl-vscode-theme) - 🌌 NIGHT OWL: A VS Code dark theme for contrast for nighttime coding, 🦉 LIGHT OWL: a daytime light theme \[*MIT License*\] (⭐️2589)
-  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️239053)
+  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️239058)
   - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem! (⭐️363)
   - [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) -  (⭐️720)
   - [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md \[*MIT License*\] (⭐️4242)
   - [the-programmers-hangout/programming-resources](https://github.com/the-programmers-hangout/programming-resources) - Collection of resources for programmers! \[*MIT License*\] (⭐️299)
-  - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. \[*MIT License*\] (⭐️39667)
+  - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. \[*MIT License*\] (⭐️39669)
   - [TitansBane/Elysium-Remastered](https://github.com/TitansBane/Elysium-Remastered) - Elysium Remastered is a complete rebuild of the original Elysium modlist. Like the original, it focuses primarily on visuals and is fully featured with hundreds of new additions and full Creation Club support ($20 for Anniversary Upgrade is required)—extending the base setup with Enai Siaion's full suite of gameplay overhauls and various new quests and encounters. (6GB+ of VRAM Required.) \[*MIT License*\] (⭐️146)
   - [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers. \[*Creative Commons Zero v1.0 Universal*\] (⭐️1986)
   - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy! (⭐️2667)
-  - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects \[*Apache License 2.0*\] (⭐️24402)
+  - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects \[*Apache License 2.0*\] (⭐️24403)
   - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore (⭐️2409)
   - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking (⭐️1794)
   - [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX  \[*Creative Commons Zero v1.0 Universal*\] (⭐️520)
-  - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet \[*Creative Commons Attribution 4.0 International*\] (⭐️21375)
+  - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet \[*Creative Commons Attribution 4.0 International*\] (⭐️21376)
   - [YouHaveTrouble/minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft server optimization guide (⭐️1184)
 
 ## Vue
@@ -780,11 +780,11 @@ Total starred repositories: `623`
   - [GoodbyteCo/Letterboxd-Film-Frequency](https://github.com/GoodbyteCo/Letterboxd-Film-Frequency) - A contribution graph for Letterboxd. (⭐️4)
   - [GoodbyteCo/Letterboxd-Watchlist-Picker](https://github.com/GoodbyteCo/Letterboxd-Watchlist-Picker) - A simple website that gives you a random film off your Letterboxd watchlist (or any list). (⭐️29)
   - [JustArchiNET/ASF-ui](https://github.com/JustArchiNET/ASF-ui) - The official web interface for ASF \[*Apache License 2.0*\] (⭐️201)
-  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! \[*MIT License*\] (⭐️9670)
+  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! \[*MIT License*\] (⭐️9671)
 
 ## XSLT
 
-  - [transpect/docx2tex](https://github.com/transpect/docx2tex) - Converts Microsoft Word docx to LaTeX \[*BSD 2-Clause "Simplified" License*\] (⭐️394)
+  - [transpect/docx2tex](https://github.com/transpect/docx2tex) - Converts Microsoft Word docx to LaTeX \[*BSD 2-Clause "Simplified" License*\] (⭐️395)
 
 ## sed
 
