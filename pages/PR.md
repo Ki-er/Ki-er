@@ -31,7 +31,7 @@
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Bash Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1601) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add 500px](https://github.com/sethcottle/littlelink-extended/pull/7) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (3 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add 500px](https://github.com/techno-tim/littlelink-server/pull/264) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
-- ![](../assets/pr-merged.svg) [fix: Upgrade ADA](https://github.com/streetsidesoftware/cspell-dicts/pull/1589) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
+- ![](../assets/pr-merged.svg) [fix: Upgrade ADA](https://github.com/streetsidesoftware/cspell-dicts/pull/1589) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add Vero](https://github.com/sethcottle/littlelink-extended/pull/6) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (4 months ago)
 - ![](../assets/pr-merged.svg) [fix: Add endfor to PHP](https://github.com/streetsidesoftware/cspell-dicts/pull/1584) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 months ago)
 - ![](../assets/pr-merged.svg) [fix: Add Ourobros](https://github.com/streetsidesoftware/cspell-dicts/pull/1583) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 months ago)
