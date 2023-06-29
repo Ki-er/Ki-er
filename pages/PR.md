@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat!: Upgrade AWS Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2274) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](../assets/pr-open.svg) [Adding various words from issues.](https://github.com/streetsidesoftware/cspell-dicts/pull/2273) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-merged.svg) [Revert &#34;chore(deps): bump node from 16.17.1 to 19.4.0&#34;](https://github.com/KieranRobson/Clarence-Bot/pull/168) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (5 months ago)
 - ![](../assets/pr-merged.svg) [fix: Create software-services and add words to companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1790) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (5 months ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Scala Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1757) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Added Flexisip to SIP](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3241) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (10 months ago)
 - ![](../assets/pr-merged.svg) [Adds Software Development - Low Code Section](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3240) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (10 months ago)
 - ![](../assets/pr-merged.svg) [Add meshcentral](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3239) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (10 months ago)
-- ![](../assets/pr-closed.svg) [Redirect fixes Part 2](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3229) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (10 months ago)
-- ![](../assets/pr-merged.svg) [Non Free clean up](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3228) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (10 months ago)
