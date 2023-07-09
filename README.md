@@ -12,6 +12,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [feat: Add ShareX PHP Uploader](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3991) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
 - ![](./assets/pr-open.svg) [feat!: Upgrade PL Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2276) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](./assets/pr-open.svg) [feat!: Upgrade EO Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2275) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](./assets/pr-open.svg) [feat!: Upgrade AWS Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2274) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
@@ -21,7 +22,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-merged.svg) [feat!: Upgrade Scala Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1757) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
 - ![](./assets/pr-merged.svg) [feat!: Upgade Rust Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1752) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
 - ![](./assets/pr-merged.svg) [feat!: Upgrade Ruby Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1748) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
-- ![](./assets/pr-merged.svg) [feat!: Upgrade Powershell Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1746) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
