@@ -12,31 +12,21 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-merged.svg) [Revert &#34;chore(deps): bump node from 16.17.1 to 19.4.0&#34;](https://github.com/KieranRobson/Clarence-Bot/pull/168) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (3 months ago)
-- ![](./assets/pr-merged.svg) [fix: Create software-services and add words to companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1790) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
-- ![](./assets/pr-merged.svg) [feat!: Upgrade Scala Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1757) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
-- ![](./assets/pr-merged.svg) [feat!: Upgade Rust Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1752) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
-- ![](./assets/pr-merged.svg) [feat!: Upgrade Ruby Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1748) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
-- ![](./assets/pr-merged.svg) [feat!: Upgrade Powershell Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1746) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
-- ![](./assets/pr-merged.svg) [fix: Create Acronym Dict and Fix Typo](https://github.com/streetsidesoftware/cspell-dicts/pull/1745) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
-- ![](./assets/pr-merged.svg) [fix: Add British Software Terms](https://github.com/streetsidesoftware/cspell-dicts/pull/1744) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
-- ![](./assets/pr-merged.svg) [docs: Add K8s to list of Dictionaries](https://github.com/streetsidesoftware/cspell-dicts/pull/1742) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
-- ![](./assets/pr-merged.svg) [feat!: Upgrade Lua Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1740) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
+- ![](./assets/pr-open.svg) [feat!: Upgrade PL Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2276) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
+- ![](./assets/pr-open.svg) [feat!: Upgrade EO Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2275) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
+- ![](./assets/pr-open.svg) [feat!: Upgrade AWS Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2274) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
+- ![](./assets/pr-merged.svg) [fix: Adding various words from issues.](https://github.com/streetsidesoftware/cspell-dicts/pull/2273) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
+- ![](./assets/pr-merged.svg) [Revert &#34;chore(deps): bump node from 16.17.1 to 19.4.0&#34;](https://github.com/KieranRobson/Clarence-Bot/pull/168) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (6 months ago)
+- ![](./assets/pr-merged.svg) [fix: Create software-services and add words to companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1790) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
+- ![](./assets/pr-merged.svg) [feat!: Upgrade Scala Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1757) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
+- ![](./assets/pr-merged.svg) [feat!: Upgade Rust Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1752) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
+- ![](./assets/pr-merged.svg) [feat!: Upgrade Ruby Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1748) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
+- ![](./assets/pr-merged.svg) [feat!: Upgrade Powershell Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1746) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
   <a href="https://github.com/forks-by-kieran"><img alt="Forks" title="Forks" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
-
-# ✏️ My recent Docs
-
-- [How to install and setup VaultWarden](https://kieranrobson.com/docs/vaultwarden/) (3 months ago)
-- [How to install Uptime Kuma](https://kieranrobson.com/docs/uptimekuma/) (10 months ago)
-- [How to install NGINX proxy manager and Cloudlfare](https://kieranrobson.com/docs/nginxproxymanager/) (10 months ago)
-- [How to install Portainer](https://kieranrobson.com/docs/portainer/) (10 months ago)
-- [How to install Docker and Docker Compose](https://kieranrobson.com/docs/docker-and-docker-compose/) (10 months ago)
-
-<a href="https://kieranrobson.com/docs/index.xml"><img alt="RSS Feed" title="RSS Feed" src="https://custom-icon-badges.demolab.com/badge/-RSS%20FEED%20-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 
 #
 
