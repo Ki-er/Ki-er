@@ -20,13 +20,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
   <a href="https://github.com/forks-by-kieran"><img alt="Forks" title="Forks" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
-# ✏️ My recent Docs
-{{range rss "https://kieranrobson.com/docs/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
-<a href="https://kieranrobson.com/docs/index.xml"><img alt="RSS Feed" title="RSS Feed" src="https://custom-icon-badges.demolab.com/badge/-RSS%20FEED%20-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
-
 #
 
 <p>
