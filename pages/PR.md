@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat: Add ShareX PHP Uploader](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3991) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
 - ![](../assets/pr-open.svg) [feat!: Upgrade PL Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2276) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-open.svg) [feat!: Upgrade EO Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2275) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-open.svg) [feat!: Upgrade AWS Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2274) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Add Bug Report Issue Template](https://github.com/techno-tim/littlelink-server/pull/204) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (10 months ago)
 - ![](../assets/pr-merged.svg) [Update README examples](https://github.com/techno-tim/littlelink-server/pull/203) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (10 months ago)
 - ![](../assets/pr-merged.svg) [Readme cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3243) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (10 months ago)
-- ![](../assets/pr-merged.svg) [Added Flexisip to SIP](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3241) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (10 months ago)
