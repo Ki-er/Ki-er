@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [feat: Add ShareX PHP Uploader](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3991) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 days ago)
+- ![](../assets/pr-open.svg) [feat: Add ShareX PHP Uploader](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3991) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 days ago)
 - ![](../assets/pr-open.svg) [feat!: Upgrade PL Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2276) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-open.svg) [feat!: Upgrade EO Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2275) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-open.svg) [feat!: Upgrade AWS Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2274) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
@@ -80,7 +80,7 @@
 - ![](../assets/pr-merged.svg) [addition: Add Gerrit to Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3298) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (9 months ago)
 - ![](../assets/pr-merged.svg) [Added other actions](https://github.com/CrimsonTome/CrimsonTome/pull/2) on [CrimsonTome/CrimsonTome](https://github.com/CrimsonTome/CrimsonTome) (9 months ago)
 - ![](../assets/pr-merged.svg) [fix: Capitalised image extensions not being ignored](https://github.com/streetsidesoftware/cspell/pull/3599) on [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) (9 months ago)
-- ![](../assets/pr-merged.svg) [Fix back to top links and Typo](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3294) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (9 months ago)
+- ![](../assets/pr-merged.svg) [Fix back to top links and Typo](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3294) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (10 months ago)
 - ![](../assets/pr-merged.svg) [Cleanup Bookmark section](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3288) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (10 months ago)
 - ![](../assets/pr-merged.svg) [Redirect fixes and General Project Clean Up](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3274) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (10 months ago)
 - ![](../assets/pr-merged.svg) [ReadMe Cleanup](https://github.com/awesome-foss/awesome-sysadmin/pull/396) on [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (10 months ago)
