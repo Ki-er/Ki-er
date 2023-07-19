@@ -13,7 +13,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 # 🔨 My recent Pull Requests
 
 - ![](./assets/pr-closed.svg) [feat: Add ShareX PHP Uploader](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3991) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
-- ![](./assets/pr-open.svg) [feat!: Upgrade PL Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2276) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [feat!: Upgrade PL Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2276) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
 - ![](./assets/pr-open.svg) [feat!: Upgrade EO Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2275) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
 - ![](./assets/pr-open.svg) [feat!: Upgrade AWS Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2274) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix: Adding various words from issues.](https://github.com/streetsidesoftware/cspell-dicts/pull/2273) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
