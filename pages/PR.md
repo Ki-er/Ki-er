@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat: Add new buttons](https://github.com/techno-tim/littlelink-server/pull/457) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (today)
 - ![](../assets/pr-open.svg) [feat!: Upgrade Lorem Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2363) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-open.svg) [feat!: Upgrade Fonts Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2362) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-closed.svg) [feat: Add ShareX PHP Uploader](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3991) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Added MyAnimeList](https://github.com/sethcottle/littlelink-extended/pull/4) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (11 months ago)
 - ![](../assets/pr-merged.svg) [Added Osu](https://github.com/sethcottle/littlelink-extended/pull/3) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (11 months ago)
 - ![](../assets/pr-merged.svg) [Added Distiller](https://github.com/sethcottle/littlelink-extended/pull/2) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (11 months ago)
-- ![](../assets/pr-merged.svg) [Add Bug Report Issue Template](https://github.com/techno-tim/littlelink-server/pull/204) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (11 months ago)
