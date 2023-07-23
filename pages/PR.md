@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [feat: Add Pixelfed](https://github.com/sethcottle/littlelink-extended/pull/12) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (1 day ago)
+- ![](../assets/pr-merged.svg) [feat: Add Pixelfed](https://github.com/sethcottle/littlelink-extended/pull/12) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (1 day ago)
 - ![](../assets/pr-open.svg) [feat: Add new buttons](https://github.com/techno-tim/littlelink-server/pull/457) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 day ago)
 - ![](../assets/pr-open.svg) [feat!: Upgrade Lorem Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2363) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
 - ![](../assets/pr-open.svg) [feat!: Upgrade Fonts Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2362) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
