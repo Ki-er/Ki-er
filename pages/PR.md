@@ -1,9 +1,9 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-merged.svg) [feat: Add Pixelfed](https://github.com/sethcottle/littlelink-extended/pull/12) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (3 days ago)
-- ![](../assets/pr-merged.svg) [feat: Add new buttons](https://github.com/techno-tim/littlelink-server/pull/457) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 days ago)
-- ![](../assets/pr-merged.svg) [feat!: Upgrade Lorem Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2363) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 days ago)
-- ![](../assets/pr-merged.svg) [feat!: Upgrade Fonts Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2362) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 days ago)
+- ![](../assets/pr-merged.svg) [feat: Add Pixelfed](https://github.com/sethcottle/littlelink-extended/pull/12) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (4 days ago)
+- ![](../assets/pr-merged.svg) [feat: Add new buttons](https://github.com/techno-tim/littlelink-server/pull/457) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (4 days ago)
+- ![](../assets/pr-merged.svg) [feat!: Upgrade Lorem Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2363) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 days ago)
+- ![](../assets/pr-merged.svg) [feat!: Upgrade Fonts Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2362) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 days ago)
 - ![](../assets/pr-closed.svg) [feat: Add ShareX PHP Uploader](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3991) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade PL Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2276) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 weeks ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade EO Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2275) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 weeks ago)
@@ -18,7 +18,7 @@
 - ![](../assets/pr-merged.svg) [fix: Create Acronym Dict and Fix Typo](https://github.com/streetsidesoftware/cspell-dicts/pull/1745) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
 - ![](../assets/pr-merged.svg) [fix: Add British Software Terms](https://github.com/streetsidesoftware/cspell-dicts/pull/1744) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
 - ![](../assets/pr-merged.svg) [docs: Add K8s to list of Dictionaries](https://github.com/streetsidesoftware/cspell-dicts/pull/1742) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
-- ![](../assets/pr-merged.svg) [feat!: Upgrade Lua Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1740) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
+- ![](../assets/pr-merged.svg) [feat!: Upgrade Lua Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/1740) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (7 months ago)
 - ![](../assets/pr-merged.svg) [fix: Add words to various dicts](https://github.com/streetsidesoftware/cspell-dicts/pull/1721) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (7 months ago)
 - ![](../assets/pr-merged.svg) [feat: Upgrade Latex Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1714) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (7 months ago)
 - ![](../assets/pr-merged.svg) [feat: Upgrade Typescript Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/1713) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (7 months ago)
