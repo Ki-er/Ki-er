@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [fix: Typos and Dead Link Removal](https://github.com/FreesideHull/StudentResources/pull/18) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (today)
+- ![](../assets/pr-open.svg) [fix: Typos and Dead Link](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4067) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
 - ![](../assets/pr-open.svg) [fix: Add words to various dicts](https://github.com/streetsidesoftware/cspell-dicts/pull/2381) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 days ago)
 - ![](../assets/pr-open.svg) [feat! Upgrade Mnemonic Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2379) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 days ago)
 - ![](../assets/pr-merged.svg) [feat: Add Pixelfed](https://github.com/sethcottle/littlelink-extended/pull/12) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (1 week ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Added More buttons](https://github.com/sethcottle/littlelink-extended/pull/5) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (11 months ago)
 - ![](../assets/pr-merged.svg) [Added PhDLife Blog](https://github.com/pliang279/awesome-phd-advice/pull/2) on [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) (11 months ago)
 - ![](../assets/pr-merged.svg) [Added How to Plan for Intenational Conferences](https://github.com/pliang279/awesome-phd-advice/pull/1) on [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) (11 months ago)
-- ![](../assets/pr-merged.svg) [Added connected papers](https://github.com/emptymalei/awesome-research/pull/55) on [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) (11 months ago)
-- ![](../assets/pr-merged.svg) [Added MyAnimeList](https://github.com/techno-tim/littlelink-server/pull/205) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (11 months ago)
