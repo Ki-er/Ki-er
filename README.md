@@ -5,7 +5,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 # 🔨 My recent Pull Requests
 
 - ![](./assets/pr-open.svg) [fix: Typos and Dead Link Removal](https://github.com/FreesideHull/StudentResources/pull/18) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (today)
-- ![](./assets/pr-open.svg) [fix: Typos and Dead Link](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4067) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
+- ![](./assets/pr-merged.svg) [fix: Typos and Dead Link](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4067) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
 - ![](./assets/pr-open.svg) [fix: Add words to various dicts](https://github.com/streetsidesoftware/cspell-dicts/pull/2381) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 days ago)
 - ![](./assets/pr-open.svg) [feat! Upgrade Mnemonic Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2379) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 days ago)
 - ![](./assets/pr-merged.svg) [feat: Add Pixelfed](https://github.com/sethcottle/littlelink-extended/pull/12) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (1 week ago)
