@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat!: Upgrade Finland Cities Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2387) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](../assets/pr-merged.svg) [fix: Non-free typos](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4070) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
 - ![](../assets/pr-open.svg) [feat: Create F# Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2385) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
 - ![](../assets/pr-merged.svg) [fix: Typos and Dead Link Removal](https://github.com/FreesideHull/StudentResources/pull/18) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (1 day ago)
 - ![](../assets/pr-merged.svg) [fix: Typos and Dead Link](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4067) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 day ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Add Christmas Community to Polls and Events](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3271) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (11 months ago)
 - ![](../assets/pr-closed.svg) [Added firezone](https://github.com/awesome-foss/awesome-sysadmin/pull/395) on [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (11 months ago)
 - ![](../assets/pr-merged.svg) [Update KieranRobson](https://github.com/FreesideHull/hullblogs.com/pull/11) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (11 months ago)
-- ![](../assets/pr-merged.svg) [Added More buttons](https://github.com/sethcottle/littlelink-extended/pull/5) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (11 months ago)
-- ![](../assets/pr-merged.svg) [Added PhDLife Blog](https://github.com/pliang279/awesome-phd-advice/pull/2) on [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) (11 months ago)
