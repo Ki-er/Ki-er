@@ -17,7 +17,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  <a href="/pages/FORKS.md"><img alt="Forks" title="Forks" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="/pages/FORKS.md"><img alt="Forks" title="Forks" src="https://custom-icon-badges.demolab.com/badge/-Forks%20And%20Contributions-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
 #
