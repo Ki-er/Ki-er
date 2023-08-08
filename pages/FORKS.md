@@ -17,11 +17,15 @@
 
 * [awesome-free-software](https://github.com/forks-by-kieran/awesome-free-software) - Curated list of free as in freedom software
 
+* [awesome-geek-podcasts](https://github.com/forks-by-kieran/awesome-geek-podcasts) - A curated list of podcasts we like to listen to. 
+
 * [awesome-gif](https://github.com/forks-by-kieran/awesome-gif) - A curated list of awesome GIF resources.
 
 * [awesome-go](https://github.com/forks-by-kieran/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
 * [awesome-phd-advice](https://github.com/forks-by-kieran/awesome-phd-advice) - Collection of advice for prospective and current PhD students
+
+* [awesome-pokemon](https://github.com/forks-by-kieran/awesome-pokemon) - :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.
 
 * [awesome-privacy](https://github.com/forks-by-kieran/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
@@ -44,6 +48,8 @@
 * [awesome-uses](https://github.com/forks-by-kieran/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 
 * [awesome-vscode](https://github.com/forks-by-kieran/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+
+* [AwesomeResources](https://github.com/forks-by-kieran/AwesomeResources) - An awesome list of computer science related resources.
 
 * [CONTRIBUTING](https://github.com/forks-by-kieran/CONTRIBUTING)
 
