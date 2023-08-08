@@ -1,9 +1,11 @@
-name: README Repos List
+name:  ✏️ README Repos List
+
 on:
+  push:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
   workflow_dispatch:
-  schedule:
-    # runs at midnight UTC every day
-    - cron: "0 0 * * *"
+
 jobs:
   list:
     runs-on: ubuntu-latest
@@ -15,4 +17,4 @@ jobs:
           query: "user:forks-by-kieran fork:only"
           max: 100
           sort: "updated"
-          path: pages/Forks.md
+          path: pages/FORKS.md
