@@ -77,8 +77,6 @@
 
 * [littlelink](https://github.com/forks-by-kieran/littlelink) - A lightweight DIY alternative to services like Linktree and many.link.
 
-* [littlelink-extended](https://github.com/forks-by-kieran/littlelink-extended) - Extended brand repo that can be used with https://github.com/sethcottle/littlelink
-
 * [littlelink-server](https://github.com/forks-by-kieran/littlelink-server) - A lightweight, open source, and self-hosted alternative to linktree in a Docker container!
 
 * [papers-we-love](https://github.com/forks-by-kieran/papers-we-love) - Papers from the computer science community to read and discuss.
