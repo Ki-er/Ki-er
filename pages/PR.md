@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [feat: Add X](https://github.com/techno-tim/littlelink-server/pull/470) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (today)
+- ![](../assets/pr-open.svg) [feat: Add X](https://github.com/techno-tim/littlelink-server/pull/470) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 day ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Finland Cities Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2387) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [fix: Non-free typos](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4070) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
 - ![](../assets/pr-merged.svg) [feat: Create F# Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2385) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
