@@ -19,8 +19,6 @@
 
 * [awesome-geek-podcasts](https://github.com/forks-by-kieran/awesome-geek-podcasts) - A curated list of podcasts we like to listen to. 
 
-* [awesome-gif](https://github.com/forks-by-kieran/awesome-gif) - A curated list of awesome GIF resources.
-
 * [awesome-go](https://github.com/forks-by-kieran/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
 * [awesome-phd-advice](https://github.com/forks-by-kieran/awesome-phd-advice) - Collection of advice for prospective and current PhD students
@@ -92,8 +90,6 @@
 * [remote-jobs](https://github.com/forks-by-kieran/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 
 * [StudentResources](https://github.com/forks-by-kieran/StudentResources) - A list of resources created by and for students
-
-* [TTVDropBot](https://github.com/forks-by-kieran/TTVDropBot) - Twitch Drop Bot. Automaticlly Farms every Twitch Drop available like Rust for ya and now also your Custom Channel's
 
 <!-- end: readme-repos-list -->
 
