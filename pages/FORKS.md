@@ -61,8 +61,6 @@
 
 * [discount-for-student-dev](https://github.com/forks-by-kieran/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 
-* [free-for-dev](https://github.com/forks-by-kieran/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
 * [freeside-.github](https://github.com/forks-by-kieran/freeside-.github)
 
 * [FreesideBot](https://github.com/forks-by-kieran/FreesideBot) - Freeside Bot repo
@@ -73,11 +71,7 @@
 
 * [hullcss-site-jet](https://github.com/forks-by-kieran/hullcss-site-jet)
 
-* [Learn-Javascript](https://github.com/forks-by-kieran/Learn-Javascript) - A Complete Javascript Learning Reference Guide.
-
 * [littlelink](https://github.com/forks-by-kieran/littlelink) - A lightweight DIY alternative to services like Linktree and many.link.
-
-* [littlelink-extended](https://github.com/forks-by-kieran/littlelink-extended) - Extended brand repo that can be used with https://github.com/sethcottle/littlelink
 
 * [littlelink-server](https://github.com/forks-by-kieran/littlelink-server) - A lightweight, open source, and self-hosted alternative to linktree in a Docker container!
 
