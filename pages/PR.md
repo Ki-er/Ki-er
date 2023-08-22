@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-merged.svg) [feat: Add X](https://github.com/techno-tim/littlelink-server/pull/470) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 week ago)
+- ![](../assets/pr-merged.svg) [feat: Add X](https://github.com/techno-tim/littlelink-server/pull/470) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (2 weeks ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Finland Cities Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2387) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 weeks ago)
 - ![](../assets/pr-merged.svg) [fix: Non-free typos](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4070) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 weeks ago)
 - ![](../assets/pr-merged.svg) [feat: Create F# Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2385) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 weeks ago)
@@ -76,8 +76,8 @@
 - ![](../assets/pr-merged.svg) [fix: Various Typos and General Cleanup ](https://github.com/arkalsekar/Learn-Javascript/pull/20) on [arkalsekar/Learn-Javascript](https://github.com/arkalsekar/Learn-Javascript) (10 months ago)
 - ![](../assets/pr-merged.svg) [chore: Move Community Health Files](https://github.com/remoteintech/remote-jobs/pull/1438) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (10 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add OhMyForms to Polls and Events](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3318) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (10 months ago)
-- ![](../assets/pr-merged.svg) [feat: Add Lama Cleaner to Miscellaneous](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3317) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (10 months ago)
-- ![](../assets/pr-merged.svg) [feat: Add Clink to Url Shorteners](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3316) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (10 months ago)
+- ![](../assets/pr-merged.svg) [feat: Add Lama Cleaner to Miscellaneous](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3317) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (11 months ago)
+- ![](../assets/pr-merged.svg) [feat: Add Clink to Url Shorteners](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3316) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (11 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add United Nations Archives to Global](https://github.com/maehr/awesome-digital-history/pull/48) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (11 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add Nationaal Archief](https://github.com/maehr/awesome-digital-history/pull/47) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (11 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add United States National Archives](https://github.com/maehr/awesome-digital-history/pull/46) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (11 months ago)
