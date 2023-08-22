@@ -1,5 +1,9 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [revert: Remove Syspass.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/69) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [revert: Remove Vaults.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/68) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [revert: Remove Ubergallery.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/67) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [feat: Add Janus](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/66) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [feat: Add X](https://github.com/techno-tim/littlelink-server/pull/470) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (2 weeks ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Finland Cities Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2387) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 weeks ago)
 - ![](../assets/pr-merged.svg) [fix: Non-free typos](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4070) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 weeks ago)
@@ -95,7 +99,3 @@
 - ![](../assets/pr-merged.svg) [Fix back to top links and Typo](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3294) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (11 months ago)
 - ![](../assets/pr-merged.svg) [Cleanup Bookmark section](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3288) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (11 months ago)
 - ![](../assets/pr-merged.svg) [Redirect fixes and General Project Clean Up](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3274) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (11 months ago)
-- ![](../assets/pr-merged.svg) [ReadMe Cleanup](https://github.com/awesome-foss/awesome-sysadmin/pull/396) on [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (11 months ago)
-- ![](../assets/pr-merged.svg) [Add Picaport to nonfree photos and videos](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3272) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (11 months ago)
-- ![](../assets/pr-merged.svg) [Add Christmas Community to Polls and Events](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3271) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (11 months ago)
-- ![](../assets/pr-closed.svg) [Added firezone](https://github.com/awesome-foss/awesome-sysadmin/pull/395) on [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (11 months ago)
