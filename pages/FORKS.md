@@ -39,6 +39,8 @@
 
 * [awesome-selfhosted](https://github.com/forks-by-kieran/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
+* [awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net
+
 * [awesome-speaking](https://github.com/forks-by-kieran/awesome-speaking) - Resources about public speaking
 
 * [awesome-sysadmin](https://github.com/forks-by-kieran/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
