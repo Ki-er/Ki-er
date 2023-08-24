@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [revert: Remove Hextris.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/87) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [revert: Remove Keeja.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/86) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [revert: Remove Party Poker](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/85) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [revert: Remove Schort.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/83) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [revert: Remove WebUI-Aria2.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/82) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [feat: Add National Archives to Great Britain](https://github.com/maehr/awesome-digital-history/pull/44) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (11 months ago)
 - ![](../assets/pr-merged.svg) [fix: Move British Library to Great Britain](https://github.com/maehr/awesome-digital-history/pull/43) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (11 months ago)
 - ![](../assets/pr-merged.svg) [fixes: General Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3302) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (11 months ago)
-- ![](../assets/pr-merged.svg) [fixes: Redirect Fixes](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3301) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (11 months ago)
-- ![](../assets/pr-merged.svg) [addition: Add SRS to Miscellaneous ](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3299) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (11 months ago)
