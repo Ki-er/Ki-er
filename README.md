@@ -4,6 +4,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [feat!: Upgrade lt_LT Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2440) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](./assets/pr-open.svg) [feat!: Upgrade Medical Terms Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2439) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](./assets/pr-merged.svg) [Add Arm64 to Docker Platforms](https://github.com/FreesideHull/FreesideBot/pull/3) on [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) (today)
 - ![](./assets/pr-open.svg) [feat!: Upgrade fa_IR Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2436) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
@@ -13,7 +14,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-open.svg) [revert: Remove Fiche.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/90) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 days ago)
 - ![](./assets/pr-closed.svg) [revert: Remove Hextris.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/87) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
 - ![](./assets/pr-merged.svg) [revert: Remove Keeja.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/86) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
-- ![](./assets/pr-merged.svg) [revert: Remove Party Poker](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/85) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
