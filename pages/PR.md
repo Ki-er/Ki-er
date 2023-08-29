@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-merged.svg) [Add Arm64 to Docker Platforms](https://github.com/FreesideHull/FreesideBot/pull/3) on [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) (today)
 - ![](../assets/pr-open.svg) [feat!: Upgrade fa_IR Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2436) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-open.svg) [feat!: Upgrade pt_PT Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2435) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-closed.svg) [feat!: Upgrade pt_PT Dictionary](https://github.com/forks-by-kieran/cspell-dicts/pull/3) on [forks-by-kieran/cspell-dicts](https://github.com/forks-by-kieran/cspell-dicts) (today)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [feat: Add United Nations Archives to Global](https://github.com/maehr/awesome-digital-history/pull/48) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (11 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add Nationaal Archief](https://github.com/maehr/awesome-digital-history/pull/47) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (11 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add United States National Archives](https://github.com/maehr/awesome-digital-history/pull/46) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (11 months ago)
-- ![](../assets/pr-merged.svg) [feat: Add Nordpass to Password Managers](https://github.com/jyguyomarch/awesome-productivity/pull/106) on [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) (11 months ago)
