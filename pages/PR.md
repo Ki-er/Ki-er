@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-merged.svg) [feat!: Upgrade Crypto Currencies Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2432) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-open.svg) [revert: Remove Fiche.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/90) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 days ago)
 - ![](../assets/pr-closed.svg) [revert: Remove Hextris.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/87) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
 - ![](../assets/pr-merged.svg) [revert: Remove Keeja.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/86) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
@@ -12,7 +13,7 @@
 - ![](../assets/pr-merged.svg) [revert: Remove Syspass.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/69) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-merged.svg) [revert: Remove Vaults.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/68) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-merged.svg) [revert: Remove Ubergallery.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/67) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
-- ![](../assets/pr-open.svg) [feat: Add Janus](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/66) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
+- ![](../assets/pr-merged.svg) [feat: Add Janus](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/66) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-merged.svg) [feat: Add X](https://github.com/techno-tim/littlelink-server/pull/470) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 weeks ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Finland Cities Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2387) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 weeks ago)
 - ![](../assets/pr-merged.svg) [fix: Non-free typos](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4070) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 weeks ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [fix: Update dead links](https://github.com/emptymalei/awesome-research/pull/58) on [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) (11 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add National Records of Scotland](https://github.com/maehr/awesome-digital-history/pull/45) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (11 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add National Archives to Great Britain](https://github.com/maehr/awesome-digital-history/pull/44) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (11 months ago)
-- ![](../assets/pr-merged.svg) [fix: Move British Library to Great Britain](https://github.com/maehr/awesome-digital-history/pull/43) on [maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) (11 months ago)
