@@ -13,7 +13,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-merged.svg) [feat!: Upgrade pt_PT Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2435) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 days ago)
 - ![](./assets/pr-closed.svg) [feat!: Upgrade pt_PT Dictionary](https://github.com/forks-by-kieran/cspell-dicts/pull/3) on [forks-by-kieran/cspell-dicts](https://github.com/forks-by-kieran/cspell-dicts) (3 days ago)
 - ![](./assets/pr-merged.svg) [feat!: Upgrade Crypto Currencies Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2432) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 days ago)
-- ![](./assets/pr-open.svg) [revert: Remove Fiche.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/90) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
+- ![](./assets/pr-closed.svg) [revert: Remove Fiche.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/90) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
