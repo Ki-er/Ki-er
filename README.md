@@ -4,8 +4,8 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-merged.svg) [chore: Add definition to Trie in create-dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2442) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 days ago)
-- ![](./assets/pr-merged.svg) [feat!: Upgrade hr_HR Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2441) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 days ago)
+- ![](./assets/pr-merged.svg) [chore: Add definition to Trie in create-dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2442) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
+- ![](./assets/pr-merged.svg) [feat!: Upgrade hr_HR Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2441) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat!: Upgrade lt_LT Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2440) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat!: Upgrade Medical Terms Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2439) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add Arm64 to Docker Platforms](https://github.com/FreesideHull/FreesideBot/pull/3) on [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) (1 week ago)
