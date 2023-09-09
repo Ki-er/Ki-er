@@ -4,6 +4,8 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [revert: Remove Vanilla-forums.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/144) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-open.svg) [revert: Remove tileserver-php.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/142) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [revert: Remove htmly.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/141) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-open.svg) [revert: Remove Radium.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/140) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-open.svg) [revert: Remove papercups.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/139) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
@@ -11,9 +13,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-open.svg) [revert: Remove Keeweb.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/137) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-open.svg) [revert: Remove Gitprep.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/136) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-open.svg) [revert: Remove Gitlist.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/135) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
-- ![](./assets/pr-open.svg) [revert: Remove CUPS.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/134) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
-- ![](./assets/pr-open.svg) [revert: Remove tmate.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/133) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
-- ![](./assets/pr-merged.svg) [chore: Add definition to Trie in create-dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2442) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
+- ![](./assets/pr-closed.svg) [revert: Remove CUPS.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/134) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
