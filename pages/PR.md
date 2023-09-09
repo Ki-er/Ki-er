@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [revert: Remove Vanilla-forums.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/144) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [revert: Remove tileserver-php.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/142) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [revert: Remove htmly.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/141) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-open.svg) [revert: Remove Radium.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/140) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-open.svg) [revert: Remove papercups.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/139) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
@@ -7,7 +9,7 @@
 - ![](../assets/pr-open.svg) [revert: Remove Keeweb.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/137) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-open.svg) [revert: Remove Gitprep.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/136) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-open.svg) [revert: Remove Gitlist.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/135) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
-- ![](../assets/pr-open.svg) [revert: Remove CUPS.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/134) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
+- ![](../assets/pr-closed.svg) [revert: Remove CUPS.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/134) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-open.svg) [revert: Remove tmate.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/133) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-merged.svg) [chore: Add definition to Trie in create-dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2442) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade hr_HR Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2441) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [fix: Add some package names to npm](https://github.com/streetsidesoftware/cspell-dicts/pull/1517) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (11 months ago)
 - ![](../assets/pr-merged.svg) [feat: Added New Company - Dropbox](https://github.com/remoteintech/remote-jobs/pull/1518) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (11 months ago)
 - ![](../assets/pr-merged.svg) [fix: Add microservices to software](https://github.com/streetsidesoftware/cspell-dicts/pull/1511) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (11 months ago)
-- ![](../assets/pr-merged.svg) [fix: Cleanup](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3350) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (11 months ago)
-- ![](../assets/pr-merged.svg) [fix: An Ungodly Ammount of Typos](https://github.com/remoteintech/remote-jobs/pull/1505) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (11 months ago)
