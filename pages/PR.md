@@ -1,5 +1,8 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Remove Mindmaps (Unmaintained since May 2021)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/159) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Remove Jackal (unmaintained since March 2023 looking for maintainers)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/158) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Remove Gigablast (Unmaintained since September 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/157) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [platforms: Add RPM](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/156) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Add Note-Mark](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/148) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](../assets/pr-open.svg) [Remove AgentDav (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/145) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
@@ -96,6 +99,3 @@
 - ![](../assets/pr-merged.svg) [feat: Add Massive Pixel Creation](https://github.com/remoteintech/remote-jobs/pull/1585) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (10 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add Rakuten Travel Xchange](https://github.com/remoteintech/remote-jobs/pull/1584) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (10 months ago)
 - ![](../assets/pr-merged.svg) [fix: Add companies](https://github.com/streetsidesoftware/cspell-dicts/pull/1542) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (10 months ago)
-- ![](../assets/pr-merged.svg) [feat: Add Kieran Robson](https://github.com/wesbos/awesome-uses/pull/1469) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (10 months ago)
-- ![](../assets/pr-merged.svg) [feat: Add Safeguard-Global](https://github.com/remoteintech/remote-jobs/pull/1567) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (10 months ago)
-- ![](../assets/pr-merged.svg) [fix: Standardisation to README regions.](https://github.com/remoteintech/remote-jobs/pull/1565) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (10 months ago)
