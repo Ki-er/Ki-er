@@ -4,6 +4,9 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [Remove Mindmaps (Unmaintained since May 2021)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/159) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-open.svg) [Remove Jackal (unmaintained since March 2023 looking for maintainers)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/158) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-open.svg) [Remove Gigablast (Unmaintained since September 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/157) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [platforms: Add RPM](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/156) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Add Note-Mark](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/148) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-open.svg) [Remove AgentDav (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/145) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
@@ -11,9 +14,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-open.svg) [Remove tileserver-php (unmaintained since July 2022, outdated PHP version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/142) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-open.svg) [Remove htmly (unmaintained since May 2022, website down)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/141) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](./assets/pr-open.svg) [Remove Radium (unmaintained since April 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/140) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
-- ![](./assets/pr-open.svg) [Remove papercups (unmaintained since May 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/139) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
-- ![](./assets/pr-open.svg) [Remove King-Phisher (unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/138) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
-- ![](./assets/pr-open.svg) [Remove Keeweb (unmaintained since June 2022, looking for maintainers)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/137) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
