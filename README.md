@@ -4,6 +4,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [platforms: Add RPM](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/156) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Add Note-Mark](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/148) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-open.svg) [Remove AgentDav (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/145) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-open.svg) [Remove Vanilla-forums (unmaintained since november 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/144) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
@@ -13,7 +14,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-open.svg) [Remove papercups (unmaintained since May 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/139) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](./assets/pr-open.svg) [Remove King-Phisher (unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/138) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](./assets/pr-open.svg) [Remove Keeweb (unmaintained since June 2022, looking for maintainers)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/137) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
-- ![](./assets/pr-open.svg) [revert: Remove Gitprep.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/136) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
