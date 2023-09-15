@@ -35,8 +35,6 @@
 
 * [awesome-scalability](https://github.com/forks-by-kieran/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
-* [awesome-scientific-writing](https://github.com/forks-by-kieran/awesome-scientific-writing) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
-
 * [awesome-selfhosted](https://github.com/forks-by-kieran/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 * [awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net
@@ -60,8 +58,6 @@
 * [cspell](https://github.com/forks-by-kieran/cspell) - A Spell Checker for Code!
 
 * [cspell-dicts](https://github.com/forks-by-kieran/cspell-dicts) - Various cspell dictionaries
-
-* [discount-for-student-dev](https://github.com/forks-by-kieran/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 
 * [free-for-dev](https://github.com/forks-by-kieran/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
