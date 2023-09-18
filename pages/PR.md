@@ -1,5 +1,8 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Remove Attendize (Unmaintained since January, Outdated PHP version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/171) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Remove Pomf (Unmaintained since April 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/170) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Remove Podgrab (Unmiantained since September 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/169) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [feat: Create Latvian Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2491) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
 - ![](../assets/pr-open.svg) [Remove Mindmaps (Unmaintained since May 2021)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/159) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-open.svg) [Remove Jackal (unmaintained since March 2023 looking for maintainers)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/158) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
@@ -96,6 +99,3 @@
 - ![](../assets/pr-merged.svg) [feat: Add Vero](https://github.com/techno-tim/littlelink-server/pull/261) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (10 months ago)
 - ![](../assets/pr-merged.svg) [fix: Add Portainer](https://github.com/streetsidesoftware/cspell-dicts/pull/1577) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (10 months ago)
 - ![](../assets/pr-closed.svg) [feat: Add Vero](https://github.com/techno-tim/littlelink-server/pull/260) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (10 months ago)
-- ![](../assets/pr-merged.svg) [feat: Add Packlink](https://github.com/remoteintech/remote-jobs/pull/1589) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (10 months ago)
-- ![](../assets/pr-merged.svg) [feat: Add Massive Pixel Creation](https://github.com/remoteintech/remote-jobs/pull/1585) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (10 months ago)
-- ![](../assets/pr-merged.svg) [feat: Add Rakuten Travel Xchange](https://github.com/remoteintech/remote-jobs/pull/1584) on [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) (10 months ago)
