@@ -4,9 +4,9 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🙏 Collaborations
 I collaborate on a few different projects and repos:
-  -  <a href="https://github.com/awesome-selfhosted/awesome-selfhosted-data">Awesome Selfhosted</a>
-  - <a href="https://github.com/streetsidesoftware/cspell-dicts">Cspell Dicts</a>
-  - <a href="https://github.com/remoteintech/remote-jobs">Remote Jobs</a>
+  - <a href="https://github.com/awesome-selfhosted/awesome-selfhosted-data">Awesome Selfhosted</a> - A list of Free Software network services and web applications which can be hosted on your own server(s).
+  - <a href="https://github.com/streetsidesoftware/cspell-dicts">Cspell Dicts</a> -  Various cspell dictionaries 
+  - <a href="https://github.com/remoteintech/remote-jobs">Remote Jobs</a> - A list of semi to fully remote-friendly companies (jobs) in tech. 
 
 # 🔨 My recent Pull Requests
 
