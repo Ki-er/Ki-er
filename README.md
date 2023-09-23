@@ -2,8 +2,9 @@
 
 Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Sciences exploring meaning making and information. Outside of studies I have a big interest in self hosting and lists! I create discord bots and other small projects that aim to make other's lives easier or more fun!
 
+# 🙏 Collaborations
 I collaborate on a few different projects and repos:
-  - <a href="https://github.com/awesome-selfhosted/awesome-selfhosted-data">Awesome Selfhosted</a>
+  -  <a href="https://github.com/awesome-selfhosted/awesome-selfhosted-data">Awesome Selfhosted</a>
   - <a href="https://github.com/streetsidesoftware/cspell-dicts">Cspell Dicts</a>
   - <a href="https://github.com/remoteintech/remote-jobs">Remote Jobs</a>
 
