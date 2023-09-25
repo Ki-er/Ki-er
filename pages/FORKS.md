@@ -55,6 +55,8 @@
 
 * [CrimsonTome](https://github.com/forks-by-kieran/CrimsonTome) - Config files for my GitHub profile.
 
+* [crimsontome-blog](https://github.com/forks-by-kieran/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy
+
 * [cspell](https://github.com/forks-by-kieran/cspell) - A Spell Checker for Code!
 
 * [cspell-dicts](https://github.com/forks-by-kieran/cspell-dicts) - Various cspell dictionaries
