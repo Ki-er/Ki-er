@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [feat: Create Homebrew Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2563) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 days ago)
+- ![](../assets/pr-closed.svg) [feat: Create Homebrew Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2563) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 days ago)
 - ![](../assets/pr-merged.svg) [Remove Feedka (Unmaintained since November 2022, Outdated dependencies)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/182) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-closed.svg) [Remove Attendize (Unmaintained since January, Outdated PHP version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/171) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-merged.svg) [Remove Pomf (Unmaintained since April 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/170) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
