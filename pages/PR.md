@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-closed.svg) [feat: Create Homebrew Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2563) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (4 days ago)
+- ![](../assets/pr-closed.svg) [feat: Create Homebrew Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2563) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (5 days ago)
 - ![](../assets/pr-merged.svg) [Remove Feedka (Unmaintained since November 2022, Outdated dependencies)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/182) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-closed.svg) [Remove Attendize (Unmaintained since January, Outdated PHP version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/171) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-merged.svg) [Remove Pomf (Unmaintained since April 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/170) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
@@ -94,8 +94,8 @@
 - ![](../assets/pr-merged.svg) [feat: Add 500px](https://github.com/sethcottle/littlelink-extended/pull/7) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (10 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add 500px](https://github.com/techno-tim/littlelink-server/pull/264) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (10 months ago)
 - ![](../assets/pr-merged.svg) [fix: Upgrade ADA](https://github.com/streetsidesoftware/cspell-dicts/pull/1589) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (10 months ago)
-- ![](../assets/pr-merged.svg) [feat: Add Vero](https://github.com/sethcottle/littlelink-extended/pull/6) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (10 months ago)
-- ![](../assets/pr-merged.svg) [fix: Add endfor to PHP](https://github.com/streetsidesoftware/cspell-dicts/pull/1584) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (10 months ago)
-- ![](../assets/pr-merged.svg) [fix: Add Ourobros](https://github.com/streetsidesoftware/cspell-dicts/pull/1583) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (10 months ago)
+- ![](../assets/pr-merged.svg) [feat: Add Vero](https://github.com/sethcottle/littlelink-extended/pull/6) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (11 months ago)
+- ![](../assets/pr-merged.svg) [fix: Add endfor to PHP](https://github.com/streetsidesoftware/cspell-dicts/pull/1584) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (11 months ago)
+- ![](../assets/pr-merged.svg) [fix: Add Ourobros](https://github.com/streetsidesoftware/cspell-dicts/pull/1583) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (11 months ago)
 - ![](../assets/pr-merged.svg) [fix: Add Portainer](https://github.com/streetsidesoftware/cspell-dicts/pull/1581) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (11 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add Vero](https://github.com/techno-tim/littlelink-server/pull/261) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (11 months ago)
