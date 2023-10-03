@@ -11,6 +11,8 @@
 
 * [awesome-browser-extensions-for-github](https://github.com/forks-by-kieran/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 
+* [awesome-digital-history](https://github.com/forks-by-kieran/awesome-digital-history) - Find primary sources online and learn how to research history digitally.
+
 * [awesome-docker](https://github.com/forks-by-kieran/awesome-docker) - :whale: A curated list of Docker resources and projects
 
 * [awesome-free-software](https://github.com/forks-by-kieran/awesome-free-software) - Curated list of free as in freedom software
@@ -39,7 +41,11 @@
 
 * [awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net
 
+* [awesome-speaking](https://github.com/forks-by-kieran/awesome-speaking) - Resources about public speaking
+
 * [awesome-sysadmin](https://github.com/forks-by-kieran/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
+
+* [awesome-uses](https://github.com/forks-by-kieran/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 
 * [awesome-vscode](https://github.com/forks-by-kieran/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 
@@ -50,6 +56,8 @@
 * [CrimsonTome](https://github.com/forks-by-kieran/CrimsonTome) - Config files for my GitHub profile.
 
 * [crimsontome-blog](https://github.com/forks-by-kieran/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy
+
+* [cspell](https://github.com/forks-by-kieran/cspell) - A Spell Checker for Code!
 
 * [cspell-dicts](https://github.com/forks-by-kieran/cspell-dicts) - Various cspell dictionaries
 
@@ -82,6 +90,8 @@
 * [public-apis](https://github.com/forks-by-kieran/public-apis) - A collective list of free APIs
 
 * [remote-jobs](https://github.com/forks-by-kieran/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+
+* [StudentResources](https://github.com/forks-by-kieran/StudentResources) - A list of resources created by and for students
 
 <!-- end: readme-repos-list -->
 
