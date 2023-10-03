@@ -19,7 +19,7 @@ I collaborate on a few different projects and repos:
 - ![](./assets/pr-closed.svg) [Remove Mindmaps (Unmaintained since May 2021)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/159) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [Remove Jackal (unmaintained since March 2023 looking for maintainers)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/158) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [Remove Gigablast (Unmaintained since September 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/157) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago)
-- ![](./assets/pr-open.svg) [platforms: Add RPM](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/156) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago)
+- ![](./assets/pr-closed.svg) [platforms: Add RPM](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/156) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
