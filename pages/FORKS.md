@@ -47,6 +47,8 @@
 
 * [awesome-uses](https://github.com/forks-by-kieran/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 
+* [awesome-vscode](https://github.com/forks-by-kieran/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+
 * [AwesomeResources](https://github.com/forks-by-kieran/AwesomeResources) - An awesome list of computer science related resources.
 
 * [CONTRIBUTING](https://github.com/forks-by-kieran/CONTRIBUTING)
@@ -82,6 +84,8 @@
 * [littlelink-server](https://github.com/forks-by-kieran/littlelink-server) - A lightweight, open source, and self-hosted alternative to linktree in a Docker container!
 
 * [papers-we-love](https://github.com/forks-by-kieran/papers-we-love) - Papers from the computer science community to read and discuss.
+
+* [Plex-Meta-Manager-Configs](https://github.com/forks-by-kieran/Plex-Meta-Manager-Configs) - Config files for Plex Meta Manager
 
 * [public-apis](https://github.com/forks-by-kieran/public-apis) - A collective list of free APIs
 
