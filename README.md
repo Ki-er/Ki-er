@@ -10,7 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [Remove Jami (Deprecated)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/259) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
+- ![](./assets/pr-merged.svg) [Update Jami Source Code Link](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/259) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-open.svg) [Remove Dovel (Seemed to be deleted)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/258) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-open.svg) [Remove Stone-Age Messenger (Unmaintained since May 2021))](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/257) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-open.svg) [Remove Shinobi (Unmaintained since Feb 2021)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/256) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
@@ -19,7 +19,7 @@ I collaborate on a few different projects and repos:
 - ![](./assets/pr-open.svg) [Remove Maildrop (Unmaintained since Jan 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/253) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-open.svg) [Remove Commento (Unmaintained since Feb 2021)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/252) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-open.svg) [Remove Ackee (Unmaintained since December 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/250) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
-- ![](./assets/pr-open.svg) [Move VanDam to 3D Printing](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/239) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 days ago)
+- ![](./assets/pr-open.svg) [Move VanDam to Manufacturing](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/239) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 days ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
