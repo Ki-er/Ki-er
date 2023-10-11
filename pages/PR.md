@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Update Umami Demo Link](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/270) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Update ACP-Admin Description](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/269) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Update Pagure Platform ](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/267) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-merged.svg) [Remove OpenGTS (Unmaintained since Feb 2020)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/266) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [chore: Update docker version and add info to env](https://github.com/KieranRobson/Clarence-Bot/pull/112) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (10 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add ISO code to weather command](https://github.com/KieranRobson/Clarence-Bot/pull/111) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (10 months ago)
 - ![](../assets/pr-merged.svg) [chore: Change commitlint](https://github.com/KieranRobson/Clarence-Bot/pull/110) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (10 months ago)
-- ![](../assets/pr-merged.svg) [chore: Typo fixes](https://github.com/KieranRobson/Clarence-Bot/pull/94) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (11 months ago)
