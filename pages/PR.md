@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Remove Savepad (Unmaintained since December 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/273) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Am I Unique (unmaintained since Feb 2019)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/272) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove B2 Evolution (Unmaintained since September 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/271) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Update Umami Demo Link](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/270) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [feat: Add Alex Workflow](https://github.com/KieranRobson/Clarence-Bot/pull/119) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (10 months ago)
 - ![](../assets/pr-closed.svg) [feat: Add typo to readme for testing](https://github.com/KieranRobson/Clarence-Bot/pull/118) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (10 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add CSpell workflow](https://github.com/KieranRobson/Clarence-Bot/pull/116) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (10 months ago)
-- ![](../assets/pr-merged.svg) [chore: Update docker version and add info to env](https://github.com/KieranRobson/Clarence-Bot/pull/112) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (10 months ago)
