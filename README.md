@@ -10,7 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [Update ACP-Admin Description](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/269) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-merged.svg) [Update ACP-Admin Description](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/269) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-merged.svg) [Update Pagure Platform ](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/267) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-merged.svg) [Remove OpenGTS (Unmaintained since Feb 2020)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/266) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-merged.svg) [Remove Bluemind (Dead Source Code)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/265) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
