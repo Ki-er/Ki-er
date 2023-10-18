@@ -10,6 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [Remove Calagator (Unmaintained since Dec 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/294) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Remove Void (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/293) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Remove Wreeto (Unmaintained since Sep 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/292) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-merged.svg) [Update DamselFly Source Code](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/279) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 days ago)
@@ -19,7 +20,6 @@ I collaborate on a few different projects and repos:
 - ![](./assets/pr-merged.svg) [Remove Savepad (Unmaintained since December 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/273) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-open.svg) [Remove Am I Unique (unmaintained since Feb 2019)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/272) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-open.svg) [Remove B2 Evolution (Unmaintained since September 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/271) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
-- ![](./assets/pr-merged.svg) [Update Umami Demo Link](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/270) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
