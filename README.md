@@ -10,9 +10,9 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [Remove Calagator (Unmaintained since Dec 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/294) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
-- ![](./assets/pr-open.svg) [Remove Void (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/293) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
-- ![](./assets/pr-open.svg) [Remove Wreeto (Unmaintained since Sep 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/292) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
+- ![](./assets/pr-open.svg) [Remove Calagator (Unmaintained since Dec 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/294) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
+- ![](./assets/pr-open.svg) [Remove Void (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/293) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
+- ![](./assets/pr-open.svg) [Remove Wreeto (Unmaintained since Sep 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/292) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-merged.svg) [Update DamselFly Source Code](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/279) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-open.svg) [Remove Calypso (Unmaintained since May 2021)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/278) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-open.svg) [Remove Musical Artifacts (Unmaintained since June 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/277) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
