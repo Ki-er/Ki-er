@@ -10,6 +10,8 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [Remove Silverstrike (Unmaintained, Dead Links)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/302) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-open.svg) [Remove Trudesk (Unmaintained since July 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/301) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Remove Lavagna (Unmainated since March 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/300) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Remove Calagator (Unmaintained since Dec 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/294) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](./assets/pr-open.svg) [Remove Void (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/293) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
@@ -18,8 +20,6 @@ I collaborate on a few different projects and repos:
 - ![](./assets/pr-merged.svg) [Remove Calypso (Unmaintained since May 2021)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/278) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove Musical Artifacts (Unmaintained since June 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/277) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-closed.svg) [Remove H3 Viewer (Unmaintained since July 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/276) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
-- ![](./assets/pr-merged.svg) [Remove Savepad (Unmaintained since December 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/273) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
-- ![](./assets/pr-closed.svg) [Remove Am I Unique (unmaintained since Feb 2019)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/272) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
