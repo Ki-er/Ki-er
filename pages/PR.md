@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [Update Hadmean to Dashpress](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/303) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
+- ![](../assets/pr-merged.svg) [Update Hadmean to Dashpress](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/303) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-open.svg) [Remove Silverstrike (Unmaintained, Dead Links)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/302) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-closed.svg) [Remove Trudesk (Unmaintained since July 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/301) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-open.svg) [Remove Lavagna (Unmainated since March 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/300) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
