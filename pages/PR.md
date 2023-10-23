@@ -1,7 +1,7 @@
 ### 🔨 Recent 100 PRs
 
 - ![](../assets/pr-open.svg) [Exclude links from checker / Remove Hackershare demo](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/314) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
-- ![](../assets/pr-open.svg) [Update Eonza Demo](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/313) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Remove Eonza Demo](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/313) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-closed.svg) [Update Admidio Demo Link](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/312) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Euterpe (Outdated ICU Version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/311) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Instiki (Unmaintained since March 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/309) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
