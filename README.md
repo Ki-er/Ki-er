@@ -10,9 +10,9 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [Remove This week in past demo (Timesout)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/316) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-merged.svg) [Remove This week in past demo (Timesout)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/316) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Remove Raveberry (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/315) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
-- ![](./assets/pr-open.svg) [Exclude links from checker / Remove Hackershare demo](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/314) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
+- ![](./assets/pr-merged.svg) [Exclude links from checker / Remove Hackershare demo](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/314) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](./assets/pr-merged.svg) [Remove Eonza Demo](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/313) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](./assets/pr-closed.svg) [Update Admidio Demo Link](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/312) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](./assets/pr-open.svg) [Remove Euterpe (Outdated ICU Version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/311) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
