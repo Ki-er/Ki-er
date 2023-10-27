@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Remove DocPHT (Unmaintained, Outdated PHP Version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/319) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Thredded (Outdated Ruby Version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/317) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-merged.svg) [Remove This week in past demo (Timesout)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/316) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-open.svg) [Remove Raveberry (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/315) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 days ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [feat: Add Pixelfed](https://github.com/sethcottle/littlelink-extended/pull/12) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (3 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add new buttons](https://github.com/techno-tim/littlelink-server/pull/457) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Lorem Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2363) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
-- ![](../assets/pr-merged.svg) [feat!: Upgrade Fonts Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2362) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
