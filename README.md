@@ -10,6 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [Added links to URL Check and Removed Psychic  URL](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/334) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-closed.svg) [Add Evergreen to Lint Ignore List](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/330) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-merged.svg) [Remove DocPHT (Unmaintained, Outdated PHP Version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/319) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove Thredded (Outdated Ruby Version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/317) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
@@ -19,7 +20,6 @@ I collaborate on a few different projects and repos:
 - ![](./assets/pr-merged.svg) [Remove Eonza Demo](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/313) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-closed.svg) [Update Admidio Demo Link](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/312) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove Euterpe (Outdated ICU Version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/311) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
-- ![](./assets/pr-merged.svg) [Remove Instiki (Unmaintained since March 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/309) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
