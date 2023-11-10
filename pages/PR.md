@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Add Digiview](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/355) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Add Exatorrent](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/354) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Added links to URL Check and Removed Psychic  URL](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/334) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-closed.svg) [Add Evergreen to Lint Ignore List](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/330) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-merged.svg) [Remove DocPHT (Unmaintained, Outdated PHP Version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/319) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [fix: Typos and Dead Link Removal](https://github.com/FreesideHull/StudentResources/pull/18) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (3 months ago)
 - ![](../assets/pr-merged.svg) [fix: Typos and Dead Link](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4067) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
 - ![](../assets/pr-merged.svg) [fix: Add words to various dicts](https://github.com/streetsidesoftware/cspell-dicts/pull/2381) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
-- ![](../assets/pr-merged.svg) [feat! Upgrade Mnemonic Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2379) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
-- ![](../assets/pr-merged.svg) [feat: Add Pixelfed](https://github.com/sethcottle/littlelink-extended/pull/12) on [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) (3 months ago)
