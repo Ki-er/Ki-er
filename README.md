@@ -10,8 +10,8 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [Add Digiview](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/355) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
-- ![](./assets/pr-closed.svg) [Add Exatorrent](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/354) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
+- ![](./assets/pr-open.svg) [Add Digiview](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/355) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
+- ![](./assets/pr-closed.svg) [Add Exatorrent](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/354) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-merged.svg) [Added links to URL Check and Removed Psychic  URL](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/334) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-closed.svg) [Add Evergreen to Lint Ignore List](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/330) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove DocPHT (Unmaintained, Outdated PHP Version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/319) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
