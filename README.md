@@ -10,7 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [Add Digislides](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/364) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
+- ![](./assets/pr-closed.svg) [Add Digislides](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/364) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-open.svg) [Add Digiwall](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/363) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-open.svg) [Add Digiview](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/355) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 days ago)
 - ![](./assets/pr-closed.svg) [Add Exatorrent](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/354) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 days ago)
