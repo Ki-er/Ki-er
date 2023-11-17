@@ -13,8 +13,6 @@
 
 * [awesome-digital-history](https://github.com/forks-by-kieran/awesome-digital-history) - Find primary sources online and learn how to research history digitally.
 
-* [awesome-docker](https://github.com/forks-by-kieran/awesome-docker) - :whale: A curated list of Docker resources and projects
-
 * [awesome-free-software](https://github.com/forks-by-kieran/awesome-free-software) - Curated list of free as in freedom software
 
 * [awesome-geek-podcasts](https://github.com/forks-by-kieran/awesome-geek-podcasts) - A curated list of podcasts we like to listen to. 
