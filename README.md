@@ -10,16 +10,16 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [Add Digicut](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/393) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-open.svg) [Remove Partkeeper (Unmaintained since 2019))](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/396) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-open.svg) [Add Digiface](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/395) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-open.svg) [Add Digibuzzer](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/394) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-closed.svg) [Add Digicut](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/393) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-closed.svg) [Add Digislides](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/364) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add Digiwall](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/363) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add Digiview](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/355) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-closed.svg) [Add Exatorrent](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/354) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Added links to URL Check and Removed Psychic  URL](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/334) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [Add Evergreen to Lint Ignore List](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/330) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Remove DocPHT (Unmaintained, Outdated PHP Version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/319) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Remove Thredded (Outdated Ruby Version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/317) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [Remove This week in past demo (Timesout)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/316) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 weeks ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
