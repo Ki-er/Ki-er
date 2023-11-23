@@ -1,5 +1,8 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Remove Partkeeper (Unmaintained since 2019))](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/396) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Add Digiface](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/395) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Add Digibuzzer](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/394) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-closed.svg) [Add Digicut](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/393) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-closed.svg) [Add Digislides](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/364) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-merged.svg) [Add Digiwall](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/363) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
@@ -96,6 +99,3 @@
 - ![](../assets/pr-merged.svg) [revert: Remove Ubergallery.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/67) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add Janus](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/66) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
 - ![](../assets/pr-merged.svg) [feat: Add X](https://github.com/techno-tim/littlelink-server/pull/470) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
-- ![](../assets/pr-merged.svg) [feat!: Upgrade Finland Cities Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2387) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
-- ![](../assets/pr-merged.svg) [fix: Non-free typos](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4070) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 months ago)
-- ![](../assets/pr-merged.svg) [feat: Create F# Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2385) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
