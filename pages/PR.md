@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Add Shelf](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/404) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Remove IMP (Unmaintained since 2019)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/399) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
 - ![](../assets/pr-merged.svg) [Add related software to Medusa](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/398) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
 - ![](../assets/pr-closed.svg) [Remove Tania (Unmaintained)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/397) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [feat: Add Review Board](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/74) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
 - ![](../assets/pr-merged.svg) [revert: Remove Restyaboard.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/70) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
 - ![](../assets/pr-merged.svg) [revert: Remove Syspass.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/69) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
-- ![](../assets/pr-merged.svg) [revert: Remove Vaults.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/68) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
