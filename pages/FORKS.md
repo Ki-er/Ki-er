@@ -25,8 +25,6 @@
 
 * [awesome-pokemon](https://github.com/forks-by-kieran/awesome-pokemon) - :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.
 
-* [awesome-privacy](https://github.com/forks-by-kieran/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-
 * [awesome-productivity](https://github.com/forks-by-kieran/awesome-productivity) - A curated list of delightful productivity resources.
 
 * [awesome-readme](https://github.com/forks-by-kieran/awesome-readme) - A curated list of awesome READMEs
