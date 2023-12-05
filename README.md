@@ -10,8 +10,8 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [Remove Django Todo (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/405) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 days ago)
-- ![](./assets/pr-merged.svg) [Add Shelf](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/404) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 days ago)
+- ![](./assets/pr-open.svg) [Remove Django Todo (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/405) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
+- ![](./assets/pr-merged.svg) [Add Shelf](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/404) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove IMP (Unmaintained since 2019)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/399) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add related software to Medusa](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/398) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-closed.svg) [Remove Tania (Unmaintained)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/397) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
