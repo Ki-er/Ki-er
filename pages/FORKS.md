@@ -33,8 +33,6 @@
 
 * [awesome-research](https://github.com/forks-by-kieran/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]  
 
-* [awesome-scalability](https://github.com/forks-by-kieran/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-
 * [awesome-scientific-writing](https://github.com/forks-by-kieran/awesome-scientific-writing) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 
 * [awesome-selfhosted](https://github.com/forks-by-kieran/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -76,8 +74,6 @@
 * [hullcss-site-jet](https://github.com/forks-by-kieran/hullcss-site-jet)
 
 * [Learn-Javascript](https://github.com/forks-by-kieran/Learn-Javascript) - A Complete Javascript Learning Reference Guide.
-
-* [littlelink](https://github.com/forks-by-kieran/littlelink) - A lightweight DIY alternative to services like Linktree and many.link.
 
 * [littlelink-extended](https://github.com/forks-by-kieran/littlelink-extended) - Extended brand repo that can be used with https://github.com/sethcottle/littlelink
 
