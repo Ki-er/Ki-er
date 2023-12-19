@@ -17,6 +17,8 @@
 
 * [awesome-free-software](https://github.com/forks-by-kieran/awesome-free-software) - Curated list of free as in freedom software
 
+* [awesome-geek-podcasts](https://github.com/forks-by-kieran/awesome-geek-podcasts) - A curated list of podcasts we like to listen to. 
+
 * [awesome-go](https://github.com/forks-by-kieran/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
 * [awesome-phd-advice](https://github.com/forks-by-kieran/awesome-phd-advice) - Collection of advice for prospective and current PhD students
@@ -25,6 +27,8 @@
 
 * [awesome-privacy](https://github.com/forks-by-kieran/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
+* [awesome-productivity](https://github.com/forks-by-kieran/awesome-productivity) - A curated list of delightful productivity resources.
+
 * [awesome-readme](https://github.com/forks-by-kieran/awesome-readme) - A curated list of awesome READMEs
 
 * [awesome-research](https://github.com/forks-by-kieran/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]  
@@ -32,6 +36,8 @@
 * [awesome-scalability](https://github.com/forks-by-kieran/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
 * [awesome-scientific-writing](https://github.com/forks-by-kieran/awesome-scientific-writing) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
+
+* [awesome-selfhosted](https://github.com/forks-by-kieran/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 * [awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net
 
