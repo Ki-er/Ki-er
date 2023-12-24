@@ -7,8 +7,6 @@
 
 * [awesome](https://github.com/forks-by-kieran/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
-* [awesome-ad-free](https://github.com/forks-by-kieran/awesome-ad-free) - Curated list of ad-free alternatives to popular services on the web
-
 * [awesome-browser-extensions-for-github](https://github.com/forks-by-kieran/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 
 * [awesome-digital-history](https://github.com/forks-by-kieran/awesome-digital-history) - Find primary sources online and learn how to research history digitally.
@@ -20,8 +18,6 @@
 * [awesome-geek-podcasts](https://github.com/forks-by-kieran/awesome-geek-podcasts) - A curated list of podcasts we like to listen to. 
 
 * [awesome-go](https://github.com/forks-by-kieran/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-
-* [awesome-phd-advice](https://github.com/forks-by-kieran/awesome-phd-advice) - Collection of advice for prospective and current PhD students
 
 * [awesome-pokemon](https://github.com/forks-by-kieran/awesome-pokemon) - :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.
 
@@ -66,8 +62,6 @@
 * [free-for-dev](https://github.com/forks-by-kieran/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 * [freeside-.github](https://github.com/forks-by-kieran/freeside-.github)
-
-* [FreesideBot](https://github.com/forks-by-kieran/FreesideBot) - Freeside Bot repo
 
 * [GitHubGraduation-2022](https://github.com/forks-by-kieran/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
 
