@@ -23,8 +23,6 @@
 
 * [awesome-phd-advice](https://github.com/forks-by-kieran/awesome-phd-advice) - Collection of advice for prospective and current PhD students
 
-* [awesome-pokemon](https://github.com/forks-by-kieran/awesome-pokemon) - :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.
-
 * [awesome-privacy](https://github.com/forks-by-kieran/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 * [awesome-productivity](https://github.com/forks-by-kieran/awesome-productivity) - A curated list of delightful productivity resources.
@@ -53,8 +51,6 @@
 
 * [CONTRIBUTING](https://github.com/forks-by-kieran/CONTRIBUTING)
 
-* [CrimsonTome](https://github.com/forks-by-kieran/CrimsonTome) - Config files for my GitHub profile.
-
 * [crimsontome-blog](https://github.com/forks-by-kieran/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy
 
 * [cspell](https://github.com/forks-by-kieran/cspell) - A Spell Checker for Code!
@@ -70,8 +66,6 @@
 * [FreesideBot](https://github.com/forks-by-kieran/FreesideBot) - Freeside Bot repo
 
 * [GitHubGraduation-2022](https://github.com/forks-by-kieran/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
-
-* [hullblogs.com](https://github.com/forks-by-kieran/hullblogs.com)
 
 * [hullcss-site-jet](https://github.com/forks-by-kieran/hullcss-site-jet)
 
