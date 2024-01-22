@@ -11,8 +11,6 @@
 
 * [awesome-browser-extensions-for-github](https://github.com/forks-by-kieran/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 
-* [awesome-digital-history](https://github.com/forks-by-kieran/awesome-digital-history) - Find primary sources online and learn how to research history digitally.
-
 * [awesome-docker](https://github.com/forks-by-kieran/awesome-docker) - :whale: A curated list of Docker resources and projects
 
 * [awesome-free-software](https://github.com/forks-by-kieran/awesome-free-software) - Curated list of free as in freedom software
