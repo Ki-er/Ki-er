@@ -11,7 +11,7 @@ I collaborate on a few different projects and repos:
 # 🔨 My recent Pull Requests
 
 - ![](./assets/pr-closed.svg) [Remove Duplicate Opentrashmail](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/560) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
-- ![](./assets/pr-closed.svg) [Remove EmuLinkerSF (Unmaintaned since Jan 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/521) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago)
+- ![](./assets/pr-closed.svg) [Remove EmuLinkerSF (Unmaintaned since Jan 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/521) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 weeks ago)
 - ![](./assets/pr-closed.svg) [Remove Django Todo (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/405) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 months ago)
 - ![](./assets/pr-merged.svg) [Add Shelf](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/404) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 months ago)
 - ![](./assets/pr-merged.svg) [Remove IMP (Unmaintained since 2019)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/399) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 months ago)
