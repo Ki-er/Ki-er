@@ -10,6 +10,8 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [Remove Hasty Paste (Archived)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/590) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-open.svg) [Remove ViMbAdmin (Unmaintained since February 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/589) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-closed.svg) [Remove Duplicate Opentrashmail](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/560) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [Remove EmuLinkerSF (Unmaintaned since Jan 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/521) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
 - ![](./assets/pr-closed.svg) [Remove Django Todo (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/405) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
@@ -18,8 +20,6 @@ I collaborate on a few different projects and repos:
 - ![](./assets/pr-merged.svg) [Add related software to Medusa](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/398) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
 - ![](./assets/pr-closed.svg) [Remove Tania (Unmaintained)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/397) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
 - ![](./assets/pr-closed.svg) [Remove Partkeeper (Unmaintained since 2019)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/396) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
-- ![](./assets/pr-merged.svg) [Add Digiface](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/395) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
-- ![](./assets/pr-merged.svg) [Add Digibuzzer](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/394) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
