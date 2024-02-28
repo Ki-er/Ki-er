@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Remove Hasty Paste (Archived)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/590) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Remove ViMbAdmin (Unmaintained since February 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/589) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-closed.svg) [Remove Duplicate Opentrashmail](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/560) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago)
 - ![](../assets/pr-closed.svg) [Remove EmuLinkerSF (Unmaintaned since Jan 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/521) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
 - ![](../assets/pr-closed.svg) [Remove Django Todo (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/405) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [revert: Remove Keeja.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/86) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 months ago)
 - ![](../assets/pr-merged.svg) [revert: Remove Party Poker](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/85) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 months ago)
 - ![](../assets/pr-merged.svg) [revert: Remove Schort.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/83) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 months ago)
-- ![](../assets/pr-closed.svg) [revert: Remove WebUI-Aria2.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/82) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 months ago)
-- ![](../assets/pr-merged.svg) [revert: Remove Volumio.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/81) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 months ago)
