@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [Fix Daneecloud (404. Login required for demo)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/602) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-merged.svg) [Fix Daneecloud (404. Login required for demo)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/602) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Fix Daneecloud](https://github.com/forks-by-kieran/awesome-selfhosted-data/pull/1) on [forks-by-kieran/awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) (today)
 - ![](../assets/pr-closed.svg) [Add end user specificity](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/591) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-merged.svg) [Remove Hasty Paste (Archived)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/590) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
