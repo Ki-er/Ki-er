@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Fix shopware (Old 404 link)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/606) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Fix Daneecloud (404. Login required for demo)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/602) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](../assets/pr-closed.svg) [Fix Daneecloud](https://github.com/forks-by-kieran/awesome-selfhosted-data/pull/1) on [forks-by-kieran/awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) (2 days ago)
 - ![](../assets/pr-closed.svg) [Add end user specificity](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/591) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-closed.svg) [feat!: Upgrade pt_PT Dictionary](https://github.com/forks-by-kieran/cspell-dicts/pull/3) on [forks-by-kieran/cspell-dicts](https://github.com/forks-by-kieran/cspell-dicts) (6 months ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade Crypto Currencies Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2432) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
 - ![](../assets/pr-closed.svg) [revert: Remove Fiche.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/90) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 months ago)
-- ![](../assets/pr-closed.svg) [revert: Remove Hextris.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/87) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 months ago)
