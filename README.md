@@ -11,7 +11,7 @@ I collaborate on a few different projects and repos:
 # 🔨 My recent Pull Requests
 
 - ![](./assets/pr-merged.svg) [Fix Daneecloud (404. Login required for demo)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/602) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
-- ![](./assets/pr-open.svg) [Fix Daneecloud](https://github.com/forks-by-kieran/awesome-selfhosted-data/pull/1) on [forks-by-kieran/awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) (2 days ago)
+- ![](./assets/pr-closed.svg) [Fix Daneecloud](https://github.com/forks-by-kieran/awesome-selfhosted-data/pull/1) on [forks-by-kieran/awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-closed.svg) [Add end user specificity](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/591) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove Hasty Paste (Archived)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/590) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove ViMbAdmin (Unmaintained since February 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/589) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
