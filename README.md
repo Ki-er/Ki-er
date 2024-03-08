@@ -10,6 +10,8 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [Remove Icecast (Unmaintained since 13 March 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/607) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-closed.svg) [Remove Icecast (No Commits since March 2022)](https://github.com/forks-by-kieran/awesome-selfhosted-data/pull/2) on [forks-by-kieran/awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Fix shopware (Old 404 link)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/606) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-merged.svg) [Fix Daneecloud (404. Login required for demo)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/602) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-closed.svg) [Fix Daneecloud](https://github.com/forks-by-kieran/awesome-selfhosted-data/pull/1) on [forks-by-kieran/awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) (2 days ago)
@@ -18,8 +20,6 @@ I collaborate on a few different projects and repos:
 - ![](./assets/pr-merged.svg) [Remove ViMbAdmin (Unmaintained since February 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/589) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-closed.svg) [Remove Duplicate Opentrashmail](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/560) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
 - ![](./assets/pr-closed.svg) [Remove EmuLinkerSF (Unmaintaned since Jan 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/521) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
-- ![](./assets/pr-closed.svg) [Remove Django Todo (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/405) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
-- ![](./assets/pr-merged.svg) [Add Shelf](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/404) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 months ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
