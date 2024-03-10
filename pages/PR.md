@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Remove Smashing (Unmaintained since March 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/612) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-closed.svg) [Remove Icecast (Unmaintained since 13 March 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/607) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](../assets/pr-closed.svg) [Remove Icecast (No Commits since March 2022)](https://github.com/forks-by-kieran/awesome-selfhosted-data/pull/2) on [forks-by-kieran/awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) (2 days ago)
 - ![](../assets/pr-merged.svg) [Fix shopware (Old 404 link)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/606) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Add Arm64 to Docker Platforms](https://github.com/FreesideHull/FreesideBot/pull/3) on [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) (6 months ago)
 - ![](../assets/pr-closed.svg) [feat!: Upgrade fa_IR Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2436) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade pt_PT Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2435) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (6 months ago)
-- ![](../assets/pr-closed.svg) [feat!: Upgrade pt_PT Dictionary](https://github.com/forks-by-kieran/cspell-dicts/pull/3) on [forks-by-kieran/cspell-dicts](https://github.com/forks-by-kieran/cspell-dicts) (6 months ago)
