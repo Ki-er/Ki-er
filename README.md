@@ -10,7 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-closed.svg) [Remove Smashing (Unmaintained since March 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/612) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 days ago)
+- ![](./assets/pr-closed.svg) [Remove Smashing (Unmaintained since March 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/612) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-closed.svg) [Remove Icecast (Unmaintained since 13 March 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/607) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-closed.svg) [Remove Icecast (No Commits since March 2022)](https://github.com/forks-by-kieran/awesome-selfhosted-data/pull/2) on [forks-by-kieran/awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix shopware (Old 404 link)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/606) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
