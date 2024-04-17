@@ -10,6 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [Add Various Buttons](https://github.com/techno-tim/littlelink-server/pull/605) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (today)
 - ![](./assets/pr-merged.svg) [Remove My Mind (Unmaintained since April 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/668) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-merged.svg) [Update Patreon and Bluesky logos](https://github.com/techno-tim/littlelink-server/pull/581) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 month ago)
 - ![](./assets/pr-closed.svg) [Remove Smashing (Unmaintained since March 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/612) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
@@ -19,7 +20,6 @@ I collaborate on a few different projects and repos:
 - ![](./assets/pr-merged.svg) [Fix Daneecloud (404. Login required for demo)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/602) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
 - ![](./assets/pr-closed.svg) [Fix Daneecloud](https://github.com/forks-by-kieran/awesome-selfhosted-data/pull/1) on [forks-by-kieran/awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) (1 month ago)
 - ![](./assets/pr-closed.svg) [Add end user specificity](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/591) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
-- ![](./assets/pr-merged.svg) [Remove Hasty Paste (Archived)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/590) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
