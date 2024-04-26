@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Add Digimerge](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/680) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Podify (Unmaintained since April 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/678) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-merged.svg) [Add Various Buttons](https://github.com/techno-tim/littlelink-server/pull/605) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 week ago)
 - ![](../assets/pr-merged.svg) [Remove My Mind (Unmaintained since April 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/668) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-closed.svg) [Remove Tmate (Unmaintained since August 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/133) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (7 months ago)
 - ![](../assets/pr-merged.svg) [chore: Add definition to Trie in create-dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2442) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (8 months ago)
 - ![](../assets/pr-merged.svg) [feat!: Upgrade hr_HR Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2441) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (8 months ago)
-- ![](../assets/pr-merged.svg) [feat!: Upgrade lt_LT Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2440) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (8 months ago)
