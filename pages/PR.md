@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Add Buttons](https://github.com/techno-tim/littlelink-server/pull/675) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (today)
 - ![](../assets/pr-closed.svg) [Add Dockge](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/684) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
 - ![](../assets/pr-merged.svg) [Add Digimerge](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/680) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
 - ![](../assets/pr-merged.svg) [Remove Podify (Unmaintained since April 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/678) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Remove Gitlist (Unmaintained since July 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/135) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-closed.svg) [revert: Remove CUPS.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/134) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-closed.svg) [Remove Tmate (Unmaintained since August 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/133) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [chore: Add definition to Trie in create-dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/2442) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 year ago)
