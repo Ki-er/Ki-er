@@ -10,7 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [Add Buttons](https://github.com/techno-tim/littlelink-server/pull/675) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 week ago)
+- ![](./assets/pr-merged.svg) [Add Buttons](https://github.com/techno-tim/littlelink-server/pull/675) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 week ago)
 - ![](./assets/pr-closed.svg) [Add Dockge](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/684) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
 - ![](./assets/pr-merged.svg) [Add Digimerge](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/680) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
 - ![](./assets/pr-merged.svg) [Remove Podify (Unmaintained since April 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/678) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
