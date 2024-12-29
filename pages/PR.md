@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-closed.svg) [Rename what-to-cook?.yml to what-to-cook.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1044) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Add Buttons](https://github.com/techno-tim/littlelink-server/pull/675) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (3 months ago)
 - ![](../assets/pr-closed.svg) [Add Dockge](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/684) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (8 months ago)
 - ![](../assets/pr-merged.svg) [Add Digimerge](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/680) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (8 months ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-closed.svg) [Remove Gitprep (unmaintained since January 2023, ambiguous license)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/136) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Remove Gitlist (Unmaintained since July 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/135) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-closed.svg) [revert: Remove CUPS.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/134) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-closed.svg) [Remove Tmate (Unmaintained since August 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/133) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
