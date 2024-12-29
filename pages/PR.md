@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [Remove Github stats from Inboxen](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1054) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-merged.svg) [Remove Github stats from Inboxen](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1054) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Dim (Unmaintained since December 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1052) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Bsimp (Unmaintained since December 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1051) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove betanin (Unmaintained since December 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1050) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
