@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Add Tegon](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1085) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Add Snapp to URL Shortner](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1084) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Remove Kbin and associated link (Unmaintained since Dec 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1083) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Remove Simply Shorten (Unmaintained since Nov 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1082) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Remove Hub20 (Unmaintained since 2023, 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1081) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-closed.svg) [Remove Attendize (Unmaintained since January, Outdated PHP version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/171) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Remove Pomf (Unmaintained since April 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/170) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-closed.svg) [Remove Podgrab (Unmaintained since September 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/169) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [feat: Create Latvian Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2491) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 year ago)
-- ![](../assets/pr-closed.svg) [Remove Mindmaps (Unmaintained since May 2021)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/159) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
