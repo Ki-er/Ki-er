@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Add  / Remove URL links, Fix License](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1094) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Local Food Nodes (Deleted Repo)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1093) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Goeland (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1091) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Add Depends Flag to Youtube and Spotify Apps](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1089) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Remove Commento (Unmaintained since Feb 2021)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/252) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-closed.svg) [Remove Ackee (Unmaintained since December 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/250) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-closed.svg) [Move VanDam to Manufacturing](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/239) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-closed.svg) [feat: Create Homebrew Dict](https://github.com/streetsidesoftware/cspell-dicts/pull/2563) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 year ago)
