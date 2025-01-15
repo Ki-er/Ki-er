@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Remove Darkwire.io (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1110) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Add more URLs to link checker / Fix URLs](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1109) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Fix Papermerge (New GH Link)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1107) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Remove OTS-Share (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1100) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](../assets/pr-merged.svg) [Add  / Remove URL links, Fix License](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1094) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Remove Shinobi (Unmaintained since Feb 2021)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/256) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Remove Olaris (Unmaintained Since July 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/255) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Remove Oddworks (Unmaintained since 2019)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/254) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [Remove Maildrop (Unmaintained since Jan 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/253) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [Remove Commento (Unmaintained since Feb 2021)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/252) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
