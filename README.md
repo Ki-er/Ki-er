@@ -10,6 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [Remove Papermerge (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1107) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-merged.svg) [Remove OTS-Share (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1100) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](./assets/pr-merged.svg) [Add  / Remove URL links, Fix License](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1094) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove Local Food Nodes (Deleted Repo)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1093) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
@@ -19,7 +20,6 @@ I collaborate on a few different projects and repos:
 - ![](./assets/pr-open.svg) [Add Tegon](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1085) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-open.svg) [Add Snapp to URL Shortner](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1084) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove Kbin and associated link (Unmaintained since Dec 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1083) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
-- ![](./assets/pr-merged.svg) [Remove Simply Shorten (Unmaintained since Nov 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1082) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
