@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [Remove Papermerge (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1107) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Fix Papermerge (New GH Link)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1107) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Remove OTS-Share (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1100) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](../assets/pr-merged.svg) [Add  / Remove URL links, Fix License](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1094) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-merged.svg) [Remove Local Food Nodes (Deleted Repo)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1093) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
