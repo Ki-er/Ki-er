@@ -1,7 +1,7 @@
 ### 🔨 Recent 100 PRs
 
 - ![](../assets/pr-open.svg) [feat: Add Viber, Spacehey, Neocities, Dreamwidth, Pillowfort](https://github.com/techno-tim/littlelink-server/pull/716) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 day ago)
-- ![](../assets/pr-open.svg) [Remove Exbin (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1115) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
+- ![](../assets/pr-merged.svg) [Remove Exbin (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1115) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
 - ![](../assets/pr-merged.svg) [Remove YoutubeDL-Material (Unmiantained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1112) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-merged.svg) [Remove Darkwire.io (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1110) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-merged.svg) [Add more URLs to link checker / Fix URLs](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1109) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
