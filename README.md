@@ -10,7 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-merged.svg) [Remove Bolt-CMS (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1120) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
+- ![](./assets/pr-merged.svg) [Remove Bolt-CMS (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1120) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 days ago)
 - ![](./assets/pr-merged.svg) [feat: Add Viber, Spacehey, Neocities, Dreamwidth, Pillowfort](https://github.com/techno-tim/littlelink-server/pull/716) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove Exbin (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1115) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove YoutubeDL-Material (Unmiantained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1112) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
