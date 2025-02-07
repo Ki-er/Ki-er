@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat: Add Armenian Library](https://github.com/streetsidesoftware/cspell-dicts/pull/4049) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](../assets/pr-open.svg) [Add Livecodes to Software Development - IDE &amp; Tools](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1137) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-open.svg) [Remove Timeoff Management (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1135) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](../assets/pr-merged.svg) [Remove Bolt-CMS (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1120) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Remove OpenGTS (Unmaintained since Feb 2020)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/266) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Remove Bluemind (Dead Source Code)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/265) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Remove Manager (Dead Link)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/264) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [Remove Airsonic Advanced (Untriaged Issues and vulnerabilities)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/263) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
