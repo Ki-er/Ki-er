@@ -10,7 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-closed.svg) [feat: Add Armenian Library](https://github.com/streetsidesoftware/cspell-dicts/pull/4049) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
+- ![](./assets/pr-closed.svg) [feat: Add Armenian Library](https://github.com/streetsidesoftware/cspell-dicts/pull/4049) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
 - ![](./assets/pr-open.svg) [Add Livecodes to Software Development - IDE &amp; Tools](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1137) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
 - ![](./assets/pr-open.svg) [Remove Timeoff Management (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1135) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove Bolt-CMS (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1120) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago)
