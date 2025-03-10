@@ -1,6 +1,7 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [Remove Traq (Unmaintained, 404 Link)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1193) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Fix URLs and checks](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1194) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-closed.svg) [Remove Traq (Unmaintained, 404 Link)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1193) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove ARRCON (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1192) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Remove Iguana (Unmaintained since Feb 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1172) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-closed.svg) [feat: Add Armenian Library](https://github.com/streetsidesoftware/cspell-dicts/pull/4049) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Remove B2 Evolution (Unmaintained since September 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/271) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Update Umami Demo Link](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/270) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Update ACP-Admin Description](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/269) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [Update Pagure Platform ](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/267) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
