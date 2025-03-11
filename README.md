@@ -10,9 +10,9 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [Fix URLs and checks](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1194) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
-- ![](./assets/pr-closed.svg) [Remove Traq (Unmaintained, 404 Link)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1193) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
-- ![](./assets/pr-open.svg) [Remove ARRCON (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1192) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-open.svg) [Fix URLs and checks](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1194) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
+- ![](./assets/pr-closed.svg) [Remove Traq (Unmaintained, 404 Link)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1193) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
+- ![](./assets/pr-open.svg) [Remove ARRCON (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1192) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-merged.svg) [Remove Iguana (Unmaintained since Feb 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1172) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-closed.svg) [feat: Add Armenian Library](https://github.com/streetsidesoftware/cspell-dicts/pull/4049) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add Livecodes to Software Development - IDE &amp; Tools](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1137) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
