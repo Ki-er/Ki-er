@@ -10,8 +10,8 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [Remove Fileshelter (Unmaintaied since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1195) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
-- ![](./assets/pr-open.svg) [Fix URLs and checks](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1194) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
+- ![](./assets/pr-merged.svg) [Remove Fileshelter (Unmaintaied since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1195) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-merged.svg) [Fix URLs and checks](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1194) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-closed.svg) [Remove Traq (Unmaintained, 404 Link)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1193) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-merged.svg) [Remove ARRCON (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1192) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-merged.svg) [Remove Iguana (Unmaintained since Feb 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1172) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
