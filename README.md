@@ -10,7 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [Remove Apache HTML Server (Unmaintained Since 2017, Dead Source Code)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1203) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-closed.svg) [Remove Apache HTML Server (Unmaintained Since 2017, Dead Source Code)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1203) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Add more links to url-check](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1201) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-merged.svg) [Remove Touca (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1199) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-merged.svg) [Remove Meemo (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1198) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
