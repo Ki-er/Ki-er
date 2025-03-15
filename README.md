@@ -10,6 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [Remove Apache HTML Server (Unmaintained Since 2017, Dead Source Code)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1203) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Add more links to url-check](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1201) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-merged.svg) [Remove Touca (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1199) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-merged.svg) [Remove Meemo (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1198) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
@@ -19,7 +20,6 @@ I collaborate on a few different projects and repos:
 - ![](./assets/pr-closed.svg) [Remove Traq (Unmaintained, 404 Link)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1193) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
 - ![](./assets/pr-merged.svg) [Remove ARRCON (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1192) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
 - ![](./assets/pr-merged.svg) [Remove Iguana (Unmaintained since Feb 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1172) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
-- ![](./assets/pr-closed.svg) [feat: Add Armenian Library](https://github.com/streetsidesoftware/cspell-dicts/pull/4049) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
