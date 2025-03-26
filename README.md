@@ -10,6 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [Remove inactive projects from bot building](https://github.com/avelino/awesome-go/pull/5654) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (today)
 - ![](./assets/pr-open.svg) [Add Featbit](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1238) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Add Feature Toggle Tag](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1237) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Remove Soketi (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1233) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
@@ -19,7 +20,6 @@ I collaborate on a few different projects and repos:
 - ![](./assets/pr-merged.svg) [Remove Hackershare (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1209) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add TrueConf](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1208) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-closed.svg) [Remove Apache HTML Server (Unmaintained Since 2017, Dead Source Code)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1203) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
-- ![](./assets/pr-merged.svg) [Add more links to url-check](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1201) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
