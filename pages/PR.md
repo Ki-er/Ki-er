@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Add Featbit](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1238) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Add Feature Toggle Tag](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1237) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Soketi (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1233) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-merged.svg) [Add CRM tag](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1232) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-merged.svg) [Remove COD (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1220) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Remove twiki (Unmaintained since 2018)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/306) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Update Hadmean to Dashpress](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/303) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Remove Silverstrike (Unmaintained, Dead Links)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/302) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-closed.svg) [Remove Trudesk (Unmaintained since July 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/301) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-closed.svg) [Remove Lavagna (Unmainated since March 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/300) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
