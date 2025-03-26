@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [feat: Add Bengali Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/4196) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](../assets/pr-open.svg) [Remove inactive projects from bot building](https://github.com/avelino/awesome-go/pull/5654) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (today)
 - ![](../assets/pr-open.svg) [Add Featbit](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1238) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Add Feature Toggle Tag](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1237) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Soketi (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1233) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-closed.svg) [Remove Pachno (Unmaintained, No PHP8 Support)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/308) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Remove Jirafeau (Unmaintained since July 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/307) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Remove twiki (Unmaintained since 2018)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/306) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [Update Hadmean to Dashpress](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/303) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [Remove Silverstrike (Unmaintained, Dead Links)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/302) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
