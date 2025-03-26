@@ -10,7 +10,7 @@ I collaborate on a few different projects and repos:
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [fix: Add words to Unity](https://github.com/streetsidesoftware/cspell-dicts/pull/4197) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
+- ![](./assets/pr-merged.svg) [fix: Add words to Unity](https://github.com/streetsidesoftware/cspell-dicts/pull/4197) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](./assets/pr-open.svg) [feat: Add Bengali Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/4196) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (today)
 - ![](./assets/pr-open.svg) [Remove inactive projects from bot building](https://github.com/avelino/awesome-go/pull/5654) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (today)
 - ![](./assets/pr-open.svg) [Add Featbit](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1238) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
