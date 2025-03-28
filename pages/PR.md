@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Remove Open Event Server (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1243) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [fix: Add words to Unity](https://github.com/streetsidesoftware/cspell-dicts/pull/4197) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 days ago)
 - ![](../assets/pr-open.svg) [feat: Add Bengali Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/4196) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 days ago)
 - ![](../assets/pr-open.svg) [Remove inactive projects from bot building](https://github.com/avelino/awesome-go/pull/5654) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (2 days ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Remove Euterpe (Outdated ICU Version)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/311) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Remove Instiki (Unmaintained since March 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/309) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-closed.svg) [Remove Pachno (Unmaintained, No PHP8 Support)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/308) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [Remove Jirafeau (Unmaintained since July 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/307) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
