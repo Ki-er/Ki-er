@@ -2,7 +2,7 @@
 
 - ![](../assets/pr-open.svg) [Remove Open Event Server (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1243) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-merged.svg) [fix: Add words to Unity](https://github.com/streetsidesoftware/cspell-dicts/pull/4197) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 days ago)
-- ![](../assets/pr-open.svg) [feat: Add Bengali Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/4196) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 days ago)
+- ![](../assets/pr-closed.svg) [feat: Add Bengali Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/4196) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 days ago)
 - ![](../assets/pr-open.svg) [Remove inactive projects from bot building](https://github.com/avelino/awesome-go/pull/5654) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (3 days ago)
 - ![](../assets/pr-open.svg) [Add Featbit](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1238) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](../assets/pr-open.svg) [Add Feature Toggle Tag](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1237) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
