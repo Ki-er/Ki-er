@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Remove Open Web Analytics (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1258) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [feat: Create Gaelic Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/4223) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 day ago)
 - ![](../assets/pr-merged.svg) [Fix txtdot Website Link (404)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1250) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](../assets/pr-open.svg) [Add Media Management Tag](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1249) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Remove This week in past demo (Timesout)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/316) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-closed.svg) [Remove Raveberry (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/315) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Exclude links from checker / Remove Hackershare demo](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/314) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [Remove Eonza Demo](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/313) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
