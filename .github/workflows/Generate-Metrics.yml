@@ -24,7 +24,7 @@ jobs:
           user: Ki-er
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: America/New_York
+          config_timezone: Europe/London
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
