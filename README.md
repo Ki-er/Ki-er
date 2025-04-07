@@ -4,6 +4,8 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [Move Flipt to Feature Toggle](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1279) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-open.svg) [Add Dawarich](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1278) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Remove Rapido (Unmaintained since Feb 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1277) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Remove Lufi (Unmaintained since December 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1276) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [Remove Dalton Plan (Unmaintained since Aug 2024, On Hold)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1275) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
@@ -12,8 +14,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-open.svg) [Add ExpenseOwl](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1263) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
 - ![](./assets/pr-merged.svg) [Remove Open Web Analytics (Unmaintained since March 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1258) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 days ago)
 - ![](./assets/pr-merged.svg) [feat: Create Gaelic Dictionary](https://github.com/streetsidesoftware/cspell-dicts/pull/4223) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 week ago)
-- ![](./assets/pr-merged.svg) [Fix txtdot Website Link (404)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1250) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
-- ![](./assets/pr-open.svg) [Add Media Management Tag](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1249) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
