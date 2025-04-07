@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Move Flipt to Feature Toggle](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1279) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Add Dawarich](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1278) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Rapido (Unmaintained since Feb 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1277) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Lufi (Unmaintained since December 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1276) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Dalton Plan (Unmaintained since Aug 2024, On Hold)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1275) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Add Digislides](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/364) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Add Digiwall](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/363) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Add Digiview](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/355) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-closed.svg) [Add Exatorrent](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/354) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [Added links to URL Check and Removed Psychic  URL](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/334) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
