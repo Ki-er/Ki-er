@@ -5,7 +5,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 # 🔨 My recent Pull Requests
 
 - ![](./assets/pr-open.svg) [Update project descriptions starting with A](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1286) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
-- ![](./assets/pr-open.svg) [Remove Wantgunsbin (Unmaintained since April 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1285) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-merged.svg) [Remove Wantgunsbin (Unmaintained since April 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1285) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-merged.svg) [Update Hoarder to Karakeep](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1284) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-open.svg) [Add ChartDB](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1280) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](./assets/pr-merged.svg) [Remove Amanda (Unmaintained since May 2023)](https://github.com/awesome-foss/awesome-sysadmin/pull/612) on [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (3 days ago)
