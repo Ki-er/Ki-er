@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Remove Sorry Cypress (Unmaintained since April 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1301) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Add Aleph](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1300) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-open.svg) [General clean up of projects beginning with C](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1299) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-merged.svg) [General clean up of projects beginning with B.](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1296) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-closed.svg) [Remove Duplicate Opentrashmail](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/560) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-closed.svg) [Remove EmuLinkerSF (Unmaintaned since Jan 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/521) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-closed.svg) [Remove Django Todo (Unmaintained since November 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/405) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [Add Shelf](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/404) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
