@@ -5,7 +5,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 # 🔨 My recent Pull Requests
 
 - ![](./assets/pr-open.svg) [Add VoucherVault](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1303) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
-- ![](./assets/pr-open.svg) [Remove Sorry Cypress (Unmaintained since April 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1301) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
+- ![](./assets/pr-merged.svg) [Remove Sorry Cypress (Unmaintained since April 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1301) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](./assets/pr-open.svg) [Add Aleph](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1300) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-open.svg) [General clean up of projects beginning with C](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1299) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-merged.svg) [General clean up of projects beginning with B.](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1296) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
