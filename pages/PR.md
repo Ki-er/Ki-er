@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [General clean up of projects beginning with G](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1323) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [General clean up of projects beginning with D, E and F](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1318) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](../assets/pr-merged.svg) [Remove Dat Project (Unmaintained organisation)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1317) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](../assets/pr-merged.svg) [Remove Organizr (Unmaintained since April 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1316) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Fix Daneecloud (404. Login required for demo)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/602) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-closed.svg) [Fix Daneecloud](https://github.com/forks-by-kieran/awesome-selfhosted-data/pull/1) on [forks-by-kieran/awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-closed.svg) [Add end user specificity](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/591) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [Remove Hasty Paste (Archived)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/590) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
