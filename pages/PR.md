@@ -1,7 +1,7 @@
 ### 🔨 Recent 100 PRs
 
 - ![](../assets/pr-open.svg) [General clean up of projects beginning with H and I](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1324) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
-- ![](../assets/pr-open.svg) [General clean up of projects beginning with G](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1323) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
+- ![](../assets/pr-merged.svg) [General clean up of projects beginning with G](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1323) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](../assets/pr-merged.svg) [General clean up of projects beginning with D, E and F](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1318) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 days ago)
 - ![](../assets/pr-merged.svg) [Remove Dat Project (Unmaintained organisation)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1317) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 days ago)
 - ![](../assets/pr-merged.svg) [Remove Organizr (Unmaintained since April 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1316) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 days ago)
