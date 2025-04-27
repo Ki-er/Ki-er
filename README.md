@@ -4,6 +4,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [General clean up of projects beginning with  N and O](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1335) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-closed.svg) [Remove μlogger (Unmaintained since April 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1332) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-open.svg) [General clean up of projects beginning with M](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1330) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](./assets/pr-open.svg) [General clean up of projects beginning with J, K and L](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1325) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 days ago)
@@ -13,7 +14,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-merged.svg) [Remove Dat Project (Unmaintained organisation)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1317) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove Organizr (Unmaintained since April 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1316) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add VoucherVault](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1303) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
-- ![](./assets/pr-merged.svg) [Remove Sorry Cypress (Unmaintained since April 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1301) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
