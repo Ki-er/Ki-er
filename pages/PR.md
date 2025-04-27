@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [General clean up of projects beginning with  N and O](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1335) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-closed.svg) [Remove μlogger (Unmaintained since April 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1332) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](../assets/pr-open.svg) [General clean up of projects beginning with M](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1330) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](../assets/pr-open.svg) [General clean up of projects beginning with J, K and L](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1325) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 days ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Update Patreon and Bluesky logos](https://github.com/techno-tim/littlelink-server/pull/581) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 year ago)
 - ![](../assets/pr-closed.svg) [Remove Smashing (Unmaintained since March 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/612) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-closed.svg) [Remove Icecast (Unmaintained since 13 March 2022)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/607) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-closed.svg) [Remove Icecast (No Commits since March 2022)](https://github.com/forks-by-kieran/awesome-selfhosted-data/pull/2) on [forks-by-kieran/awesome-selfhosted-data](https://github.com/forks-by-kieran/awesome-selfhosted-data) (1 year ago)
