@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Add Statistics for Strava](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1351) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Move Kiwix Tag](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1350) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [General clean up of projects beginning with P and Q](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1344) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](../assets/pr-open.svg) [General clean up of projects beginning with  N and O](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1335) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-closed.svg) [Remove μlogger (Unmaintained since April 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1332) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Remove Podify (Unmaintained since April 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/678) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Add Various Buttons](https://github.com/techno-tim/littlelink-server/pull/605) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 year ago)
 - ![](../assets/pr-merged.svg) [Remove My Mind (Unmaintained since April 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/668) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [Update Patreon and Bluesky logos](https://github.com/techno-tim/littlelink-server/pull/581) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 year ago)
-- ![](../assets/pr-closed.svg) [Remove Smashing (Unmaintained since March 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/612) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
