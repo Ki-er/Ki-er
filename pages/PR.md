@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Remove Readymedia (Unmaintained since May 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1353) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Add Statistics for Strava](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1351) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-merged.svg) [Move Kiwix Tag](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1350) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-open.svg) [General clean up of projects beginning with P and Q](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1344) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Add Digimerge](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/680) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Remove Podify (Unmaintained since April 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/678) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Add Various Buttons](https://github.com/techno-tim/littlelink-server/pull/605) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 year ago)
-- ![](../assets/pr-merged.svg) [Remove My Mind (Unmaintained since April 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/668) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
