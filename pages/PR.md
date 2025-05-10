@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Create Health and Fitness Tag](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1363) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Readymedia (Unmaintained since May 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1353) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](../assets/pr-open.svg) [Add Statistics for Strava](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1351) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 days ago)
 - ![](../assets/pr-merged.svg) [Move Kiwix Tag](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1350) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 days ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-closed.svg) [Add Dockge](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/684) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Add Digimerge](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/680) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
 - ![](../assets/pr-merged.svg) [Remove Podify (Unmaintained since April 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/678) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 year ago)
-- ![](../assets/pr-merged.svg) [Add Various Buttons](https://github.com/techno-tim/littlelink-server/pull/605) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (1 year ago)
