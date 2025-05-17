@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [Remove Jump (Unmaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1377) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
+- ![](../assets/pr-merged.svg) [Remove Jump (Unmaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1377) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-merged.svg) [Create Health and Fitness Tag](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1363) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-open.svg) [Remove Readymedia (Unmaintained since May 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1353) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-open.svg) [Add Statistics for Strava](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1351) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
