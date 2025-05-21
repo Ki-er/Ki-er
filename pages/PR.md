@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-merged.svg) [Remove turndown (Unmaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1390) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-merged.svg) [Remove Gitblit (Unmaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1389) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Remove Releasebell (Invalid for awesome-selfhosted)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1384) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](../assets/pr-merged.svg) [Remove Ltsu (Unmaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1383) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
 - ![](../assets/pr-merged.svg) [Remove Jump (Unmaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1377) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Remove betanin (Unmaintained since December 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1050) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
 - ![](../assets/pr-merged.svg) [Remove Anuko (Unmaintained since December 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1049) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
 - ![](../assets/pr-merged.svg) [Remove Iconcapatcha (Unmaintained since December 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1048) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
-- ![](../assets/pr-closed.svg) [Rename what-to-cook?.yml to what-to-cook.yml](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1044) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
-- ![](../assets/pr-merged.svg) [Add Buttons](https://github.com/techno-tim/littlelink-server/pull/675) on [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) (8 months ago)
