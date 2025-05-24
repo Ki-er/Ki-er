@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [Remove DocKing (Unmaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1391) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-merged.svg) [Remove DocKing (Unmaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1391) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Remove turndown (Unmaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1390) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](../assets/pr-merged.svg) [Remove Gitblit (Unmaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1389) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](../assets/pr-merged.svg) [Remove Releasebell (Invalid for awesome-selfhosted)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1384) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
