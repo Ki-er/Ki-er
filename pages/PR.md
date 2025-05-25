@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Remove Trudesk (Unmaintained since July 2024, Broken functionality)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1400) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Fix Omeka S Description](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1399) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Eqivo (Unmaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1398) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Remove DocKing (Unmaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1391) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Rename Photo and Video Galleries](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1075) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
 - ![](../assets/pr-merged.svg) [Remove Github stats from Inboxen](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1054) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
 - ![](../assets/pr-merged.svg) [Remove Dim (Unmaintained since December 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1052) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
-- ![](../assets/pr-merged.svg) [Remove Bsimp (Unmaintained since December 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1051) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
