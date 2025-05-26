@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Remove Revolt (Invalid for awesome-selfhosted)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1402) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Mailcatcher (Umaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1401) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-open.svg) [Remove Trudesk (Unmaintained since July 2024, Broken functionality)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1400) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
 - ![](../assets/pr-merged.svg) [Fix Omeka S Description](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1399) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Remove Noisedash (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1077) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
 - ![](../assets/pr-merged.svg) [Add Localess](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1076) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
 - ![](../assets/pr-merged.svg) [Rename Photo and Video Galleries](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1075) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
-- ![](../assets/pr-merged.svg) [Remove Github stats from Inboxen](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1054) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 months ago)
