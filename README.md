@@ -4,7 +4,7 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [Remove Gitolite (Unmaintained since May 2024), Fix InvoiceNinja License](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1410) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-merged.svg) [Remove Gitolite (Unmaintained since May 2024), Fix InvoiceNinja License](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1410) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-open.svg) [General clean up of projects beginning with R](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1403) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](./assets/pr-open.svg) [Remove Revolt (Invalid for awesome-selfhosted)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1402) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
 - ![](./assets/pr-merged.svg) [Remove Mailcatcher (Umaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1401) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
