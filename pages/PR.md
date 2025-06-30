@@ -1,6 +1,6 @@
 ### 🔨 Recent 100 PRs
 
-- ![](../assets/pr-open.svg) [Remove Speed Test by OpenSpeedTest™ (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1450) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
+- ![](../assets/pr-closed.svg) [Remove Speed Test by OpenSpeedTest™ (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1450) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-merged.svg) [Remove Mars Server (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1449) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-merged.svg) [Remove HRConvert2 (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1448) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
 - ![](../assets/pr-merged.svg) [Remove Coppermine (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1447) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
