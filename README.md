@@ -4,6 +4,8 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [Exclude Dnote (Simple / No maintenance required)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1476) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](./assets/pr-open.svg) [Remove Librum (Unmaintained since July 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1475) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](./assets/pr-closed.svg) [Remove Speed Test by OpenSpeedTest™ (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1450) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove Mars Server (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1449) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove HRConvert2 (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1448) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
@@ -12,8 +14,6 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 - ![](./assets/pr-merged.svg) [Remove Motor Admin (Unmaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1413) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
 - ![](./assets/pr-merged.svg) [Remove Gitolite (Unmaintained since May 2024), Fix InvoiceNinja License](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1410) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
 - ![](./assets/pr-merged.svg) [General clean up of projects beginning with R](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1403) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
-- ![](./assets/pr-closed.svg) [Remove Revolt (Invalid for awesome-selfhosted)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1402) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
-- ![](./assets/pr-merged.svg) [Remove Mailcatcher (Umaintained since May 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1401) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
 
 <p align="left">
   <a href="https://github.com/KieranRobson/KieranRobson/blob/main/pages/PR.md"><img alt="More Pull Requests" title="More Pull Requests" src="https://custom-icon-badges.demolab.com/badge/-More%20Pull%20Requests-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
