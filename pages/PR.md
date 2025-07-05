@@ -1,5 +1,7 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-open.svg) [Exclude Dnote (Simple / No maintenance required)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1476) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
+- ![](../assets/pr-open.svg) [Remove Librum (Unmaintained since July 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1475) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-closed.svg) [Remove Speed Test by OpenSpeedTest™ (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1450) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
 - ![](../assets/pr-merged.svg) [Remove Mars Server (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1449) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
 - ![](../assets/pr-merged.svg) [Remove HRConvert2 (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1448) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
@@ -97,5 +99,3 @@
 - ![](../assets/pr-merged.svg) [Add Depends Flag to Youtube and Spotify Apps](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1089) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 months ago)
 - ![](../assets/pr-closed.svg) [Add Livecodes](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1086) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 months ago)
 - ![](../assets/pr-merged.svg) [Add Tegon](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1085) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 months ago)
-- ![](../assets/pr-closed.svg) [Add Snapp to URL Shortner](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1084) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 months ago)
-- ![](../assets/pr-merged.svg) [Remove Kbin and associated link (Unmaintained since Dec 2023)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1083) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 months ago)
