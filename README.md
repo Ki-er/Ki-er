@@ -4,8 +4,8 @@ Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Scienc
 
 # 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [Remove Dnote (Unmaintained since July 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1476) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
-- ![](./assets/pr-merged.svg) [Remove Librum (Unmaintained since July 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1475) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (5 days ago)
+- ![](./assets/pr-open.svg) [Remove Dnote (Unmaintained since July 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1476) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 days ago)
+- ![](./assets/pr-merged.svg) [Remove Librum (Unmaintained since July 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1475) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (6 days ago)
 - ![](./assets/pr-closed.svg) [Remove Speed Test by OpenSpeedTest™ (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1450) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove Mars Server (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1449) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove HRConvert2 (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1448) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago)
