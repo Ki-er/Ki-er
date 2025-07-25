@@ -1,4 +1,4 @@
-# 👋 Kieran Robson (ʜᴇ/ʜɪᴍ)
+# 👋 Kieran (ʜᴇ/ʜɪᴍ)
 
 Hi! I am a BSc Computer Science Graduate and PhD Candidate in Information Sciences exploring meaning making and information. Outside of studies I have a big interest in self hosting and lists! I create discord bots and other small projects that aim to make other's lives easier or more fun!
 
