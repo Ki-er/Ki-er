@@ -1,5 +1,6 @@
 ### 🔨 Recent 100 PRs
 
+- ![](../assets/pr-merged.svg) [Remove Retrospring (Archived)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1622) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (today)
 - ![](../assets/pr-merged.svg) [Remove Dnote (Unmaintained since July 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1476) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
 - ![](../assets/pr-merged.svg) [Remove Librum (Unmaintained since July 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1475) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 month ago)
 - ![](../assets/pr-closed.svg) [Remove Speed Test by OpenSpeedTest™ (Unmaintained since June 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1450) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 months ago)
@@ -98,4 +99,3 @@
 - ![](../assets/pr-merged.svg) [Remove Goeland (Unmaintained since Jan 2024)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1091) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (7 months ago)
 - ![](../assets/pr-merged.svg) [Add Depends Flag to Youtube and Spotify Apps](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1089) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (7 months ago)
 - ![](../assets/pr-closed.svg) [Add Livecodes](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1086) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (8 months ago)
-- ![](../assets/pr-merged.svg) [Add Tegon](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1085) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (8 months ago)
