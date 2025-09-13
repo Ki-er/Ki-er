@@ -51,6 +51,8 @@
 
 * [AwesomeResources](https://github.com/forks-by-kieran/AwesomeResources) - An awesome list of computer science related resources.
 
+* [brickstore](https://github.com/forks-by-kieran/brickstore) - An offline BrickLink inventory management tool.
+
 * [CONTRIBUTING](https://github.com/forks-by-kieran/CONTRIBUTING)
 
 * [CrimsonTome](https://github.com/forks-by-kieran/CrimsonTome) - Config files for my GitHub profile.
